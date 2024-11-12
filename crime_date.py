@@ -1,6 +1,6 @@
 """
 Parker Jackson
-2024
+Nov 2024
 Class that uses info pulled from PDF online to provide different case info.
 """
 class CrimeDate:
@@ -14,10 +14,9 @@ class CrimeDate:
 
     def __repr__(self):
         incident_details = "\n\n".join(repr(incident) for incident in self.incidents)
-        return f"Crime Date: {self.date}\n" \
+        return f"\n{self.date}\n" \
                f"Total Incidents: {len(self.incidents)}\n" \
                f"{incident_details}"
-
 
 class Incident:
     def __init__(self, crime_date, location, disposition, reported_time, nature_of_crime, case_number=None):
@@ -31,7 +30,5 @@ class Incident:
     def __repr__(self):
         return f"Crime Report:\n" \
                f"  Location: {self.location}\n" \
-               f"  Disposition: {self.disposition}\n" \
                f"  Reported Time: {self.reported_time}\n" \
                f"  Nature of Crime: {self.nature_of_crime}\n" \
-               f"  Case Number: {self.case_number}"
