@@ -73,27 +73,28 @@ def main():
 
         crimedate = CrimeDate(split_text[3])
 
+        # if no reports, add to crimedate list and move on
         if split_text[4] == "-":
             print("no reports")
             day_reports.append(crimedate)
             continue
 
-        for i, line in enumerate(split_text):
-            # Get Date
-            if i == 3:
-                crimedate = CrimeDate(line)
-
-            # Check for no reports
-            elif i == 4:
-                if line == "-":
-                    # No reports
-                    print("No reports")
-                    break
-
-            # Check number of offenses
+        # get number of offenses, 2nd to last line (-2), last word = # of offenses
+        total_offenses = int(split_text[-2].split()[-1])
             
+        num_offenses = 0        # keep count of the number of offenses we've tracked here
+        index = 7               # first index with case info
+
+        while num_offenses < total_offenses:
+            # get location
+            if (index - 7) % 4 == 0:
+                location = split_text[index].split()[:2]
+                print(location)
+
+                # add increment
+
 
         day_reports.append(crimedate)
-        # break
+        break
 
 main()
