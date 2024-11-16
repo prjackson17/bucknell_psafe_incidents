@@ -26,10 +26,10 @@ class CrimeDate:
 class Incident:
     def __init__(self, crime_date, location, disposition, reported_time, nature_of_crime, case_number=None):
         self.location = location
-        self.disposition = disposition
+        # self.disposition = disposition
         self.reported_time = reported_time
         self.nature_of_crime = nature_of_crime
-        self.case_number = case_number
+        # self.case_number = case_number
         crime_date.add_incident(self)  # Add this incident to the specified CrimeDate
 
     def __repr__(self):

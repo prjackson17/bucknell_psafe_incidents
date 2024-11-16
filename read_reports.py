@@ -2,7 +2,7 @@
 Parker Jackson
 Nov 2024
 Reading Bucknell Public Safety info
-Test file to get started
+Test file to get started, prints out info from PDF
 """
 
 import io
@@ -10,10 +10,14 @@ import requests
 from datetime import datetime, timedelta
 from PyPDF2 import PdfReader
 from crime_date import CrimeDate, Incident
+import urllib3
+
+# disable warnings from unverified website
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'}
 
-two_days_ago = datetime.now() - timedelta(days=3)
+two_days_ago = datetime.now() - timedelta(days=4)
 
 # Format the date as MMDDYY
 date_str = two_days_ago.strftime('%m%d%y')
@@ -33,9 +37,9 @@ for page_num in range(len(pdf_file.pages)):
 
     # print(text)
 
-    for line in text.splitlines():
+    for i, line in enumerate(text.splitlines()):
         # invalid_lines = ['']
-        print(line)
+        print(i, line)
 
 # # Print the crime reports
 # for report in crime_reports:

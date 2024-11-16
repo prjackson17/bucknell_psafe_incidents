@@ -71,11 +71,29 @@ def main():
         # Read entry data
         split_text = text1.splitlines()
 
-        pdf_date = split_text[3]            # date
-        crimedate = CrimeDate(pdf_date)
+        crimedate = CrimeDate(split_text[3])
+
+        if split_text[4] == "-":
+            print("no reports")
+            day_reports.append(crimedate)
+            continue
+
+        for i, line in enumerate(split_text):
+            # Get Date
+            if i == 3:
+                crimedate = CrimeDate(line)
+
+            # Check for no reports
+            elif i == 4:
+                if line == "-":
+                    # No reports
+                    print("No reports")
+                    break
+
+            # Check number of offenses
+            
 
         day_reports.append(crimedate)
-
-
+        # break
 
 main()
