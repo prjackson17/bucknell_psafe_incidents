@@ -7,16 +7,21 @@ class CrimeDate:
     def __init__(self, date):
         self.date = date
         self.incidents = []  # List to hold all incidents for this date
+        self.num_incidents = len(self.incidents)
 
     def add_incident(self, incident):
         """Add an incident to this date's list of incidents."""
         self.incidents.append(incident)
 
     def __repr__(self):
-        incident_details = "\n\n".join(repr(incident) for incident in self.incidents)
-        return f"\n{self.date}\n" \
-               f"Total Incidents: {len(self.incidents)}\n" \
-               f"{incident_details}"
+        if self.num_incidents == 0:
+            return f"\n{self.date}\nNo incidents"
+        else:
+            incident_details = "\n\n".join(repr(incident) for incident in self.incidents)
+            return f"\n{self.date}\n" \
+                f"Total Incidents: {len(self.incidents)}\n" \
+                f"{incident_details}"
+
 
 class Incident:
     def __init__(self, crime_date, location, disposition, reported_time, nature_of_crime, case_number=None):
@@ -31,4 +36,4 @@ class Incident:
         return f"Crime Report:\n" \
                f"  Location: {self.location}\n" \
                f"  Reported Time: {self.reported_time}\n" \
-               f"  Nature of Crime: {self.nature_of_crime}\n" \
+               f"  Nature of Crime: {self.nature_of_crime}\n"
