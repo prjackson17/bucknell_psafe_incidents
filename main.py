@@ -108,7 +108,7 @@ def main():
 
         # Save the JSON data to a file named by the current date
         output_folder = "reports"
-        output_filename = f"{output_folder}/crime_log_{current_date.strftime('%y-%m-%d')}.json"
+        output_filename = f"{output_folder}/crime_log_{current_date.strftime('%Y-%m-%d')}.json"
         
         # Ensure the folder exists
         os.makedirs(output_folder, exist_ok=True)
