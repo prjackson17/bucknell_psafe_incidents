@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "05/06/2025",
+        "Time": "02:48",
+        "Location": "23 University Ave",
+        "Nature": "Other Offenses",
+        "Case Number": "2025-5972",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/05/2025",
+        "Time": "20:00",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5980",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "05/06/2025",
+        "Time": "01:24",
+        "Location": "Swart Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-5971",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/06/2025",
+        "Time": "23:00",
+        "Location": "Bison Kitchen, ELC first floor",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-6017",
+        "Disposition": "Open"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "05/12/2025",
+        "Time": "09:12",
+        "Location": "Vedder Hall Volleyball Court",
+        "Nature": "Vandalism",
+        "Case Number": "2025-6258",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "05/12/2025",
+        "Time": "00:37",
+        "Location": "Swarts Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-6247",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/12/2025",
+        "Time": "19:27",
+        "Location": "Swartz Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-6276",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

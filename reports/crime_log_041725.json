@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "04/17/2025",
+        "Time": "00:24",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4988",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/17/2025",
+        "Time": "01:26",
+        "Location": "Graham Building",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-4994",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/17/2025",
+        "Time": "03:10",
+        "Location": "ELC/Malesardi Quad",
+        "Nature": "Drunkenness",
+        "Case Number": "2025-4999",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

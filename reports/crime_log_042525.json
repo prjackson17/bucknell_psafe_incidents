@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "04/25/2025",
+        "Time": "07:16",
+        "Location": "Parking lot behing Sp Int. Hs St. George",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5381",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "04/25/2025",
+        "Time": "14:05",
+        "Location": "Bison (L.C.)",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-5404",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "04/25/2025",
+        "Time": "18:50",
+        "Location": "South Campus Apartments #3",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5417",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/25/2025",
+        "Time": "21:14",
+        "Location": "Christy Mathewson-Memorial Stadium",
+        "Nature": "Disorderly Conduct, Drunkenness",
+        "Case Number": "2025-5427",
+        "Disposition": "Open"
+    }
+]

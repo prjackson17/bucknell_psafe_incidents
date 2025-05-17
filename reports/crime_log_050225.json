@@ -1,0 +1,50 @@
+[
+    {
+        "Date": "05/02/2025",
+        "Time": "00:01",
+        "Location": "Smith Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-5752",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/02/2025",
+        "Time": "08:39",
+        "Location": "400 St. George",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5764",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "05/02/2025",
+        "Time": "12:34",
+        "Location": "Roberts Hall",
+        "Nature": "Assault",
+        "Case Number": "2025-5776",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "05/02/2025",
+        "Time": "18:06",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-5801",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "05/02/2025",
+        "Time": "16:52",
+        "Location": "on campus",
+        "Nature": "Forcible Rape",
+        "Case Number": "2025-5794",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "05/02/2025",
+        "Time": "23:34",
+        "Location": "Swartz Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-5812",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

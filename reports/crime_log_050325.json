@@ -1,0 +1,50 @@
+[
+    {
+        "Date": "05/03/2025",
+        "Time": "17:30",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-5853",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/03/2025",
+        "Time": "18:42",
+        "Location": "Lot 39",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-5856",
+        "Disposition": "Closed by a Criminal Arrest"
+    },
+    {
+        "Date": "05/03/2025",
+        "Time": "00:55",
+        "Location": "Chi Phi",
+        "Nature": "Drug Abuse Sale, Possession",
+        "Case Number": "2025-5818",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "05/03/2025",
+        "Time": "10:22",
+        "Location": "Criminal Mischief",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5831",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "05/03/2025",
+        "Time": "10:41",
+        "Location": "McDonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5833",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "05/03/2025",
+        "Time": "19:26",
+        "Location": "Mcdonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5858",
+        "Disposition": "Open"
+    }
+]

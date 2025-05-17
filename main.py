@@ -7,13 +7,13 @@ Main execution file
 
 import io
 import json
-from venv import create
 import requests
 from datetime import datetime, timedelta
 import fitz
 import urllib3
 from openai import OpenAI
 from prettytable import PrettyTable
+import os
 
 # disable warnings from unverified website
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -106,6 +106,16 @@ def main():
         # add the entries to the all_entries list
         all_entries.extend(entries)
 
+        # Save the JSON data to a file named by the current date
+        output_folder = "reports"
+        output_filename = f"{output_folder}/crime_log_{date_str}.json"
+        
+        # Ensure the folder exists
+        os.makedirs(output_folder, exist_ok=True)
+        
+        with open(output_filename, "w") as json_file:
+            json.dump(entries, json_file, indent=4)
+
 
     # Print as table
     table = PrettyTable()
@@ -121,9 +131,5 @@ def main():
             entry.get("Disposition", "")
         ])
     print(table)
-
-    # Save the JSON data to a file
-    with open("crime_log.json", "w") as json_file:
-        json.dump(all_entries, json_file, indent=4)
 
 main()

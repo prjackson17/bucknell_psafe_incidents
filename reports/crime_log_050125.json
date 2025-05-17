@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "05/01/2025",
+        "Time": "00:20",
+        "Location": "First year quad",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-5699",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/01/2025",
+        "Time": "00:49",
+        "Location": "North of Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-5702",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "05/01/2025",
+        "Time": "08:22",
+        "Location": "Swartz Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-5713",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "05/01/2025",
+        "Time": "12:22",
+        "Location": "Mcdonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-5723",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "05/01/2025",
+        "Time": "19:05",
+        "Location": "7th and Moore",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-5742",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]
