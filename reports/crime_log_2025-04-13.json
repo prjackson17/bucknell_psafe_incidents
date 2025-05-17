@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "04/13/2025",
+        "Time": "01:07",
+        "Location": "Hunt Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-4807",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/13/2025",
+        "Time": "00:39",
+        "Location": "Swartz Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4805",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "04/13/2025",
+        "Time": "15:27",
+        "Location": "Chi Phi",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4838",
+        "Disposition": "Open"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "02/13/2025",
+        "Time": "10:59",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-1802",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "02/13/2025",
+        "Time": "13:08",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-1810",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "02/13/2025",
+        "Time": "13:37",
+        "Location": "64 University Ave",
+        "Nature": "Vandalism",
+        "Case Number": "2025-1812",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "02/13/2025",
+        "Time": "14:10",
+        "Location": "Swartz Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-1814",
+        "Disposition": "Open"
+    }
+]

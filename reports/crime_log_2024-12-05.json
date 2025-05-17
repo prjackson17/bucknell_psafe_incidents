@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "12/5/2024",
+        "Time": "01:24",
+        "Location": "Vedder Hall",
+        "Nature": "Fraud",
+        "Case Number": "2024-15573",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "12/3/2024",
+        "Time": "09:00",
+        "Location": "Lot 50",
+        "Nature": "Other Offenses",
+        "Case Number": "2024-15587",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "12/5/2024",
+        "Time": "23:24",
+        "Location": "Lot 71",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-15621",
+        "Disposition": "Open"
+    }
+]

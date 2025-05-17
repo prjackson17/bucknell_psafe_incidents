@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "04/06/2025",
+        "Time": "00:00",
+        "Location": "Smith Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4477",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "04/04/2025",
+        "Time": "20:00",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4519",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "04/04/2025",
+        "Time": "08:00",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4520",
+        "Disposition": "Case Under Investigation"
+    }
+]

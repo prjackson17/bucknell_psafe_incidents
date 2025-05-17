@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "11/18/2024",
+        "Time": "09:10",
+        "Location": "Harris Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-15020",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "11/18/2024",
+        "Time": "09:38",
+        "Location": "Harris Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-15023",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "11/18/2024",
+        "Time": "16:36",
+        "Location": "Langone Center",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-15036",
+        "Disposition": "Open"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "1/25/2025",
+        "Time": "11:00 PM",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-0865",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "1/26/2025",
+        "Time": "03:22 PM",
+        "Location": "Swartz Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0886",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "1/26/2025",
+        "Time": "00:40",
+        "Location": "McDonnell Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0862",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

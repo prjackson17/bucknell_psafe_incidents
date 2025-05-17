@@ -1,0 +1,58 @@
+[
+    {
+        "Date": "11/2/2024",
+        "Time": "00:04",
+        "Location": "3rd Floor East Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-14149",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "01:12",
+        "Location": "Trax Hall Ground Floor.",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-14153",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "02:00",
+        "Location": "Hunt Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-14156",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "18:00",
+        "Location": "Carey House",
+        "Nature": "Fraud",
+        "Case Number": "2024-14185",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "20:04",
+        "Location": "23 University Dr.",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-14202",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "23:43",
+        "Location": "Trax Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-14213",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "05:50",
+        "Location": "125 Strohecker Common Area",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-14160",
+        "Disposition": "Open"
+    }
+]

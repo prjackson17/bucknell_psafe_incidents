@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "12/15/2024",
+        "Time": "01:49",
+        "Location": "ROSER Rm 310",
+        "Nature": "Disorderly Conduct / Liquor Laws",
+        "Case Number": "2024-16026",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "12/15/2024",
+        "Time": "02:45",
+        "Location": "Vedder Hall 3rd Floor",
+        "Nature": "Vandalism",
+        "Case Number": "2024-16028",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "12/15/2024",
+        "Time": "12:54",
+        "Location": "Gateway Malesardi",
+        "Nature": "Vandalism",
+        "Case Number": "2024-16039",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "12/15/2024",
+        "Time": "22:50",
+        "Location": "",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-16054",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "12/15/2024",
+        "Time": "13:08",
+        "Location": "Swartz Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-16040",
+        "Disposition": "Open"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "03/01/2025",
+        "Time": "00:50",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-2649",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/01/2025",
+        "Time": "21:20",
+        "Location": "Moore Ave",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-2695",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/01/2025",
+        "Time": "23:46",
+        "Location": "Gateway Malesardi",
+        "Nature": "Vandalism",
+        "Case Number": "2025-2704",
+        "Disposition": "Open"
+    }
+]

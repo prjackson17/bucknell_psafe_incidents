@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Bucknell Public Safety Reports</title>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <h1>Bucknell Public Safety Reports</h1>
@@ -10,6 +12,6 @@
 
     <pre id="reportOutput"></pre>
 
-    <script src="script.js"></script>
+    <canvas id="monthlyChart" width="600" height="400"></canvas>
 </body>
 </html>

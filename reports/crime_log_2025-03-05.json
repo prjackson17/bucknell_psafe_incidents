@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "03/05/2025",
+        "Time": "23:43",
+        "Location": "Taylor Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-2916",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/05/2025",
+        "Time": "23:38",
+        "Location": "Vedder Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-2917",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

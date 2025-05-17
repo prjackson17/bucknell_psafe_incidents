@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "01/23/2025",
+        "Time": "00:23",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0697",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "01/23/2025",
+        "Time": "05:18",
+        "Location": "Kress Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0702",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "02/20/2025",
+        "Time": "01:04",
+        "Location": "McDonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-2157",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "02/20/2025",
+        "Time": "09:19",
+        "Location": "Lot 9",
+        "Nature": "Assault",
+        "Case Number": "2025-2171",
+        "Disposition": "Open"
+    }
+]

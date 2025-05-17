@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "02/27/2025",
+        "Time": "16:05",
+        "Location": "Silbermann",
+        "Nature": "Drug Abuse Sale, Possession",
+        "Case Number": "2025-2568",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/27/2025",
+        "Time": "12:34",
+        "Location": "West Campus Apt 1",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-2559",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/27/2025",
+        "Time": "18:13",
+        "Location": "Langone Center",
+        "Nature": "Sex Offenses",
+        "Case Number": "2025-2577",
+        "Disposition": "Open"
+    }
+]

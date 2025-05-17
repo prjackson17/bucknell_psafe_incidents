@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "12/4/2024",
+        "Time": "23:53",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-15567",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "12/4/2024",
+        "Time": "19:17",
+        "Location": "Coleman Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-15554",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "12/4/2024",
+        "Time": "19:43",
+        "Location": "Lot 71",
+        "Nature": "Other Offenses",
+        "Case Number": "2024-15557",
+        "Disposition": "Open"
+    }
+]

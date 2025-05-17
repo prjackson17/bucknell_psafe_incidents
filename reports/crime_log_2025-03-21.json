@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "03/21/2025",
+        "Time": "06:28",
+        "Location": "Smith Hall",
+        "Nature": "Other Offenses",
+        "Case Number": "2025-3572",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/21/2025",
+        "Time": "22:36",
+        "Location": "Swartz Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-3610",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/21/2025",
+        "Time": "23:32",
+        "Location": "Swartz Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-3615",
+        "Disposition": "Open"
+    }
+]

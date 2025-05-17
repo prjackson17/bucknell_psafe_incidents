@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "12/8/2024",
+        "Time": "06:55",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-15737",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "12/8/2024",
+        "Time": "00:26",
+        "Location": "Art Barn",
+        "Nature": "Drug Abuse Sale, Possession",
+        "Case Number": "2024-15726",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "12/8/2024",
+        "Time": "00:58",
+        "Location": "ELC",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-15729",
+        "Disposition": "Open"
+    }
+]

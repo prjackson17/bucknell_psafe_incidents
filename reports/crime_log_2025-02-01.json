@@ -1,0 +1,66 @@
+[
+    {
+        "Date": "02/01/2025",
+        "Time": "13:37",
+        "Location": "Vedder Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-1212",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "17:34",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1219",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "18:30",
+        "Location": "Roberts Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-1223",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "21:14",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-1233",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "23:07",
+        "Location": "Smith Hall 1st floor",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1239",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "02:45",
+        "Location": "Hillcrest Dr and Stadium blvd off campus",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1190",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "08:30",
+        "Location": "Holmes Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1195",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "02/01/2025",
+        "Time": "14:47",
+        "Location": "McDonnell Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1215",
+        "Disposition": "Closed: Report filed"
+    }
+]

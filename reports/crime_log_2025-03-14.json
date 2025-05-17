@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "10/17/2003",
+        "Time": "18:00",
+        "Location": "Phi Gamma Delta",
+        "Nature": "Sex Offenses",
+        "Case Number": "2025-3260",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "3/13/2025",
+        "Time": "18:00",
+        "Location": "Rooke Chapel",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-3245",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "3/14/2025",
+        "Time": "12:54",
+        "Location": "KLARC",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-3256",
+        "Disposition": "Closed: Report filed"
+    }
+]

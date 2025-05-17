@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "04/02/2025",
+        "Time": "10:00",
+        "Location": "Dana Engineering",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-4308",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "04/03/2025",
+        "Time": "16:40",
+        "Location": "Langone Center",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-4316",
+        "Disposition": "Case Under Investigation"
+    }
+]

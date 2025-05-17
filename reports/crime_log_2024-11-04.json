@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "11/4/2024",
+        "Time": "11:56",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-14285",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "11/4/2024",
+        "Time": "12:37",
+        "Location": "Smith Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-14286",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "11/2/2024",
+        "Time": "22:51",
+        "Location": "Sigma Chi",
+        "Nature": "Sex Offenses",
+        "Case Number": "2024-14306",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

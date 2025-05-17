@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "03/19/2025",
+        "Time": "18:00",
+        "Location": "Hunt Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2025-3528",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "03/19/2025",
+        "Time": "18:00",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-3532",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "03/20/2025",
+        "Time": "17:00",
+        "Location": "Gateways Kalman Posner",
+        "Nature": "Assault",
+        "Case Number": "2025-3552",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/20/2025",
+        "Time": "19:53",
+        "Location": "400 St George Street",
+        "Nature": "Sex Offenses",
+        "Case Number": "2025-3558",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/20/2025",
+        "Time": "23:27",
+        "Location": "Trax Hall 4th Floor",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-3566",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

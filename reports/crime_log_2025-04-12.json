@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "04/12/2025",
+        "Time": "01:40",
+        "Location": "Hunt Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-4748",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/12/2025",
+        "Time": "01:46",
+        "Location": "Silberman Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-4749",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/12/2025",
+        "Time": "03:45",
+        "Location": "Silberman Gateways",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-4752",
+        "Disposition": "Case Under Investigation"
+    }
+]

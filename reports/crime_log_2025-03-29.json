@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "03/29/2025",
+        "Time": "01:20",
+        "Location": "Vedder Hall 2nd Floor",
+        "Nature": "Vandalism",
+        "Case Number": "2025-4033",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "03/29/2025",
+        "Time": "01:31",
+        "Location": "Harris Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-4035",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/29/2025",
+        "Time": "16:22",
+        "Location": "James Alley",
+        "Nature": "Disorderly Conduct, Liquor Laws",
+        "Case Number": "2025-4074",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/29/2025",
+        "Time": "18:12",
+        "Location": "James Alley",
+        "Nature": "Disorderly Conduct, Liquor Laws",
+        "Case Number": "2025-4079",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/29/2025",
+        "Time": "18:36",
+        "Location": "Sigma Chi",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-4080",
+        "Disposition": "Open"
+    }
+]

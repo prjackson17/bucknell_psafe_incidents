@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "02/23/2025",
+        "Time": "09:33",
+        "Location": "Hunt Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-2345",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "02/23/2025",
+        "Time": "15:12",
+        "Location": "On Campus",
+        "Nature": "Forcible Rape",
+        "Case Number": "2025-2357",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "02/23/2025",
+        "Time": "01:57",
+        "Location": "Swartz Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-2336",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/23/2025",
+        "Time": "15:03",
+        "Location": "On campus",
+        "Nature": "Assault",
+        "Case Number": "2025-2356",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "02/23/2025",
+        "Time": "22:15",
+        "Location": "Swartz Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2025-2381",
+        "Disposition": "Case Under Investigation"
+    }
+]

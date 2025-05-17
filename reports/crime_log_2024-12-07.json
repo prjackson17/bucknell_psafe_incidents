@@ -1,0 +1,58 @@
+[
+    {
+        "Date": "12/7/2024",
+        "Time": "00:15",
+        "Location": "Trax Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-15675",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "12/7/2024",
+        "Time": "12:42",
+        "Location": "Smith Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-15689",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "12/7/2024",
+        "Time": "15:04",
+        "Location": "Hunt Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-15693",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "12/7/2024",
+        "Time": "15:00",
+        "Location": "620 St. George Street",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-15694",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "12/7/2024",
+        "Time": "18:20",
+        "Location": "Kress Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-15703",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "12/7/2024",
+        "Time": "19:39",
+        "Location": "78 University Avenue",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-15709",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "12/7/2024",
+        "Time": "15:51",
+        "Location": "Langone Center",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-15695",
+        "Disposition": "Closed: Report filed"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "11/16/2024",
+        "Time": "01:31",
+        "Location": "Roberts Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-14923",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "11/16/2024",
+        "Time": "02:39",
+        "Location": "Smith Hall Quad",
+        "Nature": "Disorderly Conduct, Drunkenness, Liquor Laws",
+        "Case Number": "2024-14924",
+        "Disposition": "Closed by a Criminal Arrest"
+    },
+    {
+        "Date": "11/16/2024",
+        "Time": "00:14",
+        "Location": "Mcdonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-14918",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

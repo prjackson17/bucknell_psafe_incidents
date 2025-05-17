@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "01/22/2025",
+        "Time": "23:18",
+        "Location": "Smith Hall room 304",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0694",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "01/22/2025",
+        "Time": "23:37",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0696",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "01/22/2025",
+        "Time": "23:01",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0697",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "01/22/2025",
+        "Time": "23:01",
+        "Location": "Swartz Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-0692",
+        "Disposition": "Open"
+    }
+]

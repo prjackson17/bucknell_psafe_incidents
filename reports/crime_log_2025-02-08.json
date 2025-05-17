@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "02/08/2025",
+        "Time": "01:05",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1551",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/08/2025",
+        "Time": "19:24",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1581",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/08/2025",
+        "Time": "23:19",
+        "Location": "West Apartment 2",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-1590",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

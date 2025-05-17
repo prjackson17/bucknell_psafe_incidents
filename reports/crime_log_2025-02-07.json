@@ -1,0 +1,50 @@
+[
+    {
+        "Date": "02/07/2025",
+        "Time": "22:35",
+        "Location": "St George Street",
+        "Nature": "Drunkenness",
+        "Case Number": "2025-1542",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/07/2025",
+        "Time": "22:35",
+        "Location": "St George Street",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-1542",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/07/2025",
+        "Time": "23:42",
+        "Location": "Vedder Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-1545",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "02/07/2025",
+        "Time": "23:42",
+        "Location": "Vedder Hall",
+        "Nature": "Fraud",
+        "Case Number": "2025-1545",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "02/07/2025",
+        "Time": "23:36",
+        "Location": "Vedder Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2025-1547",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "02/07/2025",
+        "Time": "23:36",
+        "Location": "Vedder Hall",
+        "Nature": "Fraud",
+        "Case Number": "2025-1547",
+        "Disposition": "Case Under Investigation"
+    }
+]

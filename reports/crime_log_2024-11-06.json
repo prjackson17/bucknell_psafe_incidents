@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "11/6/2024",
+        "Time": "08:25",
+        "Location": "Roberts Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-14405",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "11/6/2024",
+        "Time": "15:58",
+        "Location": "On Campus",
+        "Nature": "Sex Offenses",
+        "Case Number": "2024-14419",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "11/6/2024",
+        "Time": "23:16",
+        "Location": "Swartz Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-14445",
+        "Disposition": "Open"
+    }
+]

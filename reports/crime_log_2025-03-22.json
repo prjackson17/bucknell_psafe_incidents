@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "03/22/2025",
+        "Time": "01:14",
+        "Location": "Vedder Hall",
+        "Nature": "Fraud",
+        "Case Number": "2025-3621",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/22/2025",
+        "Time": "05:49",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-3632",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/22/2025",
+        "Time": "21:26",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-3674",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/22/2025",
+        "Time": "16:58",
+        "Location": "Break Iorn",
+        "Nature": "Drunkenness",
+        "Case Number": "2025-3661",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/22/2025",
+        "Time": "20:55",
+        "Location": "Breakiron Lane",
+        "Nature": "Liquor Laws",
+        "Case Number": "2025-3672",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]
