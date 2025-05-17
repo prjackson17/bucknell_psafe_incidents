@@ -61,33 +61,35 @@ def main():
     # Get data from last 30 days, starting 2 days ago (PDFs always start 2 days previous)
 
     # Calculate the date two days ago
-    two_days_ago = datetime.now() - timedelta(days=2)
-    days = 30
+    two_days_ago = datetime.now() - timedelta(days=157)
+    days = 502
     all_entries = []
     
     for i in range(days):
-        print(f"day {i}")
         # get the date string
         current_date = two_days_ago - timedelta(days=i)
         date_str = current_date.strftime('%m%d%y')
 
-        # first URL is Lewisburg, second is Buffalo Valley Township
-        url1 = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf"
-        url2 = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
+        urls = [
+            f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf",
+            f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
+        ]
 
-        # get files from URL
-        pdf_file1 = get_file(url1)
-        pdf_file2 = get_file(url2)
+        combined_text = ""
+        for url in urls:
+            try:
+                pdf_file = get_file(url)
+                combined_text += get_text(pdf_file)
+            except Exception as e:
+                print(f"Warning: Failed to download or read PDF from {url}: {e}")
+                # Continue to next URL without skipping the day
 
-        # read file texts
-        text1 = get_text(pdf_file1)
-        text2 = get_text(pdf_file2)
-
-        # combine the two texts 
-        text = text1 + text2
+        if not combined_text:
+            print(f"No PDFs available for {current_date.strftime('%Y-%m-%d')}, skipping...")
+            continue  # No data to process for this date, skip
 
         # create OpenAI prompt and get response
-        prompt = create_prompt(text)
+        prompt = create_prompt(combined_text)
         response = client.responses.create(
             model="gpt-4.1",
             input=prompt
