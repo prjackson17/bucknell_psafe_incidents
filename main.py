@@ -84,6 +84,9 @@ def main():
             
         num_offenses = 0        # keep count of the number of offenses we've tracked here
         index = 7               # first index with case info
+        location = ""
+        time = ""
+        nature = ""
 
         while num_offenses < total_offenses:
             # get location
@@ -91,7 +94,11 @@ def main():
                 location = split_text[index].split()[:2]
                 print(location)
 
-                # add increment
+            # get nature
+            elif (index - 8) % 4 == 0:
+                nature = split_text[index].split()[]
+
+            # add increment
 
 
         day_reports.append(crimedate)
