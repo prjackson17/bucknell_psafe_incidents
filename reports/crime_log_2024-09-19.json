@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "09/19/2024",
+        "Time": "00:22",
+        "Location": "Carey House",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-11907",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/19/2024",
+        "Time": "00:32",
+        "Location": "Trax Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-11908",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "09/19/2024",
+        "Time": "01:07",
+        "Location": "Harris Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-11910",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "09/19/2024",
+        "Time": "01:49",
+        "Location": "Carey House",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-11913",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/19/2024",
+        "Time": "02:35",
+        "Location": "Trax Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-11916",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

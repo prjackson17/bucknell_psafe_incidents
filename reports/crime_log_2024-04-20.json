@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "04/20/2024",
+        "Time": "00:03",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-5307",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "04/20/2024",
+        "Time": "01:02",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-5312",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "04/20/2024",
+        "Time": "19:25",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-5339",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/20/2024",
+        "Time": "17:26",
+        "Location": "Seventh Steet Off Campus",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-5331",
+        "Disposition": "Closed: Report filed"
+    }
+]

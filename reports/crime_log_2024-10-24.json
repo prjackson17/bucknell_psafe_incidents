@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "10/24/2024",
+        "Time": "00:21",
+        "Location": "Smith Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-13659",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "10/24/2024",
+        "Time": "01:31",
+        "Location": "Carey House",
+        "Nature": "Vandalism",
+        "Case Number": "2024-13666",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "10/24/2024",
+        "Time": "00:47",
+        "Location": "Swartz Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-13663",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "10/24/2024",
+        "Time": "16:21",
+        "Location": "Global House",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-13693",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "10/24/2024",
+        "Time": "22:18",
+        "Location": "Elaine Langone Center (ELC)",
+        "Nature": "Drug Abuse Sale, Possession",
+        "Case Number": "2024-13710",
+        "Disposition": "Open"
+    }
+]

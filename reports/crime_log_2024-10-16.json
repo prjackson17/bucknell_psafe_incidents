@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "10/16/2024",
+        "Time": "13:49",
+        "Location": "on campus",
+        "Nature": "Forcible Rape",
+        "Case Number": "2024-13285",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "10/16/2024",
+        "Time": "13:49",
+        "Location": "residence hall",
+        "Nature": "Forcible Rape",
+        "Case Number": "2024-13287",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "10/16/2024",
+        "Time": "13:50",
+        "Location": "On campus",
+        "Nature": "Assault",
+        "Case Number": "2024-13288",
+        "Disposition": "Closed: Report filed"
+    }
+]

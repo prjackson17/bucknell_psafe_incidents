@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "09/20/2024",
+        "Time": "12:38 AM",
+        "Location": "Larison Cottage",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-11959",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/20/2024",
+        "Time": "08:50 AM",
+        "Location": "Kress Hall 560 S 7th St, Lewisburg, PA 17837",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-11981",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "09/20/2024",
+        "Time": "11:15 PM",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12011",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/20/2024",
+        "Time": "11:20 PM",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12012",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/20/2024",
+        "Time": "11:30 PM",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12013",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

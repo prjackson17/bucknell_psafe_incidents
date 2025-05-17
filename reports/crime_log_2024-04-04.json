@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "04/04/2024",
+        "Time": "23:25",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-4470",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/04/2024",
+        "Time": "00:01",
+        "Location": "Vedder Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-4437",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/04/2024",
+        "Time": "00:01",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-4438",
+        "Disposition": "Open"
+    }
+]

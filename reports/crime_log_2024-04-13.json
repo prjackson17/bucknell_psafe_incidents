@@ -1,0 +1,50 @@
+[
+    {
+        "Date": "04/13/2024",
+        "Time": "00:47",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-4907",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/13/2024",
+        "Time": "01:10",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-4909",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/13/2024",
+        "Time": "01:23",
+        "Location": "Vedder Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-4910",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/13/2024",
+        "Time": "23:09",
+        "Location": "Vedder",
+        "Nature": "Drug Abuse Sale, Possession",
+        "Case Number": "2024-4974",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/13/2024",
+        "Time": "03:08",
+        "Location": "Swartz Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-4914",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "04/13/2024",
+        "Time": "19:05",
+        "Location": "ELC",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-4957",
+        "Disposition": "Open"
+    }
+]

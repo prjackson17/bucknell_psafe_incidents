@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "01/27/2024",
+        "Time": "01:15",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-1078",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "01/27/2024",
+        "Time": "01:33",
+        "Location": "Harris Hall",
+        "Nature": "Other Offenses",
+        "Case Number": "2024-1080",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "01/27/2024",
+        "Time": "14:07",
+        "Location": "Edwards House",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-1098",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "01/27/2024",
+        "Time": "19:04",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-1107",
+        "Disposition": "Closed: Report filed"
+    }
+]

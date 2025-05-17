@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "09/28/2024",
+        "Time": "01:17",
+        "Location": "7th Street",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12412",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/28/2024",
+        "Time": "01:08",
+        "Location": "SAE",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12411",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "09/28/2024",
+        "Time": "02:38",
+        "Location": "McDonnell Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12417",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

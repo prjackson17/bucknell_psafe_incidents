@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "10/21/2024",
+        "Time": "01:16",
+        "Location": "Comfort Suites",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-13503",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "10/18/2024",
+        "Time": "20:00",
+        "Location": "Langone Center",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-13511",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "10/21/2024",
+        "Time": "20:50",
+        "Location": "Sigma Alpha Epsilon",
+        "Nature": "Fraud",
+        "Case Number": "2024-13532",
+        "Disposition": "Case Under Investigation"
+    }
+]

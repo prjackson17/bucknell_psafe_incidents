@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "02/02/2024",
+        "Time": "20:05",
+        "Location": "Vedder Beach",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-1398",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "02/02/2024",
+        "Time": "23:09",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-1410",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "02/02/2024",
+        "Time": "12:30",
+        "Location": "Academic Quad",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-1386",
+        "Disposition": "Case Under Investigation"
+    }
+]

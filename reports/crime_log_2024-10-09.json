@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "10/09/2024",
+        "Time": "23:08",
+        "Location": "West of Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12999",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "10/09/2024",
+        "Time": "07:00",
+        "Location": "Weis Center",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-12968",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "10/09/2024",
+        "Time": "20:26",
+        "Location": "Swartz Hall",
+        "Nature": "Drug Abuse Sale, Possession",
+        "Case Number": "2024-12991",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

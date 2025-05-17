@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "10/5/2024",
+        "Time": "17:00",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12777",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "10/5/2024",
+        "Time": "16:00",
+        "Location": "-",
+        "Nature": "Sex Offenses",
+        "Case Number": "2024-12786",
+        "Disposition": "-"
+    },
+    {
+        "Date": "10/5/2024",
+        "Time": "01:18 AM",
+        "Location": "Moore Avenue",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12744",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "10/5/2024",
+        "Time": "01:29 AM",
+        "Location": "ELC",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12746",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "10/5/2024",
+        "Time": "07:26 PM",
+        "Location": "Bostiwck Dining",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12789",
+        "Disposition": "Closed by Judicial Referral"
+    }
+]

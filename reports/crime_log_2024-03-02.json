@@ -1,0 +1,66 @@
+[
+    {
+        "Date": "03/02/2024",
+        "Time": "01:23",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-2837",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "01:29",
+        "Location": "64 University Avenue",
+        "Nature": "Vandalism",
+        "Case Number": "2024-2840",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "14:30",
+        "Location": "Vedder Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-2864",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "17:21",
+        "Location": "Edwards House",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-2869",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "17:21",
+        "Location": "Edwards House",
+        "Nature": "Liquor Laws",
+        "Case Number": "",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "17:33",
+        "Location": "Carey House Parking Lot",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-2870",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "17:52",
+        "Location": "Kress Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-2874",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/02/2024",
+        "Time": "17:36",
+        "Location": "Newman house",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-2871",
+        "Disposition": "Open"
+    }
+]

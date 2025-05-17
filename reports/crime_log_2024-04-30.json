@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "04/30/2024",
+        "Time": "00:36",
+        "Location": "McDonnell Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-5867",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "04/30/2024",
+        "Time": "06:42",
+        "Location": "Academic Quad",
+        "Nature": "Vandalism",
+        "Case Number": "2024-5876",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "04/30/2024",
+        "Time": "16:45",
+        "Location": "Olin Science",
+        "Nature": "Other Offenses",
+        "Case Number": "2024-5896",
+        "Disposition": "Open"
+    }
+]

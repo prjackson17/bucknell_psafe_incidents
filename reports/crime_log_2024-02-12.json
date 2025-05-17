@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "2/9/2024",
+        "Time": "22:00",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-1883",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "2/9/2024",
+        "Time": "00:00",
+        "Location": "Trax Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-1885",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "2/8/2024",
+        "Time": "08:43",
+        "Location": "1Dent Drive",
+        "Nature": "Other Offenses",
+        "Case Number": "2024-1887",
+        "Disposition": "Open"
+    }
+]

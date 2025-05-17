@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "03/21/2024",
+        "Time": "00:45",
+        "Location": "Vedder",
+        "Nature": "Vandalism",
+        "Case Number": "2024-3771",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/21/2024",
+        "Time": "20:10",
+        "Location": "McDonald Commons",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-3756",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "03/21/2024",
+        "Time": "22:01",
+        "Location": "Sojka",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-3765",
+        "Disposition": "Open"
+    }
+]

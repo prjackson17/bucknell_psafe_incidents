@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "10/4/2024",
+        "Time": "10:45",
+        "Location": "400 St. George Street",
+        "Nature": "Vandalism",
+        "Case Number": "2024-12696",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "10/4/2024",
+        "Time": "23:59",
+        "Location": "Vedder Hall",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2024-12742",
+        "Disposition": "Open"
+    }
+]

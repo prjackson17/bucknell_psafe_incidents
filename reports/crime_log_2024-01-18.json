@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "01/17/2024",
+        "Time": "18:00",
+        "Location": "400 St. George Street",
+        "Nature": "Vandalism",
+        "Case Number": "2024-0628",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "01/18/2024",
+        "Time": "13:23",
+        "Location": "Swartz Hall",
+        "Nature": "Assault",
+        "Case Number": "2024-0635",
+        "Disposition": "Open"
+    }
+]

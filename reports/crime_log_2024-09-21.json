@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "09/21/2024",
+        "Time": "21:41",
+        "Location": "Carey House",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-12085",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "09/21/2024",
+        "Time": "00:42",
+        "Location": "Mcdonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-12017",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "09/21/2024",
+        "Time": "01:22",
+        "Location": "Swartz Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-12018",
+        "Disposition": "Open"
+    }
+]

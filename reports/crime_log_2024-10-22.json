@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "10/21/2024",
+        "Time": "22:00",
+        "Location": "St. George Street",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-13568",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "10/22/2024",
+        "Time": "17:00",
+        "Location": "23 University Ave Lot",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-13577",
+        "Disposition": "Open"
+    }
+]

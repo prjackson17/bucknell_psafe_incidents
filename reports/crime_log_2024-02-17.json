@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "2/17/2024",
+        "Time": "00:48",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-2154",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "2/17/2024",
+        "Time": "01:20",
+        "Location": "Roberst Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-2157",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "2/16/2024",
+        "Time": "15:00",
+        "Location": "Kress Hall",
+        "Nature": "Fraud",
+        "Case Number": "2024-2169",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "2/17/2024",
+        "Time": "19:30",
+        "Location": "Smith Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-2195",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "2/17/2024",
+        "Time": "20:07",
+        "Location": "Swartz Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-2193",
+        "Disposition": "Open"
+    }
+]

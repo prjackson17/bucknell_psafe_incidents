@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "05/08/2024",
+        "Time": "00:00",
+        "Location": "23 University Ave",
+        "Nature": "Vandalism",
+        "Case Number": "2024-6614",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "05/14/2024",
+        "Time": "10:30",
+        "Location": "Mcdonnell Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-6641",
+        "Disposition": "Open"
+    }
+]

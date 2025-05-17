@@ -1,0 +1,42 @@
+[
+    {
+        "Date": "1/26/2024",
+        "Time": "00:00",
+        "Location": "Vedder Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-1167",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "1/28/2024",
+        "Time": "21:30",
+        "Location": "Trax Hall",
+        "Nature": "Larceny-Theft",
+        "Case Number": "2024-1173",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "1/29/2024",
+        "Time": "13:07",
+        "Location": "1 Dent Drive Lewisburg, PA 17837",
+        "Nature": "Forcible Rape",
+        "Case Number": "2024-1179",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "1/29/2024",
+        "Time": "13:07",
+        "Location": "1 Dent Drive Lewisburg, PA 17837",
+        "Nature": "Forcible Rape",
+        "Case Number": "2024-1180",
+        "Disposition": "Closed: Report filed"
+    },
+    {
+        "Date": "1/26/2024",
+        "Time": "00:00",
+        "Location": "McDonnell Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-1175",
+        "Disposition": "Case Under Investigation"
+    }
+]

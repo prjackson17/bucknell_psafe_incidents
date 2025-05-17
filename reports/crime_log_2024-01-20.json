@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "01/20/2024",
+        "Time": "00:00",
+        "Location": "Kress Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-0733",
+        "Disposition": "Case Under Investigation"
+    },
+    {
+        "Date": "01/20/2024",
+        "Time": "01:20",
+        "Location": "Swartz Hall, 1st floor",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-0724",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "01/20/2024",
+        "Time": "01:38",
+        "Location": "Swarts, 1st floor",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-0725",
+        "Disposition": "Open"
+    },
+    {
+        "Date": "01/20/2024",
+        "Time": "01:50",
+        "Location": "Swartz Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-0726",
+        "Disposition": "Open"
+    }
+]

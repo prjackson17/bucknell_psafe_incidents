@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "10/19/2024",
+        "Time": "00:42",
+        "Location": "Smith Hall",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-13386",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "10/19/2024",
+        "Time": "01:01",
+        "Location": "Boat Launch",
+        "Nature": "Liquor Laws",
+        "Case Number": "2024-13385",
+        "Disposition": "Closed by Judicial Referral"
+    },
+    {
+        "Date": "10/19/2024",
+        "Time": "23:00",
+        "Location": "Trax Hall",
+        "Nature": "Vandalism",
+        "Case Number": "2024-13411",
+        "Disposition": "Open"
+    }
+]
