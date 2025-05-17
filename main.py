@@ -1,62 +1,77 @@
 """
 Parker Jackson
-Nov 2024
+May 2025
 Reading Bucknell Public Safety Reports
 Main execution file
 """
 
 import io
+import json
+from venv import create
 import requests
 from datetime import datetime, timedelta
-from PyPDF2 import PdfReader
-from crime_date import CrimeDate, Incident
+import fitz
 import urllib3
+from openai import OpenAI
+from prettytable import PrettyTable
 
 # disable warnings from unverified website
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-
+# URL headers
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'}
 
-""" Gets the text from a given file, handling one or multiple pages """
+# Initialize OpenAI API
+client = OpenAI()
+
 def get_text(file):
+    """ Gets the text from a given file """
     text = ""  # Initialize an empty string to hold all pages' text
 
-    if file.pages == 1:
-        # Only 1 page
-        text = file[0].extract_text()
-
-    else:
-        # Multiple pages, loop through each page and append the text
-        for page_num in range(len(file.pages)):
-            page = file.pages[page_num]
-            text += page.extract_text()  # Append text from each page
+    for page in file:
+        text += page.get_text()
 
     return text
 
-""" Return the PDF file from a given URL """
 def get_file(url):
-    response1 = requests.get(url=url, headers=HEADERS, timeout=120, verify=False)
-    on_fly_mem_obj1 = io.BytesIO(response1.content)
-    pdf_file1 = PdfReader(on_fly_mem_obj1)
+    """ Return the PDF file from a given URL """
 
-    return pdf_file1
+    # request pdf from the URL
+    response = requests.get(url=url, headers=HEADERS, verify=False)
+    if response.status_code != 200:
+        raise Exception(f"Failed to download the PDF from {url}")
+    
+    pdf_file = fitz.open(stream=io.BytesIO(response.content), filetype="pdf")
+
+    return pdf_file
+
+def create_prompt(text):
+    prompt = f"""
+    You are a data assistant. Extract the crime log data from the following text and return it as a Python array of objects.
+    Each object must have keys: Date (MM/DD/YYYY), Time, Location, Nature, Case Number, and Disposition.
+    Return ONLY the JSON array. Do NOT include markdown code fences (```), explanations, or extra text.
+    Raw text:
+    {text}
+    """
+    return prompt
 
 
-""" Get data from past 30 days and print out."""
 def main():
+    """ Get data from past 30 days and print out """
     # Get data from last 30 days, starting 2 days ago (PDFs always start 2 days previous)
 
     # Calculate the date two days ago
     two_days_ago = datetime.now() - timedelta(days=2)
     days = 30
-    day_reports = []
-
+    all_entries = []
+    
     for i in range(days):
+        print(f"day {i}")
         # get the date string
         current_date = two_days_ago - timedelta(days=i)
         date_str = current_date.strftime('%m%d%y')
 
+        # first URL is Lewisburg, second is Buffalo Valley Township
         url1 = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf"
         url2 = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
 
@@ -68,40 +83,47 @@ def main():
         text1 = get_text(pdf_file1)
         text2 = get_text(pdf_file2)
 
-        # Read entry data
-        split_text = text1.splitlines()
+        # combine the two texts 
+        text = text1 + text2
 
-        crimedate = CrimeDate(split_text[3])
+        # create OpenAI prompt and get response
+        prompt = create_prompt(text)
+        response = client.responses.create(
+            model="gpt-4.1",
+            input=prompt
+        )
 
-        # if no reports, add to crimedate list and move on
-        if split_text[4] == "-":
-            print("no reports")
-            day_reports.append(crimedate)
-            continue
+        # parse the response
+        entries_str = response.output_text
+        try:
+            entries = json.loads(entries_str)
+        except json.JSONDecodeError as e:
+            print("Failed to parse JSON from OpenAI response:")
+            print(f"Error: {e}")
+            print(f"Response content was:\n{entries_str}")
+            break
 
-        # get number of offenses, 2nd to last line (-2), last word = # of offenses
-        total_offenses = int(split_text[-2].split()[-1])
-            
-        num_offenses = 0        # keep count of the number of offenses we've tracked here
-        index = 7               # first index with case info
-        location = ""
-        time = ""
-        nature = ""
-
-        while num_offenses < total_offenses:
-            # get location
-            if (index - 7) % 4 == 0:
-                location = split_text[index].split()[:2]
-                print(location)
-
-            # get nature
-            elif (index - 8) % 4 == 0:
-                nature = split_text[index].split()[]
-
-            # add increment
+        # add the entries to the all_entries list
+        all_entries.extend(entries)
 
 
-        day_reports.append(crimedate)
-        break
+    # Print as table
+    table = PrettyTable()
+    table.field_names = ["Date", "Time", "Location", "Nature", "Case Number", "Disposition"]
+
+    for entry in all_entries:
+        table.add_row([
+            entry.get("Date", ""),
+            entry.get("Time", ""),
+            entry.get("Location", ""),
+            entry.get("Nature", ""),
+            entry.get("Case Number", ""),
+            entry.get("Disposition", "")
+        ])
+    print(table)
+
+    # Save the JSON data to a file
+    with open("crime_log.json", "w") as json_file:
+        json.dump(all_entries, json_file, indent=4)
 
 main()
