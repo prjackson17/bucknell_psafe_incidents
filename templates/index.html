@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bucknell Public Safety Reports</title>
+</head>
+<body>
+    <h1>Bucknell Public Safety Reports</h1>
+    <input type="date" id="reportDate" />
+    <button onclick="loadReport()">Load Report</button>
+
+    <pre id="reportOutput"></pre>
+
+    <script>
+        function loadReport() {
+            const date = document.getElementById('reportDate').value;
+            if (!date) {
+                alert('Please select a date');
+                return;
+            }
+
+            fetch(`/reports/${date}`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('reportOutput').textContent = JSON.stringify(data, null, 2);
+                })
+                .catch(err => {
+                    document.getElementById('reportOutput').textContent = 'Error loading report.';
+                });
+        }
+    </script>
+</body>
+</html>
