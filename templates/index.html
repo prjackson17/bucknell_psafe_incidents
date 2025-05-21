@@ -10,26 +10,32 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-    <h1>Bucknell Public Safety Reports</h1>
+    <header>
+        <img src="{{ url_for('static', filename='favicon.ico') }}" id="logo" alt="Bucknell Logo" />
+        <h1>Bucknell Public Safety Reports</h1>
+    </header>
 
-    <div id="recentReportsContainer">
+    <div id="mainContainer">
+        <div id="recentReportsContainer">
         <h2>Recent 5 Days Reports</h2>
         <pre id="recentReports"></pre>
+        </div>    
+        <p>
+            * Note: The most recent report is usually posted two days after the incident date.
+        </p>  
 
-    </div>      
+        <div id="monthlyChartContainer">
+            <h2>Monthly Trend Chart</h2>
+            <canvas id="monthlyChart"></canvas>
+        </div>
 
-    <div id="monthlyChartContainer">
-        <h2>Monthly Trend Chart</h2>
-        <canvas id="monthlyChart"></canvas>
+        <div id="loadReportContainer">
+            <h2>Load Report by Date</h2>
+            <input type="date" id="reportDate" min="2024-01-01" />
+            <button onclick="loadReport()">Load Report</button>
+            <button onclick="clearReport()">Clear</button>
+            <pre id="reportOutput"></pre>
+        </div>
     </div>
-
-    <div id="loadReportContainer">
-        <h2>Load Report by Date</h2>
-        <input type="date" id="reportDate" min="2024-01-01" />
-        <button onclick="loadReport()">Load Report</button>
-        <button onclick="clearReport()">Clear</button>
-        <pre id="reportOutput"></pre>
-    </div>
-
 </body>
 </html>

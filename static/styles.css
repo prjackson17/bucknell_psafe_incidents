@@ -1,3 +1,51 @@
+:root {
+    --primary-bg: #c46b29;
+    --card-bg: #335c81;
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+}
+
+body {
+    background-color: #c46b29;
+    margin: 0;
+}
+
+#mainContainer {
+    margin: 8px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    padding: 1rem 0;
+    position: sticky;
+    background-color: var(--primary-bg);
+    z-index: 1000;
+    top: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+header #logo {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0;
+}
+
+header .header-title {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
 #recentReports {
     display: grid;
     grid-template-columns: repeat(5, 1fr); /* 5 columns */
@@ -22,13 +70,13 @@
 }
 
 .incident-card {
-    border: 1px solid #ccc;
-    background-color: #f9f9f9;
+    /* border: 1px solid #ccc; */
+    background-color: var(--card-bg);
     padding: 1rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     min-height: 150px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.375);
     text-align: center;
 }
   
