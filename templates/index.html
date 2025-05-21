@@ -2,16 +2,34 @@
 <html>
 <head>
     <title>Bucknell Public Safety Reports</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
     <script src="{{ url_for('static', filename='script.js') }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <h1>Bucknell Public Safety Reports</h1>
-    <input type="date" id="reportDate" />
-    <button onclick="loadReport()">Load Report</button>
 
-    <pre id="reportOutput"></pre>
+    <div id="recentReportsContainer">
+        <h2>Recent 5 Days Reports</h2>
+        <pre id="recentReports"></pre>
 
-    <canvas id="monthlyChart" width="600" height="400"></canvas>
+    </div>      
+
+    <div id="monthlyChartContainer">
+        <h2>Monthly Trend Chart</h2>
+        <canvas id="monthlyChart"></canvas>
+    </div>
+
+    <div id="loadReportContainer">
+        <h2>Load Report by Date</h2>
+        <input type="date" id="reportDate" min="2024-01-01" />
+        <button onclick="loadReport()">Load Report</button>
+        <button onclick="clearReport()">Clear</button>
+        <pre id="reportOutput"></pre>
+    </div>
+
 </body>
 </html>

@@ -1,0 +1,51 @@
+#recentReports {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5 columns */
+    gap: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+#monthlyChartContainer {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#reportOutput {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Always 3 columns */
+    gap: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.incident-card {
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    min-height: 150px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+  
+.incident-card h3 {
+    margin-top: 0;
+}
+
+@media (max-width: 900px) {
+    #reportOutput {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    #reportOutput {
+        grid-template-columns: 1fr;
+    }   
+}
+  
+  

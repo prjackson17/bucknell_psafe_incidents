@@ -12,7 +12,7 @@ def index():
 
 @app.route('/reports/crime_log_<date>.json')
 def reports(date):
-    # Assuming JSON files are named by date, e.g., 2023-05-01.json
+    # JSON files are named by date, e.g., 2023-05-01.json
     file_path = f'reports/crime_log_{date}.json'
     if os.path.exists(file_path):
         with open(file_path, 'r') as f:
