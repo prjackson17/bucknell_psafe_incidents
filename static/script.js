@@ -127,7 +127,7 @@ function renderChart(labels, values) {
             labels: labels,
             datasets: [
                 {
-                    label: 'Weighted Moving Average',
+                    label: '3-Month Weighted Moving Average',
                     data: wma,
                     type: 'line',
                     borderColor: '#f6ad55',     // lighter orange
