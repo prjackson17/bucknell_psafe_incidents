@@ -61,7 +61,7 @@ def main():
     # Get data from last 30 days, starting 2 days ago (PDFs always start 2 days previous)
 
     # Calculate the date two days ago
-    two_days_ago = datetime.now() - timedelta(days=2)
+    two_days_ago = datetime.now() - timedelta(days=1)
     days = 7
     all_entries = []
     

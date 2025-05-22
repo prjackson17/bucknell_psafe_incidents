@@ -1,6 +1,11 @@
 :root {
     --primary-bg: #c46b29;
-    --card-bg: #335c81;
+    --card-bg: #063552;
+    --tan-text: #e8dac9;
+}
+
+* {
+    scroll-behavior: smooth;
 }
 
 #logo {
@@ -11,6 +16,8 @@
 body {
     background-color: #c46b29;
     margin: 0;
+    font-family: "Urbanist", sans-serif;
+    color: var(--tan-text);
 }
 
 #mainContainer {
@@ -40,18 +47,21 @@ header #logo {
     margin: 0;
 }
 
-header .header-title {
-    margin: 0;
-    text-align: center;
-    width: 100%;
-}
-
 #recentReports {
     display: grid;
     grid-template-columns: repeat(5, 1fr); /* 5 columns */
     gap: 1rem;
     padding: 1rem;
     box-sizing: border-box;
+}
+
+#reportOutput {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Always 3 columns */
+    gap: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 #monthlyChartContainer {
@@ -61,16 +71,7 @@ header .header-title {
     align-items: center;
 }
 
-#reportOutput {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Always 3 columns */
-    gap: 1rem;
-    padding: 1rem;
-    box-sizing: border-box;
-}
-
 .incident-card {
-    /* border: 1px solid #ccc; */
     background-color: var(--card-bg);
     padding: 1rem;
     border-radius: 8px;
@@ -79,9 +80,89 @@ header .header-title {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.375);
     text-align: center;
 }
-  
+
+.incident-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.incident-card p {
+  margin: 0; /* Remove default spacing */
+  line-height: 1.2;
+}
+
 .incident-card h3 {
-    margin-top: 0;
+  margin: 0 0 0.25rem 0;
+  font-size: 1rem;
+}
+
+#monthlyChartContainer {
+    flex-direction: column;
+    padding-top: 2rem;
+}
+
+#loadReportContainer {
+    padding-top: 2rem;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: var(--card-bg);
+    color: var(--tan-text);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    height: 39px;
+    transition: transform 0.1s cubic-bezier(0.4,0,0.2,1);
+}
+
+button:active {
+    transform: scale(0.96);
+}
+
+input[type="date"] {
+    padding: 0.5rem;
+    border: 1px solid var(--card-bg);
+    border-radius: 4px;
+    width: auto;
+    box-sizing: border-box;
+    background-color: var(--card-bg);
+    color: var(--tan-text);
+    font-size: 1rem;
+    /* Change calendar icon color for date input */
+    &::-webkit-calendar-picker-indicator {
+        filter: invert(85%) sepia(10%) saturate(300%) hue-rotate(10deg);
+        cursor: pointer;
+    }
+
+    &::-ms-input-placeholder {
+        color: var(--tan-text);
+    }
+
+    &::-webkit-input-placeholder {
+        color: var(--tan-text);
+    }
+
+    &:-ms-input-placeholder {
+        color: var(--tan-text);
+    }
+
+    &::placeholder {
+        color: var(--tan-text);
+    }
+}
+
+#monthlyChartContainer h2 {
+    margin-bottom: 1rem;
+}
+
+#vedder-beach {
+    margin: 0;
 }
 
 @media (max-width: 900px) {

@@ -1,49 +1,74 @@
 function loadReport() {
     const date = document.getElementById('reportDate').value;
     if (!date) {
-      alert('Please select a date');
-      return;
+        alert('Please select a date');
+        return;
     }
-  
+
     fetch(`/reports/crime_log_${date}.json`)
         .then(response => {
-        if (!response.ok) {
-            throw new Error('No report found for this date');
-        }
-        return response.json();
+            if (!response.ok) {
+                throw new Error('No report found for this date');
+            }
+            return response.json();
         })
         .then(data => {
-        displayReport(data);
+            displayReport(data, date);
         })
         .catch(err => {
-        document.getElementById('reportOutput').innerHTML = `<p style="color:red;">Error loading report: ${err.message}</p>`;
+            document.getElementById('reportOutput').innerHTML = `<p style="color:red;">Error loading report: ${err.message}</p>`;
         });
 }
-  
+
+function loadVedderBeach() {
+    const date = '2024-02-02';
+
+    fetch(`/reports/crime_log_${date}.json`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('No report found for this date');
+            }
+            return response.json();
+        })
+        .then(data => {
+            displayReport(data, date);
+        })
+        .catch(err => {
+            document.getElementById('reportOutput').innerHTML = `<p style="color:red;">Error loading report: ${err.message}</p>`;
+        });
+}
+
 function displayReport(data) {
     const container = document.getElementById('reportOutput');
     container.innerHTML = ''; // Clear any previous content
-  
+
     if (!Array.isArray(data) || data.length === 0) {
         container.innerHTML = '<p>No incidents found for this date.</p>';
         return;
     }
-  
+
+    // Sort incidents by time (ascending)
+    data.sort((a, b) => {
+        const timeA = a["Time"] || '';
+        const timeB = b["Time"] || '';
+        // Pad times to ensure correct sorting (e.g., 9:05 -> 09:05)
+        const pad = t => t && t.match(/^\d{1,2}:\d{2}/) ? t.padStart(5, '0') : t;
+        return pad(timeA).localeCompare(pad(timeB));
+    });
+
     data.forEach((entry, index) => {
         const card = document.createElement('div');
         card.classList.add('incident-card');
 
         card.innerHTML = `
-        <h3>Incident ${index + 1}</h3>
-        <p>Case <strong>${entry["Case Number"] || 'N/A'}</strong></p>
-        <p>${entry["Date"] || 'N/A'} - ${entry["Time"] || 'N/A'}</p>
-        <p>at <strong>${entry["Location"] || 'N/A'}</strong></p>
-        <p>${entry["Nature"] || 'N/A'}</p>
+        <h3>${entry["Time"] || 'N/A'}</h3>
+        <p class="case-number">Case ${entry["Case Number"] || 'N/A'}</p>
+        <p class="incident-details"><strong>${entry["Nature"] || 'N/A'}</strong> at <strong>${entry["Location"] || 'N/A'}</strong></p>
         `
 
         container.appendChild(card);
     });
-}   
+}
 
 function loadMonthlyStats() {
     fetch('/api/stats/monthly')
@@ -61,8 +86,12 @@ function loadMonthlyStats() {
             // Sort by date
             filteredEntries.sort((a, b) => a[0].localeCompare(b[0]));
 
-            // Prepare chart data
-            const labels = filteredEntries.map(([key]) => key);
+            // Prepare chart data with labels like "May 25"
+            const labels = filteredEntries.map(([key]) => {
+                const [year, month] = key.split('-');
+                const date = new Date(year, parseInt(month) - 1);
+                return date.toLocaleString('en-US', { month: 'short', year: '2-digit' }).replace(',', '');
+            });
             const values = filteredEntries.map(([_, val]) => val);
 
             renderChart(labels, values);
@@ -74,6 +103,8 @@ function loadMonthlyStats() {
 }
 
 let chart;
+let cardBGColor = '#063552'; // blue gray
+let tanText = '#e8dac9'; // tan
 
 function renderChart(labels, values) {
     const chartEl = document.getElementById('monthlyChart');
@@ -96,21 +127,21 @@ function renderChart(labels, values) {
             labels: labels,
             datasets: [
                 {
-                    label: 'Reports per Month',
-                    data: values,
-                    backgroundColor: 'lightblue',
-                    borderColor: 'blue',
-                    borderWidth: 1,
-                },
-                {
                     label: 'Weighted Moving Average',
                     data: wma,
                     type: 'line',
-                    borderColor: 'orange',
+                    borderColor: '#f6ad55',     // lighter orange
                     backgroundColor: 'transparent',
                     tension: 0.3,
                     pointRadius: 0,
                     borderWidth: 2,
+                },
+                {
+                    label: 'Reports per Month',
+                    data: values,
+                    backgroundColor: '#2a4365', // dark blue
+                    borderColor: '#1a365d',     // darker blue
+                    borderWidth: 1,
                 }
             ]
         },
@@ -124,20 +155,39 @@ function renderChart(labels, values) {
                 x: {
                     title: {
                         display: true,
-                        text: 'Month'
+                        text: 'Month',
+                        color: cardBGColor,
+                        font: { weight: 'bold' }
+                    },
+                    ticks: {
+                        color: cardBGColor
+                    },
+                    grid: {
+                        color: tanText
                     }
                 },
                 y: {
                     beginAtZero: true,
                     title: {
                         display: true,
-                        text: 'Number of Reports'
+                        text: 'Number of Reports',
+                        color: cardBGColor,
+                        font: { weight: 'bold' }
+                    },
+                    ticks: {
+                        color: cardBGColor
+                    },
+                    grid: {
+                        color: tanText
                     }
                 }
             },
             plugins: {
                 legend: {
-                    position: 'top'
+                    position: 'top',
+                    labels: {
+                        color: '#2d3748'
+                    }
                 }
             }
         }
@@ -184,39 +234,40 @@ async function loadRecentReports() {
         const date = new Date(today);
         date.setDate(today.getDate() - i);
         const formattedDate = formatDate(date);
+        const niceDate = date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
-        try {
-            const response = await fetch(`/reports/crime_log_${formattedDate}.json`);
-            if (!response.ok) {
-                throw new Error('No report found for this date');
-            }
-            const data = await response.json();
+        // Create a single incident card for the date
+        const card = document.createElement('div');
+        card.classList.add('incident-card');
 
-            // Create a single incident card for the date
-            const card = document.createElement('div');
-            card.classList.add('incident-card');
-
-            card.innerHTML = `
-                <h3>Report for ${formattedDate}</h3>
-                ${data.map((entry, index) => `
-                    <div>
-                        <h4>Incident ${index + 1}</h4>
-                        <p>Case <strong>${entry["Case Number"] || 'N/A'}</strong></p>
-                        <p>${entry["Date"] || 'N/A'} - ${entry["Time"] || 'N/A'}</p>
-                        <p>at <strong>${entry["Location"] || 'N/A'}</strong></p>
-                        <p>${entry["Nature"] || 'N/A'}</p>
-                    </div>
-                `).join('')}
-            `;
-
+        const response = await fetch(`/reports/crime_log_${formattedDate}.json`);
+        if (!response.ok) {
+            card.innerHTML = `<p>No report found for ${formattedDate}</p>`;
             container.appendChild(card);
-        } catch (error) {
-            // Optionally show message if missing
-            const noReport = document.createElement('div');
-            noReport.classList.add('no-report');
-            noReport.textContent = `No report found for ${formattedDate}`;
-            container.appendChild(noReport);
+            continue;
         }
+        const data = await response.json();
+
+        card.innerHTML = `<h3>${niceDate}</h3>`;
+
+        if (!Array.isArray(data) || data.length === 0) {
+            card.innerHTML += `<p>No incidents reported.</p>`;
+        } else {
+            // Sort incidents by time (ascending)
+            data.sort((a, b) => {
+                const timeA = a["Time"] || '';
+                const timeB = b["Time"] || '';
+                const pad = t => t && t.match(/^\d{1,2}:\d{2}/) ? t.padStart(5, '0') : t;
+                return pad(timeA).localeCompare(pad(timeB));
+            });
+
+            card.innerHTML += data.map((entry) => `
+                <p><strong>${entry["Time"] || 'N/A'}</strong></p>
+                <p>${entry["Nature"] || 'N/A'} at ${entry["Location"] || 'N/A'}</p>
+            `).join('');
+        }
+
+        container.appendChild(card);
     }
 }
 
