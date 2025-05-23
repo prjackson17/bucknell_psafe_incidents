@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 import fitz
 import urllib3
 from openai import OpenAI
-from prettytable import PrettyTable
+# from prettytable import PrettyTable
 import os
 
 # disable warnings from unverified website
@@ -62,7 +62,7 @@ def main():
 
     # Calculate the date two days ago
     two_days_ago = datetime.now() - timedelta(days=1)
-    days = 7
+    days = 3
     all_entries = []
     
     for i in range(days):
@@ -119,19 +119,19 @@ def main():
             json.dump(entries, json_file, indent=4)
 
 
-    # Print as table
-    table = PrettyTable()
-    table.field_names = ["Date", "Time", "Location", "Nature", "Case Number", "Disposition"]
+    # # Print as table
+    # table = PrettyTable()
+    # table.field_names = ["Date", "Time", "Location", "Nature", "Case Number", "Disposition"]
 
-    for entry in all_entries:
-        table.add_row([
-            entry.get("Date", ""),
-            entry.get("Time", ""),
-            entry.get("Location", ""),
-            entry.get("Nature", ""),
-            entry.get("Case Number", ""),
-            entry.get("Disposition", "")
-        ])
-    print(table)
+    # for entry in all_entries:
+    #     table.add_row([
+    #         entry.get("Date", ""),
+    #         entry.get("Time", ""),
+    #         entry.get("Location", ""),
+    #         entry.get("Nature", ""),
+    #         entry.get("Case Number", ""),
+    #         entry.get("Disposition", "")
+    #     ])
+    # print(table)
 
 main()
