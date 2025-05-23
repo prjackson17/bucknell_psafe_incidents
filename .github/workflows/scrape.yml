@@ -1,0 +1,37 @@
+name: Daily Crime Log Scraper
+
+on:
+  schedule:
+    - cron: '30 12 * * *'   # Runs every day at 12:30 UTC
+  workflow_dispatch:        # Manual run option in GitHub
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run scraper script
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: python main.py
+
+    - name: Commit results
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add reports/
+        git commit -m "Daily report update" || echo "No changes to commit"
+        git push
