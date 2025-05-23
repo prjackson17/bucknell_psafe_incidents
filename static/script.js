@@ -38,12 +38,13 @@ function loadVedderBeach() {
         });
 }
 
-function displayReport(data) {
+function displayReport(data, date) {
     const container = document.getElementById('reportOutput');
     container.innerHTML = ''; // Clear any previous content
+    const niceDate = new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
     if (!Array.isArray(data) || data.length === 0) {
-        container.innerHTML = '<p>No incidents found for this date.</p>';
+        container.innerHTML = `<p>No incidents found for ${niceDate}.</p>`;
         return;
     }
 
@@ -139,8 +140,8 @@ function renderChart(labels, values) {
                 {
                     label: 'Reports per Month',
                     data: values,
-                    backgroundColor: '#2a4365', // dark blue
-                    borderColor: '#1a365d',     // darker blue
+                    backgroundColor: cardBGColor, // dark blue
+                    borderColor: cardBGColor,     // darker blue
                     borderWidth: 1,
                 }
             ]
@@ -156,11 +157,11 @@ function renderChart(labels, values) {
                     title: {
                         display: true,
                         text: 'Month',
-                        color: cardBGColor,
+                        color: tanText,
                         font: { weight: 'bold' }
                     },
                     ticks: {
-                        color: cardBGColor
+                        color: tanText
                     },
                     grid: {
                         color: tanText
@@ -171,11 +172,11 @@ function renderChart(labels, values) {
                     title: {
                         display: true,
                         text: 'Number of Reports',
-                        color: cardBGColor,
+                        color: tanText,
                         font: { weight: 'bold' }
                     },
                     ticks: {
-                        color: cardBGColor
+                        color: tanText
                     },
                     grid: {
                         color: tanText
@@ -186,7 +187,7 @@ function renderChart(labels, values) {
                 legend: {
                     position: 'top',
                     labels: {
-                        color: '#2d3748'
+                        color: tanText
                     }
                 }
             }

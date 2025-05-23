@@ -15,7 +15,9 @@
 <body>
     <header>
         <a href="#top"><img src="{{ url_for('static', filename='favicon.ico') }}" id="logo" alt="Bucknell Logo" /></a>
-        <h1>Bucknell Public Safety Reports</h1>
+        <div id="headerText">
+            <h1>Bucknell Public Safety Reports</h1>
+        </div>
     </header>
 
     <div id="mainContainer">
@@ -43,5 +45,11 @@
             <pre id="reportOutput"></pre>
         </div>
     </div>
+
+    <footer>
+        <p>Created by <a href="https://github.com/prjackson17" target="_blank">Parker Jackson</a></p>
+        <p>Data collected from Bucknell University's Public Safety Crime Logs (2024-Present)</p>
+        <p>Independently created and not affiliated with Bucknell University</p>
+    </footer>
 </body>
 </html>

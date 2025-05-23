@@ -73,6 +73,8 @@ header #logo {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    padding-top: 2rem;
 }
 
 #monthlyChartContainer canvas {
@@ -106,13 +108,8 @@ header #logo {
   font-size: 1rem;
 }
 
-#monthlyChartContainer {
-    flex-direction: column;
-    padding-top: 2rem;
-}
-
 #loadReportContainer {
-    padding-top: 2rem;
+    margin-top: 2rem;
     flex-direction: column;
     display: flex;
     align-items: center;
@@ -173,6 +170,12 @@ input[type="date"] {
 
 #vedder-beach {
     margin: 0;
+}
+
+footer {
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 1rem;
 }
 
 @media (max-width: 900px) {
