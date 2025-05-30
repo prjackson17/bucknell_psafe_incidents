@@ -38,9 +38,18 @@ function loadVedderBeach() {
         });
 }
 
+function convertToLocalTimeString(dateString, timeString) {
+    if (!timeString || !dateString) return 'N/A';
+
+    const fullDateTime = new Date(`${dateString}T${timeString}`);
+    if (isNaN(fullDateTime)) return timeString; // fallback
+
+    return fullDateTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+}
+
 function displayReport(data, date) {
     const container = document.getElementById('reportOutput');
-    container.innerHTML = ''; // Clear any previous content
+    container.innerHTML = '';
     const niceDate = new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
     if (!Array.isArray(data) || data.length === 0) {
@@ -48,24 +57,21 @@ function displayReport(data, date) {
         return;
     }
 
-    // Sort incidents by time (ascending)
     data.sort((a, b) => {
-        const timeA = a["Time"] || '';
-        const timeB = b["Time"] || '';
-        // Pad times to ensure correct sorting (e.g., 9:05 -> 09:05)
         const pad = t => t && t.match(/^\d{1,2}:\d{2}/) ? t.padStart(5, '0') : t;
-        return pad(timeA).localeCompare(pad(timeB));
+        return pad(a["Time"] || '').localeCompare(pad(b["Time"] || ''));
     });
 
-    data.forEach((entry, index) => {
+    data.forEach(entry => {
+        const localTime = convertToLocalTimeString(date, entry["Time"]);
         const card = document.createElement('div');
         card.classList.add('incident-card');
 
         card.innerHTML = `
-        <h3>${entry["Time"] || 'N/A'}</h3>
+        <h3>${localTime}</h3>
         <p class="case-number">Case ${entry["Case Number"] || 'N/A'}</p>
         <p class="incident-details"><strong>${entry["Nature"] || 'N/A'}</strong> at <strong>${entry["Location"] || 'N/A'}</strong></p>
-        `
+        `;
 
         container.appendChild(card);
     });
@@ -76,23 +82,21 @@ function loadMonthlyStats() {
         .then(response => response.json())
         .then(data => {
             const currentYear = new Date().getFullYear();
-            const minYear = 2024; // Adjust as needed
+            const minYear = 2024;
 
-            // Filter out unreasonable years
-            const filteredEntries = Object.entries(data).filter(([key, value]) => {
+            const filteredEntries = Object.entries(data).filter(([key]) => {
                 const year = parseInt(key.split('-')[0]);
                 return year >= minYear && year <= currentYear;
             });
 
-            // Sort by date
             filteredEntries.sort((a, b) => a[0].localeCompare(b[0]));
 
-            // Prepare chart data with labels like "May 25"
             const labels = filteredEntries.map(([key]) => {
                 const [year, month] = key.split('-');
                 const date = new Date(year, parseInt(month) - 1);
                 return date.toLocaleString('en-US', { month: 'short', year: '2-digit' }).replace(',', '');
             });
+
             const values = filteredEntries.map(([_, val]) => val);
 
             renderChart(labels, values);
@@ -104,8 +108,8 @@ function loadMonthlyStats() {
 }
 
 let chart;
-let cardBGColor = '#063552'; // blue gray
-let tanText = '#e8dac9'; // tan
+let cardBGColor = '#063552';
+let tanText = '#e8dac9';
 
 function renderChart(labels, values) {
     const chartEl = document.getElementById('monthlyChart');
@@ -115,11 +119,9 @@ function renderChart(labels, values) {
     }
 
     const ctx = chartEl.getContext('2d');
-
     if (chart) chart.destroy();
 
-    // Compute Weighted Moving Average
-    const weights = [3, 2, 1]; // 3 month WMA
+    const weights = [3, 2, 1];
     const wma = computeWeightedMovingAverage(values, weights);
 
     chart = new Chart(ctx, {
@@ -131,7 +133,7 @@ function renderChart(labels, values) {
                     label: '3-Month Weighted Moving Average',
                     data: wma,
                     type: 'line',
-                    borderColor: '#f6ad55',     // lighter orange
+                    borderColor: '#f6ad55',
                     backgroundColor: 'transparent',
                     tension: 0.3,
                     pointRadius: 0,
@@ -140,8 +142,8 @@ function renderChart(labels, values) {
                 {
                     label: 'Reports per Month',
                     data: values,
-                    backgroundColor: cardBGColor, // dark blue
-                    borderColor: cardBGColor,     // darker blue
+                    backgroundColor: cardBGColor,
+                    borderColor: cardBGColor,
                     borderWidth: 1,
                 }
             ]
@@ -195,7 +197,6 @@ function renderChart(labels, values) {
     });
 }
 
-
 function computeWeightedMovingAverage(data, weights) {
     const wma = [];
     const weightSum = weights.reduce((a, b) => a + b, 0);
@@ -203,7 +204,7 @@ function computeWeightedMovingAverage(data, weights) {
 
     for (let i = 0; i < data.length; i++) {
         if (i < n - 1) {
-            wma.push(null); // not enough data for full window
+            wma.push(null);
         } else {
             let weightedSum = 0;
             for (let j = 0; j < n; j++) {
@@ -221,23 +222,21 @@ function clearReport() {
 }
 
 function formatDate(date) {
-    // Format date as YYYY-MM-DD to match your filenames
     return date.toISOString().slice(0, 10);
 }
-  
+
 async function loadRecentReports() {
     const container = document.getElementById('recentReports');
-    container.innerHTML = ''; // clear previous
+    container.innerHTML = '';
 
     const today = new Date();
 
-    for (let i = 2; i <= 6; i++) {  // previous 5 days, excluding today
+    for (let i = 2; i <= 6; i++) {
         const date = new Date(today);
         date.setDate(today.getDate() - i);
         const formattedDate = formatDate(date);
         const niceDate = date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
-        // Create a single incident card for the date
         const card = document.createElement('div');
         card.classList.add('incident-card');
 
@@ -247,23 +246,20 @@ async function loadRecentReports() {
             container.appendChild(card);
             continue;
         }
-        const data = await response.json();
 
+        const data = await response.json();
         card.innerHTML = `<h3>${niceDate}</h3>`;
 
         if (!Array.isArray(data) || data.length === 0) {
             card.innerHTML += `<p>No incidents reported.</p>`;
         } else {
-            // Sort incidents by time (ascending)
             data.sort((a, b) => {
-                const timeA = a["Time"] || '';
-                const timeB = b["Time"] || '';
                 const pad = t => t && t.match(/^\d{1,2}:\d{2}/) ? t.padStart(5, '0') : t;
-                return pad(timeA).localeCompare(pad(timeB));
+                return pad(a["Time"] || '').localeCompare(pad(b["Time"] || ''));
             });
 
-            card.innerHTML += data.map((entry) => `
-                <p><strong>${entry["Time"] || 'N/A'}</strong></p>
+            card.innerHTML += data.map(entry => `
+                <p><strong>${convertToLocalTimeString(formattedDate, entry["Time"])}</strong></p>
                 <p>${entry["Nature"] || 'N/A'} at ${entry["Location"] || 'N/A'}</p>
             `).join('');
         }
@@ -272,7 +268,6 @@ async function loadRecentReports() {
     }
 }
 
-// sets the max date for the date input to 2 days ago
 function getMaxDate() {
     const dateInput = document.getElementById('reportDate');
     const twoDaysAgo = new Date();
