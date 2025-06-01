@@ -178,14 +178,20 @@ footer {
     padding: 1rem;
 }
 
+@media (max-width: 1400px) {
+    #reportOutput, #recentReports {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media (max-width: 900px) {
-    #reportOutput {
+    #reportOutput, #recentReports {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @media (max-width: 600px) {
-    #reportOutput {
+    #reportOutput, #recentReports {
         grid-template-columns: 1fr;
     }   
 }
