@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 import fitz
 import urllib3
 from openai import OpenAI
-# from prettytable import PrettyTable
+from prettytable import PrettyTable
 import os
 
 # disable warnings from unverified website
@@ -62,7 +62,7 @@ def main():
 
     # Calculate the date two days ago
     two_days_ago = datetime.now() - timedelta(days=1)
-    days = 3
+    days = 5
     all_entries = []
     
     for i in range(days):
@@ -70,10 +70,17 @@ def main():
         current_date = two_days_ago - timedelta(days=i)
         date_str = current_date.strftime('%m%d%y')
 
-        urls = [
-            f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf",
-            f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
-        ]
+        # Decide which URLs to use based on the date
+        if current_date < datetime(2025, 6, 1):
+            urls = [
+                f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf",
+                f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
+            ]
+        else:
+            # new urls after June 1, 2025
+            urls = [
+                f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2Epdf"
+            ]
 
         combined_text = ""
         for url in urls:
@@ -119,19 +126,19 @@ def main():
             json.dump(entries, json_file, indent=4)
 
 
-    # # Print as table
-    # table = PrettyTable()
-    # table.field_names = ["Date", "Time", "Location", "Nature", "Case Number", "Disposition"]
+    # Print as table
+    table = PrettyTable()
+    table.field_names = ["Date", "Time", "Location", "Nature", "Case Number", "Disposition"]
 
-    # for entry in all_entries:
-    #     table.add_row([
-    #         entry.get("Date", ""),
-    #         entry.get("Time", ""),
-    #         entry.get("Location", ""),
-    #         entry.get("Nature", ""),
-    #         entry.get("Case Number", ""),
-    #         entry.get("Disposition", "")
-    #     ])
-    # print(table)
+    for entry in all_entries:
+        table.add_row([
+            entry.get("Date", ""),
+            entry.get("Time", ""),
+            entry.get("Location", ""),
+            entry.get("Nature", ""),
+            entry.get("Case Number", ""),
+            entry.get("Disposition", "")
+        ])
+    print(table)
 
 main()

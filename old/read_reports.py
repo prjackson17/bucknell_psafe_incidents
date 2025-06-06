@@ -24,11 +24,12 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Windows; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36'
 }
 
-two_days_ago = datetime.now() - timedelta(days=1)
+two_days_ago = datetime.now() - timedelta(days=4)
 date_str = two_days_ago.strftime('%m%d%y')
 
-url = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf"
-url2 = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
+# url = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E2%2Epdf"
+# url2 = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2E1%2Epdf"
+url = f"https://www1.bucknell.edu/script/PublicSafety/file.asp?f=crime+log+{date_str}%2Epdf"
 
 response = requests.get(url, headers=headers, verify=False)
 if response.status_code == 200:
@@ -54,16 +55,6 @@ response = client.responses.create(
 )
 
 entries_str = response.output_text
-# entries_str = """[
-#   {
-#     "Date": "5/5/2025",
-#     "Time": "23:28",
-#     "Location": "Smith Hall",
-#     "Nature": "Liquor Laws",
-#     "Case Number": "2025-5968",
-#     "Disposition": "Closed by a Criminal Arrest"
-#   }
-# ]"""
 entries = json.loads(entries_str)
 
 # Print as table
