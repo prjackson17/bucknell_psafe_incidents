@@ -3,7 +3,7 @@
         "Date": "10/26/2024",
         "Time": "00:09",
         "Location": "Harris Hall",
-        "Nature": "Liquor Law Violation",
+        "Nature": "Liquor Laws",
         "Case Number": "2024-13775",
         "Disposition": "Closed by Judicial Referral"
     },
@@ -11,7 +11,7 @@
         "Date": "10/26/2024",
         "Time": "15:47",
         "Location": "-",
-        "Nature": "Liquor Law Violation",
+        "Nature": "Liquor Laws",
         "Case Number": "2024-13800",
         "Disposition": "Closed: Report filed"
     },
@@ -34,8 +34,8 @@
     {
         "Date": "10/26/2024",
         "Time": "00:30",
-        "Location": "-",
-        "Nature": "Liquor Law Violation",
+        "Location": "LLV",
+        "Nature": "Liquor Laws",
         "Case Number": "2024-13776",
         "Disposition": "Closed by Judicial Referral"
     },
@@ -43,7 +43,7 @@
         "Date": "10/26/2024",
         "Time": "00:44",
         "Location": "Mcdonnell Hall",
-        "Nature": "Liquor Law Violation",
+        "Nature": "Liquor Laws",
         "Case Number": "2024-13777",
         "Disposition": "Closed by Judicial Referral"
     }
