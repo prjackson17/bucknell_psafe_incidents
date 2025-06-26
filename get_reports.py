@@ -45,10 +45,10 @@ def get_file(url):
 
     return pdf_file
 
-def create_prompt(text):
+def create_prompt(text, date):
     prompt = f"""
     You are a data assistant. Extract the crime log data from the following text and return it as a Python array of objects.
-    Each object must have keys: Date (MM/DD/YYYY), Time, Location, Nature, Case Number, and Disposition.
+    Each object must have keys: Date ({date.strftime('%m/%d/%Y')}), Time, Location, Nature, Case Number, and Disposition.
     Return ONLY the JSON array. Do NOT include markdown code fences (```), explanations, or extra text.
     Raw text:
     {text}
@@ -96,7 +96,7 @@ def main():
             continue  # No data to process for this date, skip
 
         # create OpenAI prompt and get response
-        prompt = create_prompt(combined_text)
+        prompt = create_prompt(combined_text, current_date)
         response = client.responses.create(
             model="gpt-4.1",
             input=prompt
