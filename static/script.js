@@ -16,7 +16,7 @@ function loadReport() {
             displayReport(data, date);
         })
         .catch(err => {
-            document.getElementById('reportOutput').innerHTML = `<p style="color:red;">Error loading report: ${err.message}</p>`;
+            document.getElementById('reportOutput').innerHTML = `<p>Error loading report: ${err.message}</p>`;
         });
 }
 
