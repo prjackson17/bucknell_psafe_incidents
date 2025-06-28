@@ -268,11 +268,23 @@ async function loadRecentReports() {
     }
 }
 
+// function getMaxDate() {
+//     const dateInput = document.getElementById('reportDate');
+//     const twoDaysAgo = new Date();
+//     twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
+//     const formattedDate = twoDaysAgo.toISOString().split('T')[0];
+
+//     dateInput.value = formattedDate;
+//     dateInput.max = formattedDate;
+// }
+
 function getMaxDate() {
     const dateInput = document.getElementById('reportDate');
-    const twoDaysAgo = new Date();
-    twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
-    const formattedDate = twoDaysAgo.toISOString().split('T')[0];
+    const now = new Date();
+    // Set to midnight local time to avoid timezone issues
+    now.setHours(0, 0, 0, 0);
+    now.setDate(now.getDate() - 2);
+    const formattedDate = now.toISOString().split('T')[0];
 
     dateInput.value = formattedDate;
     dateInput.max = formattedDate;
