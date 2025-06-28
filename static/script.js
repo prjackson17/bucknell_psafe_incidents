@@ -50,7 +50,10 @@ function convertToLocalTimeString(dateString, timeString) {
 function displayReport(data, date) {
     const container = document.getElementById('reportOutput');
     container.innerHTML = '';
-    const niceDate = new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    // Set date to midnight local time to avoid timezone issues
+    const dateObj = new Date(date);
+    dateObj.setHours(0, 0, 0, 0);
+    const niceDate = dateObj.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
     if (!Array.isArray(data) || data.length === 0) {
         container.innerHTML = `<p>No incidents found for ${niceDate}.</p>`;
@@ -267,16 +270,6 @@ async function loadRecentReports() {
         container.appendChild(card);
     }
 }
-
-// function getMaxDate() {
-//     const dateInput = document.getElementById('reportDate');
-//     const twoDaysAgo = new Date();
-//     twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
-//     const formattedDate = twoDaysAgo.toISOString().split('T')[0];
-
-//     dateInput.value = formattedDate;
-//     dateInput.max = formattedDate;
-// }
 
 function getMaxDate() {
     const dateInput = document.getElementById('reportDate');
