@@ -60,6 +60,7 @@ function displayReport(data, date) {
         return;
     }
 
+    // sort by time 
     data.sort((a, b) => {
         const pad = t => t && t.match(/^\d{1,2}:\d{2}/) ? t.padStart(5, '0') : t;
         return pad(a["Time"] || '').localeCompare(pad(b["Time"] || ''));
