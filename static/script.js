@@ -50,6 +50,7 @@ function convertToLocalTimeString(dateString, timeString) {
 function displayReport(data, date) {
     const container = document.getElementById('reportOutput');
     container.innerHTML = '';
+    
     // Set date to midnight local time to avoid timezone issues
     const dateObj = new Date(date);
     dateObj.setHours(0, 0, 0, 0);
