@@ -92,6 +92,14 @@ def main():
 
         if not combined_text:
             print(f"No PDFs available for {current_date.strftime('%Y-%m-%d')}, skipping...")
+            
+            # Save an empty JSON file for this date
+            output_folder = "reports"
+            output_filename = f"{output_folder}/crime_log_{current_date.strftime('%Y-%m-%d')}.json"
+            os.makedirs(output_folder, exist_ok=True)
+            with open(output_filename, "w") as json_file:
+                json.dump([], json_file, indent=4)
+
             continue  # No data to process for this date, skip
 
         # create OpenAI prompt and get response
