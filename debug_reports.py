@@ -48,7 +48,7 @@ def get_file(url):
 def create_prompt(text, date):
     prompt = f"""
     You are a data assistant. Extract the crime log data from the following text and return it as a Python array of objects.
-    Each object must have keys: Date ({date.strftime('%m/%d/%Y')}), Time, Location, Nature, Case Number, and Disposition.
+    Each object must have keys: Date ({date.strftime('%m/%d/%Y')}), Time, Location, Nature, Case Number, and Disposition. Disregard entry if the date listed does not match the date provided.
     Return ONLY the JSON array. Do NOT include markdown code fences (```), explanations, or extra text.
     Raw text:
     {text}
