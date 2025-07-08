@@ -2,7 +2,7 @@
 Parker Jackson
 May 2025
 Reading Bucknell Public Safety Reports
-Main execution file
+Debug execution file with event printout
 """
 
 import io
