@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "07/08/2025",
+        "Time": "23:15",
+        "Location": "LARISON HALL",
+        "Nature": "Liquor, Other",
+        "Case Number": "2508136",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "07/08/2025",
+        "Time": null,
+        "Location": "420 S 7th St",
+        "Nature": "Bicycle",
+        "Case Number": "2508121",
+        "Disposition": null
+    }
+]
