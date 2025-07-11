@@ -9,10 +9,10 @@
     },
     {
         "Date": "07/08/2025",
-        "Time": null,
+        "Time": "",
         "Location": "420 S 7th St",
         "Nature": "Bicycle",
         "Case Number": "2508121",
-        "Disposition": null
+        "Disposition": ""
     }
 ]
