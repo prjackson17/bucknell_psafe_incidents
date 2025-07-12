@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "07/10/2025",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "Theft Other",
+        "Case Number": "2508171",
+        "Disposition": ""
+    },
+    {
+        "Date": "07/10/2025",
+        "Time": "",
+        "Location": "S 7th St",
+        "Nature": "Found Property",
+        "Case Number": "2508175",
+        "Disposition": ""
+    },
+    {
+        "Date": "07/10/2025",
+        "Time": "",
+        "Location": "Dent Dr",
+        "Nature": "Fondling",
+        "Case Number": "2508179",
+        "Disposition": ""
+    }
+]
