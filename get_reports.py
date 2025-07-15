@@ -61,7 +61,7 @@ def main():
 
     # Calculate the date two days ago
     two_days_ago = datetime.now() - timedelta(days=1)
-    days = 7
+    days = 3
     all_entries = []
     
     for i in range(days):
