@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "07/18/2025",
+        "Time": "",
+        "Location": "370 Harris Dr",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2508353",
+        "Disposition": ""
+    },
+    {
+        "Date": "07/18/2025",
+        "Time": "",
+        "Location": "715 Dent Dr",
+        "Nature": "Assist Other Agency",
+        "Case Number": "2508355",
+        "Disposition": ""
+    }
+]
