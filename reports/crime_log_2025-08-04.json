@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "08/04/2025",
+        "Time": "09:22",
+        "Location": "883 MOORE AVE",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2508725",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/04/2025",
+        "Time": "10:05",
+        "Location": "625 SAINT GEORGE ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2508728",
+        "Disposition": ""
+    }
+]
