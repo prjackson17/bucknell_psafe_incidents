@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509261",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509262",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Fraud Imperson",
+        "Case Number": "2509262",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
