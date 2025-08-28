@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "08/26/2025",
+        "Time": "19:00",
+        "Location": "216 SOUTH CAMPUS DR",
+        "Nature": "Assist Public",
+        "Case Number": "2509330",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/26/2025",
+        "Time": "",
+        "Location": "490 S 7th St",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2509333",
+        "Disposition": ""
+    }
+]
