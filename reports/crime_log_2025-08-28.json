@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "08/28/2025",
+        "Time": "00:38",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2509367",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/28/2025",
+        "Time": "00:38",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509367",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/28/2025",
+        "Time": null,
+        "Location": "565 Coleman Dr",
+        "Nature": "Harassing Communication",
+        "Case Number": "2509368",
+        "Disposition": null
+    },
+    {
+        "Date": "08/28/2025",
+        "Time": null,
+        "Location": "565 Coleman Dr",
+        "Nature": "Obscene Material, Possess",
+        "Case Number": "2509368",
+        "Disposition": null
+    },
+    {
+        "Date": "08/28/2025",
+        "Time": null,
+        "Location": null,
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509394",
+        "Disposition": null
+    },
+    {
+        "Date": "08/28/2025",
+        "Time": null,
+        "Location": "521 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509395",
+        "Disposition": null
+    }
+]
