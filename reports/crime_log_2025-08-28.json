@@ -17,34 +17,34 @@
     },
     {
         "Date": "08/28/2025",
-        "Time": null,
+        "Time": "",
         "Location": "565 Coleman Dr",
         "Nature": "Harassing Communication",
         "Case Number": "2509368",
-        "Disposition": null
+        "Disposition": ""
     },
     {
         "Date": "08/28/2025",
-        "Time": null,
+        "Time": "",
         "Location": "565 Coleman Dr",
         "Nature": "Obscene Material, Possess",
         "Case Number": "2509368",
-        "Disposition": null
+        "Disposition": ""
     },
     {
         "Date": "08/28/2025",
-        "Time": null,
-        "Location": null,
+        "Time": "",
+        "Location": "",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2509394",
-        "Disposition": null
+        "Disposition": ""
     },
     {
         "Date": "08/28/2025",
-        "Time": null,
+        "Time": "",
         "Location": "521 Saint George St",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2509395",
-        "Disposition": null
+        "Disposition": ""
     }
 ]
