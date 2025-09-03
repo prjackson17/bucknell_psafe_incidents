@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "09/01/2025",
+        "Time": "8/31/2025 21:00",
+        "Location": "600 WALKER ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509500",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/01/2025",
+        "Time": "9/1/2025 07:11",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509501",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/01/2025",
+        "Time": "9/1/2025 18:20",
+        "Location": "701 MOORE AVE",
+        "Nature": "Theft Other",
+        "Case Number": "2509524",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
