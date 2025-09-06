@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/04/2025",
+        "Time": "11:31",
+        "Location": "198 BUCKNELL WEST DR",
+        "Nature": "Suspicious Person",
+        "Case Number": "2509610",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/04/2025",
+        "Time": "",
+        "Location": "521 Saint George St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2509603",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
