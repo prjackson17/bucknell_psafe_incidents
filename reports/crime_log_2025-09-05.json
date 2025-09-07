@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "09/05/2025",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2509652",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/05/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2509663",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/05/2025",
+        "Time": "",
+        "Location": "S 7th St & South Campus Dr",
+        "Nature": "Traffic Offense",
+        "Case Number": "2509682",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/05/2025",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2509684",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
