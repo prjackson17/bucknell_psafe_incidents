@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "09/06/2025",
+        "Time": "17:30",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2509711",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/06/2025",
+        "Time": "",
+        "Location": "",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509691",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/06/2025",
+        "Time": "",
+        "Location": "521 Saint George St",
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2509694",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/06/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2509705",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/06/2025",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2509713",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/06/2025",
+        "Time": "",
+        "Location": "521 Saint George St",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2509719",
+        "Disposition": ""
+    }
+]
