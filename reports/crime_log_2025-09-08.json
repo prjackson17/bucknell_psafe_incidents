@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/08/2025",
+        "Time": null,
+        "Location": "570 Vaughan Lit Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509764",
+        "Disposition": null
+    },
+    {
+        "Date": "09/08/2025",
+        "Time": null,
+        "Location": "600 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509767",
+        "Disposition": null
+    }
+]
