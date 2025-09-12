@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/10/2025",
+        "Time": "19:05",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2509858",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/10/2025",
+        "Time": "",
+        "Location": "S 7th St & Saint George St",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2509861",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
