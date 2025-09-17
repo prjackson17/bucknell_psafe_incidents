@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/15/2025",
+        "Time": "11:45",
+        "Location": "380 S 7TH ST",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2510037",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/15/2025",
+        "Time": "18:36",
+        "Location": "27 BUCKNELL WEST DR",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2510049",
+        "Disposition": ""
+    }
+]
