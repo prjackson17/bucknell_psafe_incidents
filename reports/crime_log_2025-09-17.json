@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/17/2025",
+        "Time": "10:32",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Electronic Communication",
+        "Case Number": "2510106",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/17/2025",
+        "Time": "13:25",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510109",
+        "Disposition": ""
+    }
+]
