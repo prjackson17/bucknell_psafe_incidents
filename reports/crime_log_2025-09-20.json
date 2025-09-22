@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "09/20/2025",
+        "Time": "00:11",
+        "Location": "600 WALKER ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2510213",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/20/2025",
+        "Time": "00:58",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2510214",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/20/2025",
+        "Time": "15:18",
+        "Location": "JAMES ALY",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2510232",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/20/2025",
+        "Time": "15:18",
+        "Location": "JAMES ALY",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510232",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/20/2025",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2510216",
+        "Disposition": ""
+    }
+]
