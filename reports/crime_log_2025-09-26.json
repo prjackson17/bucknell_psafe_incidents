@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/26/2025",
+        "Time": "02:06",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510423",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/26/2025",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510425",
+        "Disposition": ""
+    }
+]
