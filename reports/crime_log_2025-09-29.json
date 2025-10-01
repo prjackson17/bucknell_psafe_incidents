@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "09/29/2025",
+        "Time": null,
+        "Location": "23 University Ave",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2510543",
+        "Disposition": null
+    },
+    {
+        "Date": "09/29/2025",
+        "Time": null,
+        "Location": "600 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510545",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/29/2025",
+        "Time": null,
+        "Location": "701 Moore Avenue",
+        "Nature": "Theft Other",
+        "Case Number": "2510552",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/29/2025",
+        "Time": null,
+        "Location": "580 Snake Road",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510559",
+        "Disposition": null
+    }
+]
