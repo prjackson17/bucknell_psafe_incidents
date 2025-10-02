@@ -1,15 +1,15 @@
 [
     {
         "Date": "09/29/2025",
-        "Time": null,
+        "Time": "",
         "Location": "23 University Ave",
         "Nature": "Criminal Mischief",
         "Case Number": "2510543",
-        "Disposition": null
+        "Disposition": ""
     },
     {
         "Date": "09/29/2025",
-        "Time": null,
+        "Time": "",
         "Location": "600 Walker St",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510545",
@@ -17,7 +17,7 @@
     },
     {
         "Date": "09/29/2025",
-        "Time": null,
+        "Time": "",
         "Location": "701 Moore Avenue",
         "Nature": "Theft Other",
         "Case Number": "2510552",
@@ -25,10 +25,10 @@
     },
     {
         "Date": "09/29/2025",
-        "Time": null,
+        "Time": "",
         "Location": "580 Snake Road",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2510559",
-        "Disposition": null
+        "Disposition": ""
     }
 ]
