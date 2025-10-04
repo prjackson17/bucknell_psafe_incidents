@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/02/2025",
+        "Time": "12:43",
+        "Location": "490 S 7TH ST",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2510654",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/02/2025",
+        "Time": "16:28",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Fraud Imperson",
+        "Case Number": "2510667",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
