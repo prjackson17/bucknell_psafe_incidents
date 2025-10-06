@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "10/04/2025",
+        "Time": "01:20",
+        "Location": "51 STROHECKER FARM LN",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510722",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": "02:30",
+        "Location": "560 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510726",
+        "Disposition": null
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": "01:40",
+        "Location": "ELAINE LANGONE CENTER",
+        "Nature": "Shoplifting",
+        "Case Number": "2510724",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": "01:40",
+        "Location": "ELAINE LANGONE CENTER",
+        "Nature": "Liquor, Other",
+        "Case Number": "2510724",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": "20:52",
+        "Location": "198 BUCKNELL WEST DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510754",
+        "Disposition": null
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": "22:19",
+        "Location": "570 LOOMIS ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510758",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": null,
+        "Location": "565 Coleman Dr",
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2510750",
+        "Disposition": null
+    }
+]
