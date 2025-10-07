@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/05/2025",
+        "Time": "02:54",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Undetermined",
+        "Case Number": "2510768",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/05/2025",
+        "Time": "04:45",
+        "Location": "701 MOORE AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510769",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]

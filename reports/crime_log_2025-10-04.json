@@ -13,7 +13,7 @@
         "Location": "560 S 7TH ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2510726",
-        "Disposition": null
+        "Disposition": ""
     },
     {
         "Date": "10/04/2025",
@@ -37,7 +37,7 @@
         "Location": "198 BUCKNELL WEST DR",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2510754",
-        "Disposition": null
+        "Disposition": ""
     },
     {
         "Date": "10/04/2025",
@@ -49,10 +49,10 @@
     },
     {
         "Date": "10/04/2025",
-        "Time": null,
+        "Time": "",
         "Location": "565 Coleman Dr",
         "Nature": "Liquor, Manufacture",
         "Case Number": "2510750",
-        "Disposition": null
+        "Disposition": ""
     }
 ]
