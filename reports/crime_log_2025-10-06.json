@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/06/2025",
+        "Time": "07:57",
+        "Location": "397 UNIVERSITY AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510806",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/06/2025",
+        "Time": "20:14",
+        "Location": "165 GATEWAY DR",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2510826",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
