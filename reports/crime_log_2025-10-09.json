@@ -17,7 +17,7 @@
     },
     {
         "Date": "10/09/2025",
-        "Time": null,
+        "Time": "",
         "Location": "565 Coleman Dr",
         "Nature": "Other Controlled Substances",
         "Case Number": "2510908",
@@ -25,10 +25,18 @@
     },
     {
         "Date": "10/09/2025",
-        "Time": null,
+        "Time": "",
         "Location": "565 Coleman Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510911",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/09/2025",
+        "Time": "",
+        "Location": "825 Fraternity Rd",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510948",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

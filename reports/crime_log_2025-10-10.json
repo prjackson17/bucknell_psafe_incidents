@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "10/10/2025",
+        "Time": "20:00",
+        "Location": "580 S 7TH ST",
+        "Nature": "Traffic Offense",
+        "Case Number": "2510955",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/10/2025",
+        "Time": "20:00",
+        "Location": "580 S 7TH ST",
+        "Nature": "Traffic Offense",
+        "Case Number": "2510955",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/10/2025",
+        "Time": "00:00",
+        "Location": "79 STROHECKER FARM LN",
+        "Nature": "Damaged Property, Private",
+        "Case Number": "2510961",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/10/2025",
+        "Time": "00:00",
+        "Location": "79 STROHECKER FARM LN",
+        "Nature": "Burglary, Unforced Entry Residence",
+        "Case Number": "2510961",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/10/2025",
+        "Time": "09:00",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "Theft Other",
+        "Case Number": "2510967",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
