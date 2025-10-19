@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "10/17/2025",
+        "Time": "00:14",
+        "Location": "528 SAINT GEORGE ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2511164",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/17/2025",
+        "Time": "11:06",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511179",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/17/2025",
+        "Time": "20:37",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "Other Animal Calls",
+        "Case Number": "2511198",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/17/2025",
+        "Time": "23:12",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511202",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/17/2025",
+        "Time": "23:12",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Sell",
+        "Case Number": "2511202",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
