@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/22/2025",
+        "Time": "16:45",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2511412",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/22/2025",
+        "Time": null,
+        "Location": "560 Pascucci Dr",
+        "Nature": "Hospital Transport",
+        "Case Number": "2511425",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
