@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "10/23/2025",
+        "Time": "",
+        "Location": "16 Bucknell West Dr",
+        "Nature": "Vehicle Theft, Auto",
+        "Case Number": "2511435",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/23/2025",
+        "Time": "",
+        "Location": "16 Bucknell West Dr",
+        "Nature": "Unauthorized Use, Auto (Joy riding)",
+        "Case Number": "2511435",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/23/2025",
+        "Time": "",
+        "Location": "16 Bucknell West Dr",
+        "Nature": "Receive Stolen Vehicle",
+        "Case Number": "2511435",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/23/2025",
+        "Time": "",
+        "Location": "16 Bucknell West Dr",
+        "Nature": "Possess Stolen Vehicle",
+        "Case Number": "2511435",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/23/2025",
+        "Time": "",
+        "Location": "1 Hospital Dr",
+        "Nature": "Rape, Other Weapon",
+        "Case Number": "2511460",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
