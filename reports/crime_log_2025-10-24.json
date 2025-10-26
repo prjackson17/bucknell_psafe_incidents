@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "10/24/2025",
+        "Time": "04:02",
+        "Location": "SAINT GEORGE ST & S 6TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511470",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "10/24/2025",
+        "Time": "12:53",
+        "Location": "701 MOORE AVE",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2511484",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/24/2025",
+        "Time": "22:00",
+        "Location": "380 S 7TH ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2511509",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/24/2025",
+        "Time": "22:45",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2511510",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/24/2025",
+        "Time": "17:06",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Mental Subject",
+        "Case Number": "2511492",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/24/2025",
+        "Time": "15:06",
+        "Location": "BREAKIRON LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511490",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
