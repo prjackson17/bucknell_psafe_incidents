@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "10/25/2025",
+        "Time": "00:00",
+        "Location": "600 WALKER ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2511514",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/25/2025",
+        "Time": "02:02",
+        "Location": "380 S 7TH ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2511518",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/25/2025",
+        "Time": "02:02",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511518",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/25/2025",
+        "Time": "11:54",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2511529",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/25/2025",
+        "Time": "18:10",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511547",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/25/2025",
+        "Time": "23:56",
+        "Location": "570 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511557",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/25/2025",
+        "Time": "",
+        "Location": "78 University Ave",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2511517",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
