@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/31/2025",
+        "Time": "23:52",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511785",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/31/2025",
+        "Time": "",
+        "Location": "780 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511771",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
