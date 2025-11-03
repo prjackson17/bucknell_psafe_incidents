@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "11/01/2025",
+        "Time": "00:30",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511792",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "00:30",
+        "Location": "380 S 7TH ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2511792",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "00:30",
+        "Location": "380 S 7TH ST",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2511792",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "01:00",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511790",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "00:47",
+        "Location": "701 MOORE AVE",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511787",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "20:02",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511825",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "",
+        "Location": "32 Bucknell West Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511791",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
