@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "11/02/2025",
+        "Time": "",
+        "Location": "165 Gateway Dr",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2511840",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/02/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511837",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/02/2025",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511839",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/02/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511844",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
