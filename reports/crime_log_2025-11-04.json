@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/04/2025",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2511956",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/04/2025",
+        "Time": "",
+        "Location": "64 University Ave",
+        "Nature": "Assist Public",
+        "Case Number": "2511967",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
