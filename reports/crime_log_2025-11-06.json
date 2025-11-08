@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/06/2025",
+        "Time": "22:38",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Assist Public",
+        "Case Number": "2512025",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/06/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512001",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
