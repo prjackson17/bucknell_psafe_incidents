@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/07/2025",
+        "Time": "10:43",
+        "Location": "616 COLEMAN HALL DR",
+        "Nature": "Theft Other",
+        "Case Number": "2512044",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/07/2025",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "Theft Other",
+        "Case Number": "2512042",
+        "Disposition": ""
+    }
+]
