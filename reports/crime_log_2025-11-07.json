@@ -9,10 +9,10 @@
     },
     {
         "Date": "11/07/2025",
-        "Time": "",
+        "Time": null,
         "Location": "580 Snake Road",
         "Nature": "Theft Other",
         "Case Number": "2512042",
-        "Disposition": ""
+        "Disposition": null
     }
 ]
