@@ -1,10 +1,26 @@
 [
     {
         "Date": "11/14/2025",
-        "Time": "14:13",
-        "Location": "23 University Ave",
+        "Time": "17:59",
+        "Location": "292 BROWN ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512325",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/14/2025",
+        "Time": "",
+        "Location": "",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512271",
-        "Disposition": ""
+        "Case Number": "2512315",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/14/2025",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "Theft Other",
+        "Case Number": "2512319",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]
