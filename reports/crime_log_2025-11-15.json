@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "11/15/2025",
+        "Time": "21:59",
+        "Location": "27 BUCKNELL WEST DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2512383",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/15/2025",
+        "Time": "",
+        "Location": "580 Coleman Drive",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512363",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/15/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2512375",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
