@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/16/2025",
+        "Time": "13:00",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2512405",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/16/2025",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512412",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
