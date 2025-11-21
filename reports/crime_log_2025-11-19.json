@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/19/2025",
+        "Time": "23:01",
+        "Location": "570 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2512538",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/19/2025",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512526",
+        "Disposition": ""
+    }
+]
