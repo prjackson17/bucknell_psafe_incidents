@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "James Aly",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2512542",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "James Aly",
+        "Nature": "Liquor, Other",
+        "Case Number": "2512542",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2512543",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512560",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512567",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2512578",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
