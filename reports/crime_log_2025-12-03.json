@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "12/3/2025",
+        "Time": "17:00",
+        "Location": "PARKING LOT #17",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512843",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "12/3/2025",
+        "Time": "10:36",
+        "Location": "19 STROHECKER FARM LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512844",
+        "Disposition": ""
+    }
+]
