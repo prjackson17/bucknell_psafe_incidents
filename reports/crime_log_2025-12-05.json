@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "12/05/2025",
+        "Time": "01:27",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2512908",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "08:10",
+        "Location": "630 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512911",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "08:19",
+        "Location": "LEWISBURG,",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512912",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "08:20",
+        "Location": "LEWISBURG,",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512913",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "08:29",
+        "Location": "LEWISBURG,",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512914",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "18:00",
+        "Location": "700 CAMPUS LANE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512939",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
