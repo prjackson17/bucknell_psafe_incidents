@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "12/08/2025",
+        "Time": "11:00",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513054",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/08/2025",
+        "Time": "18:05",
+        "Location": "778 MOORE AVE",
+        "Nature": "Theft Other",
+        "Case Number": "2513063",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/08/2025",
+        "Time": "19:59",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2513065",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/08/2025",
+        "Time": "",
+        "Location": "South Campus Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513052",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/08/2025",
+        "Time": "",
+        "Location": "South Campus Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513057",
+        "Disposition": ""
+    }
+]
