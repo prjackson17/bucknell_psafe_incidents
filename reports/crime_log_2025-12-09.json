@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "12/09/2025",
+        "Time": "00:09",
+        "Location": "PASCUCCI AND FATERNITY",
+        "Nature": "Assist Public",
+        "Case Number": "2513072",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/09/2025",
+        "Time": "",
+        "Location": "538 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513082",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
