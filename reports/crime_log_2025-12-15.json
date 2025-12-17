@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "12/15/2025",
+        "Time": "03:58",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2513287",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/15/2025",
+        "Time": "11:11",
+        "Location": "701 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513294",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
