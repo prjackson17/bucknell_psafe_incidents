@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "12/16/2025",
+        "Time": "22:03",
+        "Location": "775 DENT DRIVE",
+        "Nature": "Bomb Threat/Explosion",
+        "Case Number": "2513357",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "12/16/2025",
+        "Time": "21:05",
+        "Location": "580 VAUGHAN LIT DR",
+        "Nature": "Unintentional, Electrical",
+        "Case Number": "2513356",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/16/2025",
+        "Time": "",
+        "Location": "",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2513335",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/16/2025",
+        "Time": "",
+        "Location": "508 Snake Rd",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513342",
+        "Disposition": ""
+    }
+]
