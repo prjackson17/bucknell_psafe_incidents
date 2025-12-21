@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Bucknell Public Safety Reports</title>
     <meta charset="UTF-8">
@@ -14,42 +14,53 @@
 </head>
 <body>
     <header>
-        <a href="#top"><img src="{{ url_for('static', filename='favicon.ico') }}" id="logo" alt="Bucknell Logo" /></a>
+        <a href="#top" class="logo-link"><img src="{{ url_for('static', filename='favicon.ico') }}" id="logo" alt="Bucknell Logo" /></a>
         <div id="headerText">
-            <h1>Bucknell Public Safety Reports</h1>
+            <h1>Public Safety Reports</h1>
+            <p class="header-subtitle">Bucknell University</p>
         </div>
     </header>
 
-    <div id="mainContainer">
-        <div id="recentReportsContainer">
-            <h2>Recent 5 Days Reports</h2>
-            <p>* The most recent report is usually posted two days after the incident date.</p>  
-            <pre id="recentReports"></pre>
-        </div>
+    <main id="mainContainer">
+        <section id="recentReportsContainer">
+            <div class="section-header">
+                <h2>Recent Reports</h2>
+                <p class="section-note">The most recent report is usually posted two days after the incident date.</p>
+            </div>
+            <div id="recentReports"></div>
+        </section>
 
-        <div id="monthlyChartContainer">
-            <h2>Monthly Trend Chart</h2>
-            <canvas id="monthlyChart"></canvas>
-        </div>
+        <section id="monthlyChartContainer">
+            <div class="section-header">
+                <h2>Monthly Trend</h2>
+            </div>
+            <div class="chart-wrapper">
+                <canvas id="monthlyChart"></canvas>
+            </div>
+        </section>
 
-        <div id="loadReportContainer">
-            <h2>Load Report by Date</h2>
+        <section id="loadReportContainer">
+            <div class="section-header">
+                <h2>Load Report by Date</h2>
+            </div>
             <div id="userInput">
-                <input type="date" id="reportDate" min="2024-01-01" />
+                <input type="date" id="reportDate" min="2024-01-01" aria-label="Select report date" />
                 <button onclick="loadReport()">Load Report</button>
                 <button onclick="clearReport()">Clear</button>
-                <button onclick="loadVedderBeach()">Vedder Beach</button>
             </div>
-            <p>* Times are listed in order, 24-hour format</p>
-            <p id="vedder-beach">** Vedder Beach - Feb. 2, 2024</p>
-            <pre id="reportOutput"></pre>
-        </div>
-    </div>
+            <div class="info-notes">
+                <p class="info-note">Times are listed in order, 24-hour format</p>
+            </div>
+            <div id="reportOutput"></div>
+        </section>
+    </main>
 
     <footer>
-        <p>Created by <a href="https://github.com/prjackson17" target="_blank">Parker Jackson</a></p>
-        <p>Data collected from Bucknell University's Public Safety Crime Logs (2024-Present)</p>
-        <p>Independently created and not affiliated with Bucknell University</p>
+        <div class="footer-content">
+            <p>Created by <a href="https://github.com/prjackson17" target="_blank">Parker Jackson</a></p>
+            <p>Data collected from Bucknell University's Public Safety Crime Logs (2024-Present)</p>
+            <p class="disclaimer">Independently created and not affiliated with Bucknell University</p>
+        </div>
     </footer>
 </body>
 </html>

@@ -51,9 +51,9 @@ function displayReport(data, date) {
     const container = document.getElementById('reportOutput');
     container.innerHTML = '';
     
-    // Set date to midnight local time to avoid timezone issues
-    const dateObj = new Date(date);
-    dateObj.setHours(0, 0, 0, 0);
+    // Parse date string directly without timezone conversion
+    const [year, month, day] = date.split('-').map(Number);
+    const dateObj = new Date(year, month - 1, day);
     const niceDate = dateObj.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
     if (!Array.isArray(data) || data.length === 0) {
