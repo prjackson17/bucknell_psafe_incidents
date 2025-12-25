@@ -20,24 +20,6 @@ function loadReport() {
         });
 }
 
-function loadVedderBeach() {
-    const date = '2024-02-02';
-
-    fetch(`/reports/crime_log_${date}.json`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('No report found for this date');
-            }
-            return response.json();
-        })
-        .then(data => {
-            displayReport(data, date);
-        })
-        .catch(err => {
-            document.getElementById('reportOutput').innerHTML = `<p style="color:red;">Error loading report: ${err.message}</p>`;
-        });
-}
-
 function convertToLocalTimeString(dateString, timeString) {
     if (!timeString || !dateString) return 'N/A';
 
@@ -235,11 +217,18 @@ async function loadRecentReports() {
     container.innerHTML = '';
 
     const today = new Date();
+    today.setHours(0, 0, 0, 0); // Set to midnight local time
 
     for (let i = 2; i <= 6; i++) {
         const date = new Date(today);
         date.setDate(today.getDate() - i);
-        const formattedDate = formatDate(date);
+        date.setHours(0, 0, 0, 0); // Ensure midnight local time
+        
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        const formattedDate = `${year}-${month}-${day}`;
+        
         const niceDate = date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
         const card = document.createElement('div');
