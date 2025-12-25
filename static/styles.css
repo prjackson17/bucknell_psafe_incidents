@@ -116,9 +116,65 @@ section {
 /* Recent Reports Grid */
 #recentReports {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: var(--spacing-md);
-    max-width: 100%;
+    gap: 1rem;
+    width: 100%;
+}
+
+/* Ensure cards take up appropriate space */
+#recentReports .incident-card {
+    width: 100%;
+    min-height: 150px;
+}
+
+/* For larger screens, 3 columns with Olympic rings layout (3 on top, 2 centered below) */
+@media (min-width: 1024px) {
+    #recentReports {
+        grid-template-columns: repeat(6, 1fr);
+    }
+    
+    /* First three items take 2 columns each (spans full 6 columns) */
+    #recentReports .incident-card:nth-child(1),
+    #recentReports .incident-card:nth-child(2),
+    #recentReports .incident-card:nth-child(3) {
+        grid-column: span 2;
+    }
+    
+    /* Fourth item starts at column 2 (leaving 1 column gap on left) */
+    #recentReports .incident-card:nth-child(4) {
+        grid-column: 2 / 4;
+    }
+    
+    /* Fifth item spans columns 4-6 (leaving 1 column gap on right) */
+    #recentReports .incident-card:nth-child(5) {
+        grid-column: 4 / 6;
+    }
+}
+
+/* For medium screens, 2 columns (2-2-1 centered layout) */
+@media (min-width: 768px) and (max-width: 1023px) {
+    #recentReports {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    
+    /* First four items take 2 columns each */
+    #recentReports .incident-card:nth-child(1),
+    #recentReports .incident-card:nth-child(2),
+    #recentReports .incident-card:nth-child(3),
+    #recentReports .incident-card:nth-child(4) {
+        grid-column: span 2;
+    }
+    
+    /* Center the 5th item (columns 2-4, leaving 1 column on each side) */
+    #recentReports .incident-card:nth-child(5) {
+        grid-column: 2 / 4;
+    }
+}
+
+/* For mobile, stack vertically */
+@media (max-width: 767px) {
+    #recentReports {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* Report Output Grid */
