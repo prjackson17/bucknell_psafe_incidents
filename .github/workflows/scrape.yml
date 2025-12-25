@@ -2,8 +2,8 @@ name: Daily Crime Log Scraper
 
 on:
   schedule:
-    - cron: '30 12 * * *'   # Runs every day at 12:30 UTC
-  workflow_dispatch:        # Manual run option in GitHub
+    - cron: '0 5 * * *'
+  workflow_dispatch:    
 
 jobs:
   run-scraper:

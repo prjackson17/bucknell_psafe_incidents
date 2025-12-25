@@ -16,9 +16,7 @@ An independently maintained project that scrapes, parses, and visualizes crime l
 
 ## 🚀 Live Site
 
-🌐 [parkerrjackson.com](https://parkerrjackson.com) 
-
-*may take a minute for Render to initialize*
+🌐 [psafe.parkerrjackson.com](https://psafe.parkerrjackson.com) 
 
 ---
 
@@ -61,7 +59,7 @@ An independently maintained project that scrapes, parses, and visualizes crime l
 
 This project supports daily scraping and Git commit via a GitHub Actions workflow:
 
-- `.github/workflows/update_reports.yml`
+- `.github/workflows/scrape.yml`
 
 ---
 
