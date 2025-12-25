@@ -340,6 +340,7 @@ footer a:hover {
 
     #logo {
         width: 60px;
+        height: 60px;
     }
 
     #headerText h1 {
@@ -370,8 +371,12 @@ footer a:hover {
     }
 
     .chart-wrapper {
-        padding: var(--spacing-sm);
-        min-height: 250px;
+        height: 400px;
+        padding: 10px;
+    }
+
+    #monthlyChart {
+        max-height: 380px;
     }
 
     #userInput {

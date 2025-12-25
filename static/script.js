@@ -111,6 +111,8 @@ function renderChart(labels, values) {
     const weights = [3, 2, 1];
     const wma = computeWeightedMovingAverage(values, weights);
 
+    const isMobile = window.innerWidth <= 768;
+
     chart = new Chart(ctx, {
         type: 'bar',
         data: {
@@ -137,6 +139,7 @@ function renderChart(labels, values) {
         },
         options: {
             responsive: true,
+            maintainAspectRatio: !isMobile,
             interaction: {
                 mode: 'index',
                 intersect: false,
@@ -144,28 +147,33 @@ function renderChart(labels, values) {
             scales: {
                 x: {
                     title: {
-                        display: true,
+                        display: !isMobile,
                         text: 'Month',
                         color: tanText,
-                        font: { weight: 'bold' }
+                        font: { weight: 'bold', size: isMobile ? 10 : 12 }
                     },
                     ticks: {
-                        color: tanText
+                        color: tanText,
+                        font: { size: isMobile ? 9 : 11 },
+                        maxRotation: isMobile ? 45 : 0,
+                        minRotation: isMobile ? 45 : 0
                     },
                     grid: {
-                        color: tanText
+                        color: tanText,
+                        display: !isMobile
                     }
                 },
                 y: {
                     beginAtZero: true,
                     title: {
-                        display: true,
+                        display: !isMobile,
                         text: 'Number of Reports',
                         color: tanText,
-                        font: { weight: 'bold' }
+                        font: { weight: 'bold', size: isMobile ? 10 : 12 }
                     },
                     ticks: {
-                        color: tanText
+                        color: tanText,
+                        font: { size: isMobile ? 9 : 11 }
                     },
                     grid: {
                         color: tanText
@@ -176,7 +184,9 @@ function renderChart(labels, values) {
                 legend: {
                     position: 'top',
                     labels: {
-                        color: tanText
+                        color: tanText,
+                        font: { size: isMobile ? 10 : 12 },
+                        boxWidth: isMobile ? 20 : 40
                     }
                 }
             }
@@ -272,10 +282,19 @@ function getMaxDate() {
 
     dateInput.value = formattedDate;
     dateInput.max = formattedDate;
+    
+    // Automatically load the report for the most recent date
+    loadReport();
 }
 
 document.addEventListener("DOMContentLoaded", () => {
     loadMonthlyStats();
     loadRecentReports();
     getMaxDate();
+    
+    // Auto-load report when date is selected
+    const dateInput = document.getElementById('reportDate');
+    if (dateInput) {
+        dateInput.addEventListener('change', loadReport);
+    }
 });
