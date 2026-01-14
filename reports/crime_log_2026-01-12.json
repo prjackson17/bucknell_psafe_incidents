@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "01/12/2026",
+        "Time": "12:51",
+        "Location": "CAMPUS",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600233",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/12/2026",
+        "Time": "15:30",
+        "Location": "365 SERVICE DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2600240",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
