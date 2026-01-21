@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "01/19/2026",
+        "Time": "14:00",
+        "Location": "1 DENT DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2600396",
+        "Disposition": ""
+    },
+    {
+        "Date": "01/19/2026",
+        "Time": "",
+        "Location": "778 Moore Ave",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2600429",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
