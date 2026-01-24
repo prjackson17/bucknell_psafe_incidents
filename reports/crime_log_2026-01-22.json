@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "01/22/2026",
+        "Time": "23:59",
+        "Location": "627 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600551",
+        "Disposition": ""
+    },
+    {
+        "Date": "01/22/2026",
+        "Time": "07:30",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "Criminal Trespass",
+        "Case Number": "2600553",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/22/2026",
+        "Time": "",
+        "Location": "538 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600548",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/22/2026",
+        "Time": "",
+        "Location": "585 Coleman Hall Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600552",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
