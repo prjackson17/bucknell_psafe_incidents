@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "01/23/2026",
+        "Time": "11:48",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2600596",
+        "Disposition": ""
+    },
+    {
+        "Date": "01/23/2026",
+        "Time": "19:00",
+        "Location": "701 MOORE AVE",
+        "Nature": "Lost Property",
+        "Case Number": "2600608",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/23/2026",
+        "Time": "22:00",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2600617",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/23/2026",
+        "Time": "00:44",
+        "Location": "570 S 7TH ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2600584",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/23/2026",
+        "Time": "",
+        "Location": "400 Saint George St",
+        "Nature": "Suspicious Vehicle",
+        "Case Number": "2600588",
+        "Disposition": ""
+    },
+    {
+        "Date": "01/23/2026",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2600613",
+        "Disposition": ""
+    }
+]
