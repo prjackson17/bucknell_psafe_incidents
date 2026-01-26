@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "01/24/2026",
+        "Time": "00:12",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2600619",
+        "Disposition": ""
+    },
+    {
+        "Date": "01/24/2026",
+        "Time": "18:22",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2600642",
+        "Disposition": ""
+    }
+]
