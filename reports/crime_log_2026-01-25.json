@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "01/25/2026",
+        "Time": "02:35",
+        "Location": "78 UNIVERSITY AVE",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2600658",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/25/2026",
+        "Time": "20:56",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2600690",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
