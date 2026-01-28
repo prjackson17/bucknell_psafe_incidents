@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "01/26/2026",
+        "Time": "",
+        "Location": "212 S 6TH ST",
+        "Nature": "Lost Property",
+        "Case Number": "2600694",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/26/2026",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2600695",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/26/2026",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Damaged Property, Private",
+        "Case Number": "2600702",
+        "Disposition": "No Further Incidents."
+    }
+]
