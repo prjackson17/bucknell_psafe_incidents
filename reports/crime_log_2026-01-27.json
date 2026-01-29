@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "01/27/2026",
+        "Time": "09:26",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600731",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/27/2026",
+        "Time": "16:00",
+        "Location": "580 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2600753",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/27/2026",
+        "Time": "14:50",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2600747",
+        "Disposition": ""
+    },
+    {
+        "Date": "01/27/2026",
+        "Time": "",
+        "Location": "149 Gateway Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600735",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/27/2026",
+        "Time": "",
+        "Location": "490 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600748",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
