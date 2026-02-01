@@ -1,10 +1,26 @@
 [
     {
         "Date": "01/30/2026",
-        "Time": "14:10",
-        "Location": "385 Strohecker Farm Ln",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2600815",
-        "Disposition": "No Further Incidents."
+        "Time": "21:39",
+        "Location": "292 BROWN ST",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2600885",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/30/2026",
+        "Time": "22:30",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2600889",
+        "Disposition": "NON UCR REPORTABLE"
+    },
+    {
+        "Date": "01/30/2026",
+        "Time": null,
+        "Location": "Lot 21",
+        "Nature": null,
+        "Case Number": "2600850",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
