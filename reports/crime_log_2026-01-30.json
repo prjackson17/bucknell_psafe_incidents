@@ -13,13 +13,13 @@
         "Location": "538 SAINT GEORGE ST",
         "Nature": "Marijuana, Possession",
         "Case Number": "2600889",
-        "Disposition": "NON UCR REPORTABLE"
+        "Disposition": ""
     },
     {
         "Date": "01/30/2026",
-        "Time": null,
+        "Time": "",
         "Location": "Lot 21",
-        "Nature": null,
+        "Nature": "NON UCR REPORTABLE",
         "Case Number": "2600850",
         "Disposition": "CLOSED RPT FILED"
     }
