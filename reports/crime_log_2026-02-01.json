@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "02/01/2026",
+        "Time": "10:25",
+        "Location": "778 MOORE AVE",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2600955",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/01/2026",
+        "Time": "18:19",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2600967",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/01/2026",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2600947",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
