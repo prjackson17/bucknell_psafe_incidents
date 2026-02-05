@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "02/03/2026",
+        "Time": "22:50",
+        "Location": "525 WEIS DR",
+        "Nature": "Suspicious Person",
+        "Case Number": "2601057",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/03/2026",
+        "Time": null,
+        "Location": "701 Moore Ave",
+        "Nature": "Shoplifting",
+        "Case Number": "2601026",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
