@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "02/04/2026",
+        "Time": "07:42",
+        "Location": "165 GATEWAY DR",
+        "Nature": "Assist Public",
+        "Case Number": "2601064",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "12:18",
+        "Location": "627 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601072",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "13:15",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601074",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "15:38",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2601079",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "17:01",
+        "Location": "165 GATEWAY DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2601082",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "22:09",
+        "Location": "600 WALKER ST",
+        "Nature": "Suspicious Person",
+        "Case Number": "2601096",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2601088",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
