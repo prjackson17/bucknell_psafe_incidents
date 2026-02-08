@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "02/06/2026",
+        "Time": "01:58",
+        "Location": "600 WALKER ST",
+        "Nature": "Drunkenness",
+        "Case Number": "2601147",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "01:58",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2601147",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "",
+        "Location": "605 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601162",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2601190",
+        "Disposition": ""
+    }
+]
