@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "02/07/2026",
+        "Time": "00:50",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2601198",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/07/2026",
+        "Time": "01:38",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2601201",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/07/2026",
+        "Time": "03:25",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2601205",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/07/2026",
+        "Time": "02:15",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601202",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/07/2026",
+        "Time": "04:34",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2601206",
+        "Disposition": ""
+    }
+]
