@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "02/09/2026",
+        "Time": "00:00",
+        "Location": "385 STROHECKER FARM LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601300",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/09/2026",
+        "Time": "00:29",
+        "Location": "380 S 7TH ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2601298",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "02/09/2026",
+        "Time": "10:28",
+        "Location": "627 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601309",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/09/2026",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601306",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/09/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601322",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/09/2026",
+        "Time": "",
+        "Location": "32 Bucknell West Dr",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601332",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
