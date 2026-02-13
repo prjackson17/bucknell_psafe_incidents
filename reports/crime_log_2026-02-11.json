@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "02/11/2026",
+        "Time": "12:50",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601405",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/11/2026",
+        "Time": "",
+        "Location": "1 DENT DRIVE",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2601416",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/11/2026",
+        "Time": "",
+        "Location": "1 DENT DRIVE",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2601417",
+        "Disposition": ""
+    }
+]
