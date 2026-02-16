@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "02/14/2026",
+        "Time": "00:03",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601538",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/14/2026",
+        "Time": "01:13",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2601542",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/14/2026",
+        "Time": "19:21",
+        "Location": "380 S 7TH ST",
+        "Nature": "Aggravated Assault, Family, Strongarm",
+        "Case Number": "2601579",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "02/14/2026",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601555",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/14/2026",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2601580",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
