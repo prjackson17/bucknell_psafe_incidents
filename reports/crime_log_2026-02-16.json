@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "02/16/2026",
+        "Time": "",
+        "Location": "570 Loomis St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601636",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/16/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2601637",
+        "Disposition": "No Further Incidents."
+    }
+]
