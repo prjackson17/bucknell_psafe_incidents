@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "02/17/2026",
+        "Time": "10:41",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601667",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/17/2026",
+        "Time": "",
+        "Location": "627 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601664",
+        "Disposition": "No Further Incidents."
+    }
+]
