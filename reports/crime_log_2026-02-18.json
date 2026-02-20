@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "02/18/2026",
+        "Time": "11:33",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601713",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/18/2026",
+        "Time": "14:03",
+        "Location": "BREAKIRON LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601719",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/18/2026",
+        "Time": "18:55",
+        "Location": "540 S 7TH ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2601733",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
