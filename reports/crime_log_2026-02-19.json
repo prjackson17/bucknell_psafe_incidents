@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "02/19/2026",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601760",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/19/2026",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601778",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
