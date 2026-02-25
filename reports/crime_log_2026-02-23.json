@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "2/23/2026",
+        "Time": "20:50",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601917",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "2/23/2026",
+        "Time": "16:30",
+        "Location": "725 ROTC DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2601923",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "2/23/2026",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601913",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "2/23/2026",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601915",
+        "Disposition": "No Further Incidents."
+    }
+]
