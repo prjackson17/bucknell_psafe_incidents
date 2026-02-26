@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "02/24/2026",
+        "Time": "01:03",
+        "Location": "701 MOORE AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2601941",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/24/2026",
+        "Time": "09:20",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601951",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/24/2026",
+        "Time": "10:55",
+        "Location": "558 CHRISTY MATHEWSON DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601954",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/24/2026",
+        "Time": "11:29",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601955",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/24/2026",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601973",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
