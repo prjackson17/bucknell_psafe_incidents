@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "02/26/2026",
+        "Time": "08:15",
+        "Location": "397 UNIVERSITY AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602040",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/26/2026",
+        "Time": "11:32",
+        "Location": "600 WALKER ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602045",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/26/2026",
+        "Time": "",
+        "Location": "385 Strohecker Farm Ln",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2602028",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/26/2026",
+        "Time": "",
+        "Location": "West Campus",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602037",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
