@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "03/01/2026",
+        "Time": "14:22",
+        "Location": "600 WALKER ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602191",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/01/2026",
+        "Time": "",
+        "Location": "Moore Ave",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2602183",
+        "Disposition": "No Further Incidents."
+    }
+]
