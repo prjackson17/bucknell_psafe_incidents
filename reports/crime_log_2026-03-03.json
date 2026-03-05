@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "03/03/2026",
+        "Time": "12:03",
+        "Location": "145 GATEWAY DR",
+        "Nature": "Fire Alarm",
+        "Case Number": "2602250",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "03/03/2026",
+        "Time": "20:06",
+        "Location": "765 MOORE AVE",
+        "Nature": "Found Property",
+        "Case Number": "2602279",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/03/2026",
+        "Time": "",
+        "Location": "545 Vaughan Lit Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602267",
+        "Disposition": ""
+    }
+]
