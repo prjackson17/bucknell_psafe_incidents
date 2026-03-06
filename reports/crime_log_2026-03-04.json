@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "03/04/2026",
+        "Time": "13:10",
+        "Location": "BREAKIRON LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602301",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/04/2026",
+        "Time": "16:45",
+        "Location": "778 MOORE AVE",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2602315",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/04/2026",
+        "Time": "19:30",
+        "Location": "770 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602320",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
