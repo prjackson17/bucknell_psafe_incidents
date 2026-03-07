@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "03/05/2026",
+        "Time": "01:30",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602340",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "03/05/2026",
+        "Time": "",
+        "Location": "82 UNIVERSITY AVE",
+        "Nature": "STALKING",
+        "Case Number": "2602358",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/05/2026",
+        "Time": "",
+        "Location": "545 Vaughan Lit Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602349",
+        "Disposition": ""
+    }
+]
