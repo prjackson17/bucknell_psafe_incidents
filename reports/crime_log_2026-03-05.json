@@ -9,7 +9,7 @@
     },
     {
         "Date": "03/05/2026",
-        "Time": "",
+        "Time": "Unknown",
         "Location": "82 UNIVERSITY AVE",
         "Nature": "STALKING",
         "Case Number": "2602358",
@@ -17,10 +17,10 @@
     },
     {
         "Date": "03/05/2026",
-        "Time": "",
+        "Time": "Unknown",
         "Location": "545 Vaughan Lit Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2602349",
-        "Disposition": ""
+        "Disposition": "No Further Incidents."
     }
 ]
