@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "03/19/2026",
+        "Time": "01:06",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602744",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "03/19/2026",
+        "Time": "01:50",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602747",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "03/19/2026",
+        "Time": "",
+        "Location": "778 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602789",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/19/2026",
+        "Time": "",
+        "Location": "370 Harris Dr",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2602791",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
