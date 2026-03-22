@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "03/20/2026",
+        "Time": "02:16",
+        "Location": "565 COLEMAN DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602799",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/20/2026",
+        "Time": "23:30",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2602838",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "03/20/2026",
+        "Time": "",
+        "Location": "185 Clubhouse Dr",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2602824",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
