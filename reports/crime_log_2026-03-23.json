@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "03/23/2026",
+        "Time": "15:14",
+        "Location": "701 MOORE AVE",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2602926",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/23/2026",
+        "Time": "",
+        "Location": "623 Coleman Hall Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602918",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/23/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602924",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/23/2026",
+        "Time": "",
+        "Location": "355 Strohecker Farm Ln",
+        "Nature": "Larceny, Parts from Vehicle",
+        "Case Number": "2602931",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/23/2026",
+        "Time": "",
+        "Location": "Housing Service Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602935",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
