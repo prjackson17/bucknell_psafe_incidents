@@ -1,10 +1,18 @@
 [
     {
         "Date": "03/25/2026",
-        "Time": "14:14",
-        "Location": "538 Saint George St",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602965",
-        "Disposition": "No Further Incidents."
+        "Time": "09:42",
+        "Location": "380 S 7TH ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2602989",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/25/2026",
+        "Time": "20:00",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2603009",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
