@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "03/26/2026",
+        "Time": null,
+        "Location": "521 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603024",
+        "Disposition": null
+    },
+    {
+        "Date": "03/26/2026",
+        "Time": null,
+        "Location": "Frat Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603025",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/26/2026",
+        "Time": null,
+        "Location": "580 Vaughan Lit Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603026",
+        "Disposition": null
+    },
+    {
+        "Date": "03/26/2026",
+        "Time": null,
+        "Location": null,
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603038",
+        "Disposition": null
+    },
+    {
+        "Date": "03/26/2026",
+        "Time": null,
+        "Location": "565 Coleman Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603045",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
