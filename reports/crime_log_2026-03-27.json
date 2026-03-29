@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "840 Fraternity Rd",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603068",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "558 Christy Mathewson Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603071",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "Harassing Communication",
+        "Case Number": "2603073",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603074",
+        "Disposition": ""
+    }
+]
