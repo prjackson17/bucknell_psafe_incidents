@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "03/28/2026",
+        "Time": "00:08",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2603103",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "03/28/2026",
+        "Time": "01:09",
+        "Location": "370 HARRIS DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603105",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/28/2026",
+        "Time": "19:50",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Theft Other",
+        "Case Number": "2603134",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/28/2026",
+        "Time": "18:05",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2603131",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
