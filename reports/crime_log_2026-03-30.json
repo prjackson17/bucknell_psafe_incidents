@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "03/30/2026",
+        "Time": "08:05",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603196",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/30/2026",
+        "Time": "07:20",
+        "Location": "COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603194",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/30/2026",
+        "Time": "09:06",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603198",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/30/2026",
+        "Time": "13:59",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603204",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/30/2026",
+        "Time": "14:11",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603205",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
