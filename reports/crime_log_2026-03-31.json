@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "03/31/2026",
+        "Time": "11:27",
+        "Location": "570 VAUGHAN LIT DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603238",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/31/2026",
+        "Time": "",
+        "Location": "538 Saint George St",
+        "Nature": "Theft Other",
+        "Case Number": "2603236",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/31/2026",
+        "Time": "",
+        "Location": "565 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603237",
+        "Disposition": ""
+    }
+]
