@@ -1,1 +1,66 @@
-[]
+[
+    {
+        "Date": "04/02/2026",
+        "Time": "12:34",
+        "Location": "558 CHRISTY MATHEWSON DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603318",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "521 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603304",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "Special Interest Houses",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603305",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "620 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603306",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "South Campus Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603309",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "810 Fraternity Rd",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603313",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "570 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603314",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/02/2026",
+        "Time": "",
+        "Location": "580 Vaughan Lit Dr",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2603329",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
