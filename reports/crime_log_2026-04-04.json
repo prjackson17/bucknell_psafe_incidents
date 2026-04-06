@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "04/04/2026",
+        "Time": "12:47",
+        "Location": "632 SAINT GEORGE ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603384",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/04/2026",
+        "Time": "13:27",
+        "Location": "605 MARKET ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603386",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/04/2026",
+        "Time": "15:25",
+        "Location": "825 FRATERNITY RD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603388",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/04/2026",
+        "Time": "19:50",
+        "Location": "778 MOORE AVE",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2603393",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
