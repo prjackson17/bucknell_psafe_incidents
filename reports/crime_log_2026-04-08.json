@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "04/08/2026",
+        "Time": "07:30",
+        "Location": "LOT #23",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603508",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "605 South 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603509",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "725 Rotc Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603513",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "Lot #63",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603517",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "Lot 46",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603518",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "810 Fraternity Rd",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603519",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "Housing Service Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603521",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
