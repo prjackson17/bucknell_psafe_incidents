@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/09/2026",
+        "Time": "11:30",
+        "Location": "82 UNIVERSITY AVE",
+        "Nature": "Theft Other",
+        "Case Number": "2603548",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/09/2026",
+        "Time": "08:00",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603549",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/09/2026",
+        "Time": "",
+        "Location": "521 Saint George St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2603543",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
