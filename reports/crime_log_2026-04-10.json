@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "04/10/2026",
+        "Time": "15:27",
+        "Location": "600 WALKER ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2603586",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/10/2026",
+        "Time": "17:00",
+        "Location": "185 CLUBHOUSE DR",
+        "Nature": "Assist Public",
+        "Case Number": "2603590",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
