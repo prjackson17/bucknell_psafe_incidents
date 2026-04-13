@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "04/11/2026",
+        "Time": "02:49",
+        "Location": "19 STROHECKER FARM LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603612",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/11/2026",
+        "Time": "16:00",
+        "Location": "185 CLUBHOUSE DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2603634",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/11/2026",
+        "Time": "21:05",
+        "Location": "370 HARRIS DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2603642",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/11/2026",
+        "Time": "21:23",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2603643",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "04/11/2026",
+        "Time": "21:23",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2603643",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "04/11/2026",
+        "Time": "21:23",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2603643",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "04/11/2026",
+        "Time": "21:23",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2603643",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
