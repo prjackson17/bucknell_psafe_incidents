@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/16/2026",
+        "Time": "00:00",
+        "Location": "553 CHRISTY MATHEWSON DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603787",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/16/2026",
+        "Time": "12:53",
+        "Location": "660 S 7TH ST",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2603794",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/16/2026",
+        "Time": "16:04",
+        "Location": "420 S 7TH ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2603801",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
