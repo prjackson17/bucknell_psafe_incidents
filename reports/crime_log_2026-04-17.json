@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/17/2026",
+        "Time": "14:04",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Theft Other",
+        "Case Number": "2603831",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/17/2026",
+        "Time": "07:37",
+        "Location": "585 COLEMAN DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603822",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/17/2026",
+        "Time": "",
+        "Location": "725 Rotc Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603823",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
