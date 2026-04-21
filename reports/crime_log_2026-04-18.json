@@ -17,7 +17,7 @@
     },
     {
         "Date": "04/18/2026",
-        "Time": null,
+        "Time": "",
         "Location": "23 University Ave",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603869",
@@ -25,7 +25,7 @@
     },
     {
         "Date": "04/18/2026",
-        "Time": null,
+        "Time": "",
         "Location": "365 Service Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603884",
