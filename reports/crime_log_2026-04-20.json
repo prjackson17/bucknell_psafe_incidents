@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/20/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2603958",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/20/2026",
+        "Time": "",
+        "Location": "555 Vaughan Lit Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603932",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/20/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603934",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
