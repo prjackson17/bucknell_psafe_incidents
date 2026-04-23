@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/21/2026",
+        "Time": "01:35",
+        "Location": "701 MOORE AVENUE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603977",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/21/2026",
+        "Time": "13:32",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603988",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/21/2026",
+        "Time": "18:17",
+        "Location": "370 HARRIS DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604004",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
