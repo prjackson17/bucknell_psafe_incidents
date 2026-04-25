@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "04/23/2026",
+        "Time": "20:07",
+        "Location": "BUCKNELL GOLF CLUB, 366 SMOKETOWN ROAD",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2604069",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "04/23/2026",
+        "Time": "23:28",
+        "Location": "380 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2604051",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
