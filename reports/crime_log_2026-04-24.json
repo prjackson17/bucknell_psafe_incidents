@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "04/24/2026",
+        "Time": "18:20",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2604085",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/24/2026",
+        "Time": "23:26",
+        "Location": "32 BUCKNELL WEST DR",
+        "Nature": "Hospital Transport",
+        "Case Number": "2604117",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
