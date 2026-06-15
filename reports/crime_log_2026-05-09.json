@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "05/09/2026",
+        "Time": "",
+        "Location": "375 SERVICE DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2604748",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/09/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2604749",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "05/09/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2604753",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "05/09/2026",
+        "Time": "",
+        "Location": "385 STROHECKER FARM LN",
+        "Nature": "Missing Person",
+        "Case Number": "2604776",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/09/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Theft Other",
+        "Case Number": "2604791",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

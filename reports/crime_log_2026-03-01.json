@@ -1,7 +1,15 @@
 [
     {
         "Date": "03/01/2026",
-        "Time": "14:22",
+        "Time": "",
+        "Location": "521 Saint George St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602147",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "03/01/2026",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2602191",
@@ -10,9 +18,9 @@
     {
         "Date": "03/01/2026",
         "Time": "",
-        "Location": "Moore Ave",
+        "Location": "MOORE AVE",
         "Nature": "Traffic Accident, Private Prop Damg",
         "Case Number": "2602183",
-        "Disposition": "No Further Incidents."
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

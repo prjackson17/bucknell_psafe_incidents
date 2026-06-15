@@ -1,7 +1,15 @@
 [
     {
         "Date": "03/20/2026",
-        "Time": "02:16",
+        "Time": "",
+        "Location": "185 CLUBHOUSE DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2602824",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "03/20/2026",
+        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2602799",
@@ -9,18 +17,10 @@
     },
     {
         "Date": "03/20/2026",
-        "Time": "23:30",
+        "Time": "",
         "Location": "560 PASCUCCI DR",
         "Nature": "Liquor, Possess",
         "Case Number": "2602838",
-        "Disposition": "UNDER INVESTIGATION"
-    },
-    {
-        "Date": "03/20/2026",
-        "Time": "",
-        "Location": "185 Clubhouse Dr",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2602824",
         "Disposition": "JUDICIAL REFERRAL"
     }
 ]

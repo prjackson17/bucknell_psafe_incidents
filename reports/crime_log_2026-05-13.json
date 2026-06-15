@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "05/13/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2604962",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/13/2026",
+        "Time": "",
+        "Location": "570 S 7TH ST",
+        "Nature": "Theft Other",
+        "Case Number": "2604980",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

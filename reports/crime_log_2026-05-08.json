@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "175 GATEWAY DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2604686",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "110 UNIVERSITY AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2604696",
+        "Disposition": ""
+    },
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "Damaged Property, Other",
+        "Case Number": "2604744",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604746",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "375 SERVICE DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2604722",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "175 GATEWAY DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604740",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "05/08/2026",
+        "Time": "",
+        "Location": "16 BUCKNELL WEST DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2604745",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]

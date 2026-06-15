@@ -1,7 +1,7 @@
 [
     {
         "Date": "10/26/2025",
-        "Time": "15:54",
+        "Time": "",
         "Location": "MOORE AVE & S 7TH ST",
         "Nature": "Traffic Accident, Vehicle Damage",
         "Case Number": "2511581",
@@ -9,10 +9,10 @@
     },
     {
         "Date": "10/26/2025",
-        "Time": "16:45",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
         "Nature": "Marijuana, Possession",
         "Case Number": "2511583",
-        "Disposition": ""
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

@@ -1,7 +1,15 @@
 [
     {
         "Date": "12/05/2025",
-        "Time": "01:27",
+        "Time": "",
+        "Location": "365 SERVICE DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2512950",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "Disorderly Conduct",
         "Case Number": "2512908",
@@ -9,7 +17,7 @@
     },
     {
         "Date": "12/05/2025",
-        "Time": "08:10",
+        "Time": "",
         "Location": "630 S 7TH ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512911",
@@ -17,15 +25,15 @@
     },
     {
         "Date": "12/05/2025",
-        "Time": "08:19",
+        "Time": "",
         "Location": "LEWISBURG,",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512912",
-        "Disposition": null
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "12/05/2025",
-        "Time": "08:20",
+        "Time": "",
         "Location": "LEWISBURG,",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512913",
@@ -33,7 +41,7 @@
     },
     {
         "Date": "12/05/2025",
-        "Time": "08:29",
+        "Time": "",
         "Location": "LEWISBURG,",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512914",
@@ -41,7 +49,23 @@
     },
     {
         "Date": "12/05/2025",
-        "Time": "18:00",
+        "Time": "",
+        "Location": "365 Service Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512881",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512917",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "",
         "Location": "700 CAMPUS LANE",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2512939",

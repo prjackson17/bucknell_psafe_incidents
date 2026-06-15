@@ -1,7 +1,7 @@
 [
     {
         "Date": "03/30/2026",
-        "Time": "08:05",
+        "Time": "",
         "Location": "585 COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603196",
@@ -9,7 +9,7 @@
     },
     {
         "Date": "03/30/2026",
-        "Time": "07:20",
+        "Time": "",
         "Location": "COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603194",
@@ -17,7 +17,7 @@
     },
     {
         "Date": "03/30/2026",
-        "Time": "09:06",
+        "Time": "",
         "Location": "SOUTH CAMPUS DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603198",
@@ -25,7 +25,7 @@
     },
     {
         "Date": "03/30/2026",
-        "Time": "13:59",
+        "Time": "",
         "Location": "527 CHRISTY MATHEWSON DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603204",
@@ -33,7 +33,7 @@
     },
     {
         "Date": "03/30/2026",
-        "Time": "14:11",
+        "Time": "",
         "Location": "527 CHRISTY MATHEWSON DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603205",
@@ -42,9 +42,9 @@
     {
         "Date": "03/30/2026",
         "Time": "",
-        "Location": "375 Service Dr",
+        "Location": "810 Fraternity Rd",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603222",
+        "Case Number": "2603197",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

@@ -1,7 +1,39 @@
 [
     {
         "Date": "10/18/2025",
-        "Time": "00:10",
+        "Time": "",
+        "Location": "590 SOUTH 7TH ST",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2511211",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/18/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511203",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/18/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2511204",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/18/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511205",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/18/2025",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Criminal Mischief",
         "Case Number": "2511207",
@@ -9,42 +41,10 @@
     },
     {
         "Date": "10/18/2025",
-        "Time": "04:41",
-        "Location": "590 SOUTH 7TH ST",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2511211",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "10/18/2025",
-        "Time": "04:41",
-        "Location": "590 SOUTH 7TH ST",
-        "Nature": "Other Controlled Substances",
-        "Case Number": "2511211",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "10/18/2025",
         "Time": "",
-        "Location": "590 South 7th St",
+        "Location": "590 SOUTH 7TH ST",
         "Nature": "Liquor, Manufacture",
         "Case Number": "2511233",
-        "Disposition": ""
-    },
-    {
-        "Date": "10/18/2025",
-        "Time": "",
-        "Location": "735 Dent Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511237",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/18/2025",
-        "Time": "",
-        "Location": "",
-        "Nature": "Traffic Offense",
-        "Case Number": "2511239",
-        "Disposition": "CLOSED RPT FILED"
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

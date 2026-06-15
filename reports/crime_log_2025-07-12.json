@@ -1,7 +1,15 @@
 [
     {
         "Date": "07/12/2025",
-        "Time": "01:01",
+        "Time": "",
+        "Location": "Dent Dr",
+        "Nature": "STALKING",
+        "Case Number": "2508200",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "07/12/2025",
+        "Time": "",
         "Location": "820 FRATERNITY RD",
         "Nature": "Liquor, Other",
         "Case Number": "2508212",

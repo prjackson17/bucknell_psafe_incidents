@@ -1,23 +1,15 @@
 [
     {
         "Date": "04/25/2026",
-        "Time": "01:38",
+        "Time": "",
         "Location": "560 Pascucci Dr",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Disorderly Conduct",
         "Case Number": "2604120",
         "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "04/25/2026",
-        "Time": "20:26",
-        "Location": "32 Bucknell West Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2604114",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "04/25/2026",
-        "Time": "20:31",
+        "Time": "",
         "Location": "605 SOUTH 7TH ST",
         "Nature": "Traffic Accident, Private Prop Damg",
         "Case Number": "2604159",
@@ -25,7 +17,7 @@
     },
     {
         "Date": "04/25/2026",
-        "Time": "22:11",
+        "Time": "",
         "Location": "570 LOOMIS ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2604163",

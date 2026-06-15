@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "05/18/2026",
+        "Time": "",
+        "Location": "560 COLEMAN HALL DR",
+        "Nature": "Lost Property",
+        "Case Number": "2605167",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/18/2026",
+        "Time": "",
+        "Location": "155 GATEWAY DR",
+        "Nature": "Other Property",
+        "Case Number": "2605172",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/18/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "Found Property",
+        "Case Number": "2605171",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

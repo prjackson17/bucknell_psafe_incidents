@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "03/06/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2602388",
+        "Disposition": ""
+    },
+    {
+        "Date": "03/06/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Theft Other",
+        "Case Number": "2602401",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/06/2026",
+        "Time": "",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602405",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/06/2026",
+        "Time": "",
+        "Location": "365 SERVICE DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2602406",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/06/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602389",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

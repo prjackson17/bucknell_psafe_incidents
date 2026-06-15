@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "05/15/2026",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "RAPE",
+        "Case Number": "2605028",
+        "Disposition": ""
+    },
+    {
+        "Date": "05/15/2026",
+        "Time": "",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2605080",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

@@ -1,18 +1,26 @@
 [
     {
         "Date": "09/17/2025",
-        "Time": "10:32",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
-        "Nature": "Electronic Communication",
+        "Nature": "Harassment, Other",
         "Case Number": "2510106",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "09/17/2025",
-        "Time": "13:25",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2510137",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/17/2025",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510109",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

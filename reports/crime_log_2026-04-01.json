@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/01/2026",
+        "Time": "",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603270",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/01/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603275",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/01/2026",
+        "Time": "",
+        "Location": "820 FRATERNITY RD",
+        "Nature": "Other Controlled Substances",
+        "Case Number": "2603289",
+        "Disposition": "CLEARED ADULT ARREST"
+    }
+]

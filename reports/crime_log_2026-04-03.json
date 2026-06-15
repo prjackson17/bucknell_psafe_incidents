@@ -1,18 +1,26 @@
 [
     {
         "Date": "04/03/2026",
-        "Time": "00:40",
-        "Location": "375 SERVICE DR",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2603352",
-        "Disposition": "UNDER INVESTIGATION"
+        "Time": "",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2603345",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/03/2026",
         "Time": "",
-        "Location": "623 Coleman Hall Dr",
-        "Nature": "Criminal Mischief",
-        "Case Number": "2603345",
-        "Disposition": "No Further Incidents."
+        "Location": "375 SERVICE DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2603352",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/03/2026",
+        "Time": "",
+        "Location": "555 VAUGHAN LIT DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603356",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

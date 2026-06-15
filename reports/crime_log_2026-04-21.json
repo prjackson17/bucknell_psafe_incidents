@@ -1,15 +1,23 @@
 [
     {
         "Date": "04/21/2026",
-        "Time": "01:35",
+        "Time": "",
         "Location": "701 MOORE AVENUE",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Ambulance Assist",
         "Case Number": "2603977",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/21/2026",
-        "Time": "13:32",
+        "Time": "",
+        "Location": "51 STROHECKER FARM LN",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603978",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/21/2026",
+        "Time": "",
         "Location": "605 SOUTH 7TH ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603988",
@@ -17,7 +25,7 @@
     },
     {
         "Date": "04/21/2026",
-        "Time": "18:17",
+        "Time": "",
         "Location": "370 HARRIS DR",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2604004",

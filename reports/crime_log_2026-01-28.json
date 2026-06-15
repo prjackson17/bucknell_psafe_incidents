@@ -1,7 +1,23 @@
 [
     {
         "Date": "01/28/2026",
-        "Time": "23:55",
+        "Time": "",
+        "Location": "490 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600748",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/28/2026",
+        "Time": "",
+        "Location": "LOT 19",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600793",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/28/2026",
+        "Time": "",
         "Location": "380 S 7TH ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2600806",

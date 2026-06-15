@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "04/29/2026",
+        "Time": "",
+        "Location": "555 Pascucci Dr",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2604260",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/29/2026",
+        "Time": "",
+        "Location": "110 UNIVERSITY AVE",
+        "Nature": "Invasion of Privacy Other",
+        "Case Number": "2604299",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/29/2026",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2604306",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/29/2026",
+        "Time": "",
+        "Location": "558 Christy Mathewson Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2604291",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/29/2026",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604315",
+        "Disposition": ""
+    },
+    {
+        "Date": "04/29/2026",
+        "Time": "",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2604301",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

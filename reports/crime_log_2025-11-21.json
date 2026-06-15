@@ -1,7 +1,23 @@
 [
     {
         "Date": "11/21/2025",
-        "Time": "08:00",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512560",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/21/2025",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512567",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/21/2025",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512591",

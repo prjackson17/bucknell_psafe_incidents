@@ -5,7 +5,7 @@
         "Location": "1 DENT DRIVE",
         "Nature": "Rape, Strongarm",
         "Case Number": "2513498",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "12/22/2025",
@@ -13,31 +13,7 @@
         "Location": "1 DENT DRIVE",
         "Nature": "Rape, Strongarm",
         "Case Number": "2513501",
-        "Disposition": ""
-    },
-    {
-        "Date": "12/22/2025",
-        "Time": "",
-        "Location": "1 DENT DRIVE",
-        "Nature": "Rape, Strongarm",
-        "Case Number": "2513502",
-        "Disposition": ""
-    },
-    {
-        "Date": "12/22/2025",
-        "Time": "",
-        "Location": "1 DENT DRIVE",
-        "Nature": "Rape, Strongarm",
-        "Case Number": "2513503",
-        "Disposition": ""
-    },
-    {
-        "Date": "12/22/2025",
-        "Time": "",
-        "Location": "1 DENT DRIVE",
-        "Nature": "Rape, Strongarm",
-        "Case Number": "2513504",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "12/22/2025",
@@ -52,8 +28,16 @@
         "Time": "",
         "Location": "1 DENT DRIVE",
         "Nature": "Rape, Strongarm",
-        "Case Number": "2513506",
-        "Disposition": ""
+        "Case Number": "2513503",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/22/2025",
+        "Time": "",
+        "Location": "1 DENT DRIVE",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2513504",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "12/22/2025",
@@ -61,6 +45,14 @@
         "Location": "1 DENT DRIVE",
         "Nature": "Rape, Strongarm",
         "Case Number": "2513507",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/22/2025",
+        "Time": "",
+        "Location": "1 DENT DRIVE",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2513506",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

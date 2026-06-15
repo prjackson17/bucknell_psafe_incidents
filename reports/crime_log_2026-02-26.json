@@ -1,7 +1,7 @@
 [
     {
         "Date": "02/26/2026",
-        "Time": "08:15",
+        "Time": "",
         "Location": "397 UNIVERSITY AVE",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2602040",
@@ -9,7 +9,7 @@
     },
     {
         "Date": "02/26/2026",
-        "Time": "11:32",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2602045",
@@ -18,7 +18,7 @@
     {
         "Date": "02/26/2026",
         "Time": "",
-        "Location": "385 Strohecker Farm Ln",
+        "Location": "385 STROHECKER FARM LN",
         "Nature": "Ambulance Assist",
         "Case Number": "2602028",
         "Disposition": "CLOSED RPT FILED"

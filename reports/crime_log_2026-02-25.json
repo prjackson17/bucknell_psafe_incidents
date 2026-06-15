@@ -1,24 +1,16 @@
 [
     {
         "Date": "02/25/2026",
-        "Time": "12:30",
-        "Location": "623 COLEMAN HALL DR",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601999",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "02/25/2026",
-        "Time": "15:00",
-        "Location": "PARKING LOT #55",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602006",
+        "Case Number": "2602013",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "02/25/2026",
         "Time": "",
-        "Location": "397 University Ave",
+        "Location": "397 UNIVERSITY AVE",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601992",
         "Disposition": "CLOSED RPT FILED"
@@ -26,9 +18,17 @@
     {
         "Date": "02/25/2026",
         "Time": "",
-        "Location": "580 Snake Road",
+        "Location": "623 COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602013",
+        "Case Number": "2601999",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/25/2026",
+        "Time": "",
+        "Location": "PARKING LOT #55",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602006",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

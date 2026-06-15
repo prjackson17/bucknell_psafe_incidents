@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "05/11/2026",
+        "Time": "",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "Public Impound Request",
+        "Case Number": "2604851",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/11/2026",
+        "Time": "",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "Public Impound Request",
+        "Case Number": "2604852",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/11/2026",
+        "Time": "",
+        "Location": "735 DENT DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2604879",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/11/2026",
+        "Time": "",
+        "Location": "13 BUCKNELL WEST DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604859",
+        "Disposition": ""
+    }
+]

@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "02/20/2026",
+        "Time": "",
+        "Location": "585 COLEMAN DR",
+        "Nature": "Traffic, Other",
+        "Case Number": "2601786",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/20/2026",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "Traffic Control",
+        "Case Number": "2601789",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/20/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601792",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/20/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601787",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/20/2026",
+        "Time": "",
+        "Location": "570 S 7TH ST",
+        "Nature": "Diabetic Problem",
+        "Case Number": "2601816",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

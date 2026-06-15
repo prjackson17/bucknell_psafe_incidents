@@ -1,11 +1,11 @@
 [
     {
         "Date": "03/23/2026",
-        "Time": "15:14",
-        "Location": "701 MOORE AVE",
-        "Nature": "Larceny, Bicycle",
-        "Case Number": "2602926",
-        "Disposition": ""
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2602924",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/23/2026",
@@ -18,25 +18,25 @@
     {
         "Date": "03/23/2026",
         "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602924",
-        "Disposition": ""
-    },
-    {
-        "Date": "03/23/2026",
-        "Time": "",
-        "Location": "355 Strohecker Farm Ln",
+        "Location": "355 STROHECKER FARM LN",
         "Nature": "Larceny, Parts from Vehicle",
         "Case Number": "2602931",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/23/2026",
         "Time": "",
-        "Location": "Housing Service Dr",
+        "Location": "HOUSING SERVICE DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2602935",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/23/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2602926",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

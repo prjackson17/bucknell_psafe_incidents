@@ -1,18 +1,34 @@
 [
     {
         "Date": "01/24/2026",
-        "Time": "00:12",
-        "Location": "600 WALKER ST",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2600619",
-        "Disposition": ""
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2600618",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "01/24/2026",
-        "Time": "18:22",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2600619",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/24/2026",
+        "Time": "",
+        "Location": "27 Bucknell West Dr",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2600625",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/24/2026",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Other",
         "Case Number": "2600642",
-        "Disposition": ""
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

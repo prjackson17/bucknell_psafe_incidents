@@ -1,7 +1,15 @@
 [
     {
         "Date": "04/04/2026",
-        "Time": "12:47",
+        "Time": "",
+        "Location": "778 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603373",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/04/2026",
+        "Time": "",
         "Location": "632 SAINT GEORGE ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603384",
@@ -9,15 +17,15 @@
     },
     {
         "Date": "04/04/2026",
-        "Time": "13:27",
+        "Time": "",
         "Location": "605 MARKET ST",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Harassment, Other",
         "Case Number": "2603386",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/04/2026",
-        "Time": "15:25",
+        "Time": "",
         "Location": "825 FRATERNITY RD",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603388",
@@ -25,7 +33,7 @@
     },
     {
         "Date": "04/04/2026",
-        "Time": "19:50",
+        "Time": "",
         "Location": "778 MOORE AVE",
         "Nature": "Larceny, from Building",
         "Case Number": "2603393",

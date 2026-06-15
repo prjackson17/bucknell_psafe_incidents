@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "09/16/2025",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510079",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/16/2025",
+        "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2510080",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/16/2025",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Hit/Run, Fatal",
+        "Case Number": "2510082",
+        "Disposition": ""
+    }
+]

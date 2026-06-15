@@ -2,6 +2,14 @@
     {
         "Date": "11/02/2025",
         "Time": "",
+        "Location": "590 South 7th St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511816",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/02/2025",
+        "Time": "",
         "Location": "165 Gateway Dr",
         "Nature": "Ambulance Assist",
         "Case Number": "2511840",
@@ -18,17 +26,17 @@
     {
         "Date": "11/02/2025",
         "Time": "",
-        "Location": "560 Pascucci Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511839",
-        "Disposition": "CLOSED RPT FILED"
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511844",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "11/02/2025",
         "Time": "",
-        "Location": "600 Walker St",
-        "Nature": "Liquor, Other",
-        "Case Number": "2511844",
-        "Disposition": "JUDICIAL REFERRAL"
+        "Location": "560 Pascucci Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511839",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

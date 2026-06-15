@@ -1,7 +1,7 @@
 [
     {
         "Date": "10/07/2025",
-        "Time": "07:33",
+        "Time": "",
         "Location": "528 SAINT GEORGE ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510836",
@@ -9,10 +9,26 @@
     },
     {
         "Date": "10/07/2025",
-        "Time": "15:22",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510841",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/07/2025",
+        "Time": "",
         "Location": "810 FRATERNITY RD",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510851",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/07/2025",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2510863",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

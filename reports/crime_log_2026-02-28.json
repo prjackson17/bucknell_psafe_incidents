@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602128",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602142",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602149",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2602150",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "545 VAUGHAN LIT DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2602153",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602155",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2602157",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602158",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/28/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2602159",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]

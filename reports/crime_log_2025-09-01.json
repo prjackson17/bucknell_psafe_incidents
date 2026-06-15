@@ -1,7 +1,15 @@
 [
     {
         "Date": "09/01/2025",
-        "Time": "21:00",
+        "Time": "",
+        "Location": "Strohecker Farm Ln",
+        "Nature": "Public Impound Request",
+        "Case Number": "2509497",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/01/2025",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2509500",
@@ -9,15 +17,23 @@
     },
     {
         "Date": "09/01/2025",
-        "Time": "07:11",
+        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "Liquor, Other",
         "Case Number": "2509501",
-        "Disposition": ""
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "09/01/2025",
-        "Time": "18:20",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509508",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/01/2025",
+        "Time": "",
         "Location": "701 MOORE AVE",
         "Nature": "Theft Other",
         "Case Number": "2509524",

@@ -1,10 +1,26 @@
 [
     {
         "Date": "09/03/2025",
-        "Time": "16:40",
+        "Time": "",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2509567",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/03/2025",
+        "Time": "",
+        "Location": "790 MOORE AVE",
+        "Nature": "Larceny, from Yard/Land",
+        "Case Number": "2509571",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/03/2025",
+        "Time": "",
         "Location": "770 MOORE AVE",
         "Nature": "Traffic Accident, Private Prop Damg",
         "Case Number": "2509586",
-        "Disposition": "09/04/2025 14:30"
+        "Disposition": ""
     }
 ]

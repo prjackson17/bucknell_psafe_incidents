@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "05/04/2026",
+        "Time": "",
+        "Location": "725 ROTC DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604550",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/04/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2604553",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]

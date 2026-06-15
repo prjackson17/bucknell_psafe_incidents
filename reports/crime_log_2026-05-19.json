@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "05/19/2026",
+        "Time": "",
+        "Location": "165 Gateway Dr",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2605179",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "05/19/2026",
+        "Time": "",
+        "Location": "487 SMOKETOWN RD",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2605224",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/19/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2605228",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/19/2026",
+        "Time": "",
+        "Location": "178 BUCKNELL WEST DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2605233",
+        "Disposition": ""
+    },
+    {
+        "Date": "05/19/2026",
+        "Time": "",
+        "Location": "778 MOORE AVE",
+        "Nature": "Lost Property",
+        "Case Number": "2605231",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

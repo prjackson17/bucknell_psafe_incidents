@@ -1,7 +1,7 @@
 [
     {
         "Date": "09/18/2025",
-        "Time": "00:08",
+        "Time": "",
         "Location": "538 SAINT GEORGE ST",
         "Nature": "Liquor, Manufacture",
         "Case Number": "2510142",
@@ -9,7 +9,7 @@
     },
     {
         "Date": "09/18/2025",
-        "Time": "00:53",
+        "Time": "",
         "Location": "560 S 7TH ST",
         "Nature": "Liquor, Other",
         "Case Number": "2510145",
@@ -17,15 +17,7 @@
     },
     {
         "Date": "09/18/2025",
-        "Time": "00:09",
-        "Location": "530 S 7TH ST",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2510143",
-        "Disposition": ""
-    },
-    {
-        "Date": "09/18/2025",
-        "Time": "00:30",
+        "Time": "",
         "Location": "370 HARRIS DR",
         "Nature": "Liquor, Possess",
         "Case Number": "2510144",
@@ -33,7 +25,23 @@
     },
     {
         "Date": "09/18/2025",
-        "Time": "19:19",
+        "Time": "",
+        "Location": "530 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510143",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/18/2025",
+        "Time": "",
+        "Location": "560 Pascucci Dr",
+        "Nature": "Other Property",
+        "Case Number": "2510149",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/18/2025",
+        "Time": "",
         "Location": "10 BUCKNELL WEST DR",
         "Nature": "Marijuana, Possession",
         "Case Number": "2510172",

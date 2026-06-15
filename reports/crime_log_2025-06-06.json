@@ -1,10 +1,18 @@
 [
     {
         "Date": "06/06/2025",
-        "Time": "14:01",
-        "Location": "580 Snake Rd",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "Bicycle",
+        "Case Number": "2507260",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "06/06/2025",
+        "Time": "",
+        "Location": "580 SNAKE RD",
         "Nature": "Ambulance Assist",
         "Case Number": "2507289",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

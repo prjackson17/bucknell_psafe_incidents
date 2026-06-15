@@ -1,7 +1,7 @@
 [
     {
         "Date": "04/27/2026",
-        "Time": "01:02",
+        "Time": "",
         "Location": "42 S. 7TH STREET",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2604214",
@@ -9,15 +9,15 @@
     },
     {
         "Date": "04/27/2026",
-        "Time": "07:46",
+        "Time": "",
         "Location": "701 MOORE AVE",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Marijuana, Possession",
         "Case Number": "2604216",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/27/2026",
-        "Time": "10:07",
+        "Time": "",
         "Location": "82 UNIVERSITY AVE",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2604219",
@@ -25,9 +25,9 @@
     },
     {
         "Date": "04/27/2026",
-        "Time": "13:01",
+        "Time": "",
         "Location": "174 BUCKNELL WEST DR",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Ambulance Assist",
         "Case Number": "2604224",
         "Disposition": "CLOSED RPT FILED"
     }

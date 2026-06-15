@@ -1,7 +1,15 @@
 [
     {
         "Date": "10/09/2025",
-        "Time": "00:24",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2510907",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/09/2025",
+        "Time": "",
         "Location": "JAMES ALY",
         "Nature": "Disorderly Conduct",
         "Case Number": "2510909",
@@ -9,7 +17,7 @@
     },
     {
         "Date": "10/09/2025",
-        "Time": "06:35",
+        "Time": "",
         "Location": "530 S 7TH ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510914",
@@ -18,8 +26,8 @@
     {
         "Date": "10/09/2025",
         "Time": "",
-        "Location": "565 Coleman Dr",
-        "Nature": "Other Controlled Substances",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Narcotic Equipment, Possession",
         "Case Number": "2510908",
         "Disposition": "JUDICIAL REFERRAL"
     },
@@ -30,13 +38,5 @@
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510911",
         "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "10/09/2025",
-        "Time": "",
-        "Location": "825 Fraternity Rd",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2510948",
-        "Disposition": "CLOSED RPT FILED"
     }
 ]

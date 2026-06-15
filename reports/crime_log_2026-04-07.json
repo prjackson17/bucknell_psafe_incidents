@@ -1,26 +1,34 @@
 [
     {
         "Date": "04/07/2026",
-        "Time": "08:00",
+        "Time": "",
         "Location": "149 GATEWAY DR",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603453",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/07/2026",
-        "Time": "08:49",
+        "Time": "",
         "Location": "527 CHRISTY MATHEWSON DR",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603457",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/07/2026",
-        "Time": "13:45",
+        "Time": "",
         "Location": "SOUTH CAMPUS DR",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603469",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/07/2026",
+        "Time": "",
+        "Location": "LOT #23",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2603458",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "Date": "03/27/2026",
         "Time": "",
-        "Location": "840 Fraternity Rd",
+        "Location": "840 FRATERNITY RD",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603068",
         "Disposition": "CLOSED RPT FILED"
@@ -10,7 +10,7 @@
     {
         "Date": "03/27/2026",
         "Time": "",
-        "Location": "558 Christy Mathewson Dr",
+        "Location": "558 CHRISTY MATHEWSON DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603071",
         "Disposition": "CLOSED RPT FILED"
@@ -18,17 +18,9 @@
     {
         "Date": "03/27/2026",
         "Time": "",
-        "Location": "701 Moore Ave",
-        "Nature": "Harassing Communication",
-        "Case Number": "2603073",
-        "Disposition": ""
-    },
-    {
-        "Date": "03/27/2026",
-        "Time": "",
-        "Location": "701 Moore Ave",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603074",
-        "Disposition": ""
+        "Location": "590 S 7th St",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2603070",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

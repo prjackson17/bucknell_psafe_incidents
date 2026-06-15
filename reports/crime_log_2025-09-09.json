@@ -1,10 +1,26 @@
 [
     {
         "Date": "09/09/2025",
-        "Time": "16:37",
+        "Time": "",
+        "Location": "770 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509786",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/09/2025",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2509805",
-        "Disposition": "09/10/2025 14:16"
+        "Disposition": ""
+    },
+    {
+        "Date": "09/09/2025",
+        "Time": "",
+        "Location": "79 Strohecker Farm Ln",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509791",
+        "Disposition": ""
     }
 ]

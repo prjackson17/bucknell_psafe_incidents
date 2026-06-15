@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "07/15/2025",
+        "Time": "",
+        "Location": "7TH St from River Rd",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2508258",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "07/15/2025",
+        "Time": "",
+        "Location": "MARTS HALL",
+        "Nature": "Assist Public",
+        "Case Number": "2508287",
+        "Disposition": ""
+    }
+]

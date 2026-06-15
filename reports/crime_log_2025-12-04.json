@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "12/04/2025",
+        "Time": "",
+        "Location": "Moore ave 15",
+        "Nature": "Traffic Offense",
+        "Case Number": "2512861",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/04/2025",
+        "Time": "",
+        "Location": "S 7th St & Saint George St",
+        "Nature": "Traffic Offense",
+        "Case Number": "2512864",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/04/2025",
+        "Time": "",
+        "Location": "Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512874",
+        "Disposition": ""
+    }
+]

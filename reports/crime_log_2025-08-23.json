@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "08/23/2025",
+        "Time": "",
+        "Location": "64 University Ave",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509190",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/23/2025",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509167",
+        "Disposition": ""
+    }
+]

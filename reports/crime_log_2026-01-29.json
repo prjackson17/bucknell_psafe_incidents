@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "01/29/2026",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2600809",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/29/2026",
+        "Time": "",
+        "Location": "385 Strohecker Farm Ln",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2600815",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/29/2026",
+        "Time": "",
+        "Location": "590 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600825",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/29/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2600834",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

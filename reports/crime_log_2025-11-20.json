@@ -3,17 +3,25 @@
         "Date": "11/20/2025",
         "Time": "",
         "Location": "James Aly",
-        "Nature": "Disorderly Conduct",
+        "Nature": "Liquor, Other",
         "Case Number": "2512542",
         "Disposition": "CLEARED ADULT ARREST"
     },
     {
         "Date": "11/20/2025",
         "Time": "",
-        "Location": "James Aly",
-        "Nature": "Liquor, Other",
-        "Case Number": "2512542",
-        "Disposition": "CLEARED ADULT ARREST"
+        "Location": "701 Moore Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512526",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2512541",
+        "Disposition": ""
     },
     {
         "Date": "11/20/2025",
@@ -26,23 +34,7 @@
     {
         "Date": "11/20/2025",
         "Time": "",
-        "Location": "600 Walker St",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512560",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "11/20/2025",
-        "Time": "",
-        "Location": "560 Pascucci Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512567",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "11/20/2025",
-        "Time": "",
-        "Location": "380 S 7th St",
+        "Location": "380 S 7TH ST",
         "Nature": "Narcotic Equipment, Possession",
         "Case Number": "2512578",
         "Disposition": "JUDICIAL REFERRAL"

@@ -1,18 +1,26 @@
 [
     {
         "Date": "11/16/2025",
-        "Time": "13:00",
-        "Location": "10 BUCKNELL WEST DR",
-        "Nature": "Hit/Run, Vehicle Damg",
-        "Case Number": "2512405",
-        "Disposition": "UNDER INVESTIGATION"
+        "Time": "",
+        "Location": "580 Coleman Drive",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512363",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "11/16/2025",
         "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512412",
+        "Location": "380 S 7th St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2512375",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/16/2025",
+        "Time": "",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2512405",
+        "Disposition": "UNDER INVESTIGATION"
     }
 ]

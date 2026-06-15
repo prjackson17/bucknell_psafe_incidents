@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "Date": "04/30/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2604327",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/30/2026",
+        "Time": "",
+        "Location": "590 S 7TH ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2604362",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/30/2026",
+        "Time": "",
+        "Location": "570 Loomis St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2604337",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/30/2026",
+        "Time": "",
+        "Location": "754 ROTC DR",
+        "Nature": "Hospital Transport",
+        "Case Number": "2604372",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/30/2026",
+        "Time": "",
+        "Location": "178 BUCKNELL WEST DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2604371",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/30/2026",
+        "Time": "",
+        "Location": "590 S 7TH ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2604368",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

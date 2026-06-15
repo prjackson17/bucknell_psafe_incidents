@@ -1,15 +1,15 @@
 [
     {
         "Date": "03/21/2026",
-        "Time": "07:30",
-        "Location": "521 SAINT GEORGE ST",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602850",
-        "Disposition": "CLOSED RPT FILED"
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2602862",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "03/21/2026",
-        "Time": "12:00",
+        "Time": "",
         "Location": "555 VAUGHAN LIT DR",
         "Nature": "Found Property",
         "Case Number": "2602852",
@@ -17,16 +17,16 @@
     },
     {
         "Date": "03/21/2026",
-        "Time": "20:47",
-        "Location": "701 MOORE AVE",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2602867",
-        "Disposition": "JUDICIAL REFERRAL"
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602850",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/21/2026",
         "Time": "",
-        "Location": "375 Service Dr",
+        "Location": "375 SERVICE DR",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2602840",
         "Disposition": "CLOSED RPT FILED"
@@ -34,9 +34,9 @@
     {
         "Date": "03/21/2026",
         "Time": "",
-        "Location": "560 Pascucci Dr",
+        "Location": "701 MOORE AVE",
         "Nature": "Liquor, Possess",
-        "Case Number": "2602862",
+        "Case Number": "2602867",
         "Disposition": "JUDICIAL REFERRAL"
     }
 ]

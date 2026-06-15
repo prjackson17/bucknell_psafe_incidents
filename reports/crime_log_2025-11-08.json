@@ -1,7 +1,15 @@
 [
     {
         "Date": "11/08/2025",
-        "Time": "00:42",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "Theft Other",
+        "Case Number": "2512042",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/08/2025",
+        "Time": "",
         "Location": "145 GATEWAY DR",
         "Nature": "Liquor, Possess",
         "Case Number": "2512065",
@@ -9,10 +17,10 @@
     },
     {
         "Date": "11/08/2025",
-        "Time": null,
+        "Time": "",
         "Location": "560 S 7th St",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512073",
-        "Disposition": null
+        "Disposition": ""
     }
 ]

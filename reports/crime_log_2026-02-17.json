@@ -1,18 +1,18 @@
 [
     {
         "Date": "02/17/2026",
-        "Time": "10:41",
-        "Location": "585 COLEMAN HALL DR",
+        "Time": "",
+        "Location": "627 S 7TH ST",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601667",
+        "Case Number": "2601664",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "02/17/2026",
-        "Time": null,
-        "Location": "627 S 7th St",
+        "Time": "",
+        "Location": "585 COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601664",
-        "Disposition": "No Further Incidents."
+        "Case Number": "2601667",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

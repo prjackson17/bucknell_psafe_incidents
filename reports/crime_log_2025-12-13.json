@@ -2,9 +2,17 @@
     {
         "Date": "12/13/2025",
         "Time": "",
-        "Location": "565 Coleman Dr",
-        "Nature": "WELFARE CHECK",
-        "Case Number": "2513255",
-        "Disposition": ""
+        "Location": "790 Moore Ave",
+        "Nature": "Theft Other",
+        "Case Number": "2513224",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/13/2025",
+        "Time": "",
+        "Location": "780 Moore Ave",
+        "Nature": "Traumatic Injury",
+        "Case Number": "2513225",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

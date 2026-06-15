@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "09/02/2025",
+        "Time": "",
+        "Location": "490 S 7th St",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2509531",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "09/02/2025",
+        "Time": "",
+        "Location": "ST GEORGE ST",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2509556",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/02/2025",
+        "Time": "",
+        "Location": "780 MOORE AVE",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2509534",
+        "Disposition": "CLEARED ADULT ARREST"
+    }
+]

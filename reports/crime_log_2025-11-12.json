@@ -1,7 +1,7 @@
 [
     {
         "Date": "11/12/2025",
-        "Time": "02:58",
+        "Time": "",
         "Location": "380 S 7TH ST",
         "Nature": "Medical Alarm",
         "Case Number": "2512221",
@@ -9,7 +9,7 @@
     },
     {
         "Date": "11/12/2025",
-        "Time": "09:04",
+        "Time": "",
         "Location": "SOUTH CAMPUS DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512222",
@@ -17,18 +17,10 @@
     },
     {
         "Date": "11/12/2025",
-        "Time": null,
-        "Location": "570 S 7th St",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512235",
-        "Disposition": null
-    },
-    {
-        "Date": "11/12/2025",
-        "Time": null,
-        "Location": "790 Moore Ave",
-        "Nature": "Ambulance Assist",
-        "Case Number": "2512249",
-        "Disposition": "CLOSED RPT FILED"
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "Invasion of Privacy Other",
+        "Case Number": "2512199",
+        "Disposition": "CLEARED ADULT ARREST"
     }
 ]

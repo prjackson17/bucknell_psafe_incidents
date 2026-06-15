@@ -1,7 +1,15 @@
 [
     {
         "Date": "02/10/2026",
-        "Time": "07:26",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601322",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/10/2026",
+        "Time": "",
         "Location": "SOUTH CAMPUS DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601349",
@@ -9,7 +17,31 @@
     },
     {
         "Date": "02/10/2026",
-        "Time": "07:57",
+        "Time": "",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601354",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/10/2026",
+        "Time": "",
+        "Location": "CLEARED NO REPORT",
+        "Nature": "Bicycle",
+        "Case Number": "Call #: 2601360",
+        "Disposition": ""
+    },
+    {
+        "Date": "02/10/2026",
+        "Time": "",
+        "Location": "MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601350",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/10/2026",
+        "Time": "",
         "Location": "JAMES ALY",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601352",
@@ -17,26 +49,10 @@
     },
     {
         "Date": "02/10/2026",
-        "Time": "08:35",
-        "Location": "585 COLEMAN HALL DR",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601354",
-        "Disposition": ""
-    },
-    {
-        "Date": "02/10/2026",
-        "Time": "16:18",
+        "Time": "",
         "Location": "701 MOORE AVE",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601368",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "02/10/2026",
-        "Time": "10:42",
-        "Location": "",
-        "Nature": "Bicycle",
-        "Case Number": "2601360",
-        "Disposition": "CLEARED NO REPORT"
     }
 ]

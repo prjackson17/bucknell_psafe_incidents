@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "06/01/2026",
+        "Time": "",
+        "Location": "545 VAUGHAN LIT DR",
+        "Nature": "Indecent Exposure",
+        "Case Number": "2605655",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "06/01/2026",
+        "Time": "",
+        "Location": "175 GATEWAY DR",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2605657",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]

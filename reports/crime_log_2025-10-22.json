@@ -1,7 +1,15 @@
 [
     {
         "Date": "10/22/2025",
-        "Time": "16:45",
+        "Time": "",
+        "Location": "754 Rotc Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511358",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/22/2025",
+        "Time": "",
         "Location": "10 BUCKNELL WEST DR",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2511412",
@@ -10,9 +18,9 @@
     {
         "Date": "10/22/2025",
         "Time": "",
-        "Location": "560 Pascucci Dr",
-        "Nature": "Hospital Transport",
-        "Case Number": "2511425",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2511414",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

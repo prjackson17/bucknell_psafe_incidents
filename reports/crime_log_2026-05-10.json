@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "05/10/2026",
+        "Time": "",
+        "Location": "13 BUCKNELL WEST DR",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2604843",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/10/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2604833",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "05/10/2026",
+        "Time": "",
+        "Location": "625 SAINT GEORGE ST",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2604831",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
         "Date": "10/16/2025",
-        "Time": "00:05",
+        "Time": "",
         "Location": "JAMES ALY",
         "Nature": "Disorderly Conduct",
         "Case Number": "2511118",
@@ -9,7 +9,7 @@
     },
     {
         "Date": "10/16/2025",
-        "Time": "00:26",
+        "Time": "",
         "Location": "303 S 6TH ST",
         "Nature": "Disorderly Conduct",
         "Case Number": "2511119",
@@ -17,7 +17,7 @@
     },
     {
         "Date": "10/16/2025",
-        "Time": "12:26",
+        "Time": "",
         "Location": "280 BROWN ST",
         "Nature": "Assist Other Agency",
         "Case Number": "2511137",
@@ -25,10 +25,10 @@
     },
     {
         "Date": "10/16/2025",
-        "Time": "00:17",
+        "Time": "",
         "Location": "521 SAINT GEORGE ST",
         "Nature": "Disorderly Conduct",
         "Case Number": "2511126",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

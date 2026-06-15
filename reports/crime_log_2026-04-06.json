@@ -1,18 +1,18 @@
 [
     {
         "Date": "04/06/2026",
-        "Time": "21:28",
-        "Location": "110 UNIVERSITY AVE",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603444",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2603429",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/06/2026",
         "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603429",
-        "Disposition": "UNDER INVESTIGATION"
+        "Location": "110 UNIVERSITY AVE",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2603444",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

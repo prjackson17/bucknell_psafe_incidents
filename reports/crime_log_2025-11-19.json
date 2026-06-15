@@ -1,18 +1,26 @@
 [
     {
         "Date": "11/19/2025",
-        "Time": "23:01",
-        "Location": "570 S 7TH ST",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2512538",
-        "Disposition": "JUDICIAL REFERRAL"
+        "Time": "",
+        "Location": "South Campus Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512482",
+        "Disposition": ""
     },
     {
         "Date": "11/19/2025",
         "Time": "",
-        "Location": "701 Moore Ave",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512526",
+        "Location": "565 Coleman Dr",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2512487",
         "Disposition": ""
+    },
+    {
+        "Date": "11/19/2025",
+        "Time": "",
+        "Location": "570 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2512538",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

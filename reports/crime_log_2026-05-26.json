@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "05/26/2026",
+        "Time": "",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "Found Property",
+        "Case Number": "2605450",
+        "Disposition": ""
+    },
+    {
+        "Date": "05/26/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Found Property",
+        "Case Number": "2605463",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/26/2026",
+        "Time": "",
+        "Location": "560 S 7TH ST",
+        "Nature": "Found Property",
+        "Case Number": "2605449",
+        "Disposition": ""
+    },
+    {
+        "Date": "05/26/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Lost Property",
+        "Case Number": "2605474",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/26/2026",
+        "Time": "",
+        "Location": "149 GATEWAY DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2605440",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

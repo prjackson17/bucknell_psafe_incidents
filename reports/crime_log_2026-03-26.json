@@ -2,15 +2,23 @@
     {
         "Date": "03/26/2026",
         "Time": "",
-        "Location": "521 Saint George St",
+        "Location": "521 SAINT GEORGE ST",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603024",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/26/2026",
         "Time": "",
-        "Location": "Frat Road",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603038",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/26/2026",
+        "Time": "",
+        "Location": "FRATERNITY RD",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603025",
         "Disposition": "CLOSED RPT FILED"
@@ -21,20 +29,12 @@
         "Location": "580 Vaughan Lit Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603026",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/26/2026",
         "Time": "",
-        "Location": "",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603038",
-        "Disposition": ""
-    },
-    {
-        "Date": "03/26/2026",
-        "Time": "",
-        "Location": "565 Coleman Dr",
+        "Location": "565 COLEMAN DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2603045",
         "Disposition": "CLOSED RPT FILED"

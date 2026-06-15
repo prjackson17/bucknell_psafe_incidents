@@ -1,7 +1,15 @@
 [
     {
         "Date": "10/31/2025",
-        "Time": "23:52",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511724",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/31/2025",
+        "Time": "",
         "Location": "380 S 7TH ST",
         "Nature": "Liquor, Other",
         "Case Number": "2511785",
@@ -10,9 +18,9 @@
     {
         "Date": "10/31/2025",
         "Time": "",
-        "Location": "780 Moore Ave",
+        "Location": "585 S 7th St",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511771",
+        "Case Number": "2511749",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

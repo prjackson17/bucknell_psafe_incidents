@@ -1,7 +1,7 @@
 [
     {
         "Date": "12/03/2025",
-        "Time": "17:00",
+        "Time": "",
         "Location": "PARKING LOT #17",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512843",
@@ -9,10 +9,18 @@
     },
     {
         "Date": "12/03/2025",
-        "Time": "10:36",
+        "Time": "",
         "Location": "19 STROHECKER FARM LN",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512844",
         "Disposition": ""
+    },
+    {
+        "Date": "12/03/2025",
+        "Time": "",
+        "Location": "580 Coleman Drive",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512845",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

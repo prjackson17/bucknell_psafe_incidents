@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "05/17/2026",
+        "Time": "",
+        "Location": "775 DENT DRIVE",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2605129",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/17/2026",
+        "Time": "",
+        "Location": "580 Coleman Drive",
+        "Nature": "Found Property",
+        "Case Number": "2605131",
+        "Disposition": ""
+    }
+]

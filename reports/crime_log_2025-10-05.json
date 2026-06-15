@@ -1,7 +1,23 @@
 [
     {
         "Date": "10/05/2025",
-        "Time": "02:54",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2510750",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/05/2025",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510759",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/05/2025",
+        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "Undetermined",
         "Case Number": "2510768",
@@ -9,10 +25,10 @@
     },
     {
         "Date": "10/05/2025",
-        "Time": "04:45",
+        "Time": "",
         "Location": "701 MOORE AVE",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2510769",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

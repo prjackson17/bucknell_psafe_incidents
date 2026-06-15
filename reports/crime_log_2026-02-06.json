@@ -1,15 +1,7 @@
 [
     {
         "Date": "02/06/2026",
-        "Time": "01:58",
-        "Location": "600 WALKER ST",
-        "Nature": "Drunkenness",
-        "Case Number": "2601147",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "02/06/2026",
-        "Time": "01:58",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Other",
         "Case Number": "2601147",
@@ -18,17 +10,41 @@
     {
         "Date": "02/06/2026",
         "Time": "",
-        "Location": "605 Walker St",
+        "Location": "527 Christy Mathewson Dr",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601162",
-        "Disposition": ""
+        "Case Number": "2601120",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "02/06/2026",
         "Time": "",
-        "Location": "580 Snake Road",
+        "Location": "605 WALKER ST",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2601162",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2601190",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "",
+        "Location": "585 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601149",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "",
+        "Location": "149 GATEWAY DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601151",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

@@ -1,10 +1,34 @@
 [
     {
         "Date": "08/26/2025",
-        "Time": "19:00",
+        "Time": "",
         "Location": "216 SOUTH CAMPUS DR",
         "Nature": "Assist Public",
         "Case Number": "2509330",
         "Disposition": ""
+    },
+    {
+        "Date": "08/26/2025",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Other Property",
+        "Case Number": "2509319",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/26/2025",
+        "Time": "",
+        "Location": "310 S 7TH ST",
+        "Nature": "Other Property",
+        "Case Number": "2509313",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/26/2025",
+        "Time": "",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509308",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

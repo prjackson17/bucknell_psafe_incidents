@@ -2,18 +2,18 @@
     {
         "Date": "10/30/2025",
         "Time": "",
-        "Location": "Saint George St @ Larrison",
+        "Location": "SAINT GEORGE ST @ LARRISON",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511704",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/30/2025",
         "Time": "",
-        "Location": "Edwards House",
+        "Location": "EDWARDS HOUSE",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511705",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/30/2025",
@@ -21,14 +21,6 @@
         "Location": "Freas Hall",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511708",
-        "Disposition": ""
-    },
-    {
-        "Date": "10/30/2025",
-        "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511724",
         "Disposition": ""
     }
 ]

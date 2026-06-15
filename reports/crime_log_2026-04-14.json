@@ -2,9 +2,17 @@
     {
         "Date": "04/14/2026",
         "Time": "",
-        "Location": "778 Moore Ave",
+        "Location": "778 MOORE AVE",
         "Nature": "Traffic Accident, Vehicle Damage",
         "Case Number": "2603738",
-        "Disposition": "No Further Incidents."
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/14/2026",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2603724",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

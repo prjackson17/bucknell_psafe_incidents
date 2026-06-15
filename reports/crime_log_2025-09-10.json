@@ -1,18 +1,18 @@
 [
     {
         "Date": "09/10/2025",
-        "Time": "19:05",
-        "Location": "580 SNAKE ROAD",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2509858",
-        "Disposition": ""
+        "Time": "",
+        "Location": "S 7TH ST & SAINT GEORGE ST",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2509861",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "09/10/2025",
         "Time": "",
-        "Location": "S 7th St & Saint George St",
-        "Nature": "Hit/Run, Vehicle Damg",
-        "Case Number": "2509861",
-        "Disposition": "CLOSED RPT FILED"
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2509858",
+        "Disposition": ""
     }
 ]

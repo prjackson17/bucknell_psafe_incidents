@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Drunkenness",
+        "Case Number": "2512266",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "570 S 7th St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512235",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "790 Moore Ave",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2512249",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "630 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512272",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512270",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "23 University Ave",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512271",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/13/2025",
+        "Time": "",
+        "Location": "527 Christy Mathewson Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512278",
+        "Disposition": ""
+    }
+]

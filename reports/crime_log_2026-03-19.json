@@ -1,7 +1,15 @@
 [
     {
         "Date": "03/19/2026",
-        "Time": "01:06",
+        "Time": "",
+        "Location": "778 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602789",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/19/2026",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Other",
         "Case Number": "2602744",
@@ -9,7 +17,7 @@
     },
     {
         "Date": "03/19/2026",
-        "Time": "01:50",
+        "Time": "",
         "Location": "521 SAINT GEORGE ST",
         "Nature": "Liquor, Other",
         "Case Number": "2602747",
@@ -18,17 +26,17 @@
     {
         "Date": "03/19/2026",
         "Time": "",
-        "Location": "778 Moore Ave",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602789",
+        "Location": "370 HARRIS DR",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2602791",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/19/2026",
         "Time": "",
-        "Location": "370 Harris Dr",
-        "Nature": "Larceny, Bicycle",
-        "Case Number": "2602791",
-        "Disposition": "UNDER INVESTIGATION"
+        "Location": "155 Gateway Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602793",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

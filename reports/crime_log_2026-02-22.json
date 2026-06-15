@@ -1,7 +1,7 @@
 [
     {
         "Date": "02/22/2026",
-        "Time": "01:40",
+        "Time": "",
         "Location": "560 PASCUCCI DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601883",
@@ -10,17 +10,17 @@
     {
         "Date": "02/22/2026",
         "Time": "",
-        "Location": "Walker St and 7th Street",
+        "Location": "580 SNAKE ROAD",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601882",
+        "Case Number": "2601902",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "02/22/2026",
         "Time": "",
-        "Location": "580 Snake Road",
+        "Location": "WALKER ST AND 7TH STREET",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2601902",
-        "Disposition": "UNDER INVESTIGATION"
+        "Case Number": "2601882",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

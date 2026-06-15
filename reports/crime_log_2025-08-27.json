@@ -1,10 +1,18 @@
 [
     {
         "Date": "08/27/2025",
-        "Time": "14:09",
-        "Location": "521 Saint George St",
-        "Nature": "Liquor, Other",
-        "Case Number": "2509365",
+        "Time": "",
+        "Location": "490 S 7th St",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2509333",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/27/2025",
+        "Time": "",
+        "Location": "S 7TH ST",
+        "Nature": "Traffic Offense",
+        "Case Number": "2509354",
         "Disposition": ""
     }
 ]

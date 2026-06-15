@@ -1,7 +1,23 @@
 [
     {
         "Date": "12/09/2025",
-        "Time": "00:09",
+        "Time": "",
+        "Location": "560 WEIS DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513091",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/09/2025",
+        "Time": "",
+        "Location": "South Campus Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513057",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/09/2025",
+        "Time": "",
         "Location": "PASCUCCI AND FATERNITY",
         "Nature": "Assist Public",
         "Case Number": "2513072",

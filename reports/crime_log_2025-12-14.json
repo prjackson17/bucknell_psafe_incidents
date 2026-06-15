@@ -1,7 +1,23 @@
 [
     {
         "Date": "12/14/2025",
-        "Time": "08:48",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2513255",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/14/2025",
+        "Time": "",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513277",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/14/2025",
+        "Time": "",
         "Location": "216 SOUTH CAMPUS DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2513262",

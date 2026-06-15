@@ -1,7 +1,15 @@
 [
     {
         "Date": "10/17/2025",
-        "Time": "00:14",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Sell",
+        "Case Number": "2511202",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "10/17/2025",
+        "Time": "",
         "Location": "528 SAINT GEORGE ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2511164",
@@ -9,7 +17,7 @@
     },
     {
         "Date": "10/17/2025",
-        "Time": "11:06",
+        "Time": "",
         "Location": "SOUTH CAMPUS DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511179",
@@ -17,26 +25,10 @@
     },
     {
         "Date": "10/17/2025",
-        "Time": "20:37",
+        "Time": "",
         "Location": "537 VAUGHAN LIT DR",
         "Nature": "Other Animal Calls",
         "Case Number": "2511198",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/17/2025",
-        "Time": "23:12",
-        "Location": "600 WALKER ST",
-        "Nature": "Liquor, Other",
-        "Case Number": "2511202",
-        "Disposition": "UNDER INVESTIGATION"
-    },
-    {
-        "Date": "10/17/2025",
-        "Time": "23:12",
-        "Location": "600 WALKER ST",
-        "Nature": "Liquor, Sell",
-        "Case Number": "2511202",
-        "Disposition": "UNDER INVESTIGATION"
     }
 ]

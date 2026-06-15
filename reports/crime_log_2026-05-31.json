@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "05/31/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2605614",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/31/2026",
+        "Time": "",
+        "Location": "145 GATEWAY DR",
+        "Nature": "Theft Other",
+        "Case Number": "2605639",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]

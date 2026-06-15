@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "04/15/2026",
+        "Time": "",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2603763",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/15/2026",
+        "Time": "",
+        "Location": "355 STROHECKER FARM LN",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2603758",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/15/2026",
+        "Time": "",
+        "Location": "SMITH HALL",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2603778",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

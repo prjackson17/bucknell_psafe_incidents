@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "165 GATEWAY DR",
+        "Nature": "Diabetic Problem",
+        "Case Number": "2601109",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601116",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Found Property",
+        "Case Number": "2601107",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601108",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "585 COLEMAN DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601110",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2601131",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "S 7TH ST & DENT DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601134",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

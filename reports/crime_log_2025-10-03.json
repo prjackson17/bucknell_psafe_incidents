@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "10/03/2025",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510698",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/03/2025",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510721",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/03/2025",
+        "Time": "",
+        "Location": "6 SOUTH 6TH STREET",
+        "Nature": "Assist Other Agency",
+        "Case Number": "2510716",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

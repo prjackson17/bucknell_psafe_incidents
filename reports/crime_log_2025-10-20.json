@@ -1,14 +1,6 @@
 [
     {
         "Date": "10/20/2025",
-        "Time": "09:25",
-        "Location": "630 S 7TH ST",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511291",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/20/2025",
         "Time": "",
         "Location": "528 Saint George St",
         "Nature": "NON UCR REPORTABLE",
@@ -18,7 +10,7 @@
     {
         "Date": "10/20/2025",
         "Time": "",
-        "Location": "385 Strohecker Farm Ln",
+        "Location": "385 STROHECKER FARM LN",
         "Nature": "WELFARE CHECK",
         "Case Number": "2511310",
         "Disposition": "CLOSED RPT FILED"
@@ -26,17 +18,25 @@
     {
         "Date": "10/20/2025",
         "Time": "",
-        "Location": "64 University Ave",
+        "Location": "64 UNIVERSITY AVE",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2511315",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/20/2025",
         "Time": "",
-        "Location": "580 Snake Road",
+        "Location": "580 SNAKE ROAD",
         "Nature": "Other Property",
         "Case Number": "2511316",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/20/2025",
+        "Time": "",
+        "Location": "630 S 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511291",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

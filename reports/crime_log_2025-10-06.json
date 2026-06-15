@@ -1,18 +1,26 @@
 [
     {
         "Date": "10/06/2025",
-        "Time": "07:57",
-        "Location": "397 UNIVERSITY AVE",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2510806",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Theft Other",
+        "Case Number": "2510789",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/06/2025",
-        "Time": "20:14",
+        "Time": "",
         "Location": "165 GATEWAY DR",
         "Nature": "Traffic Accident, Private Prop Damg",
         "Case Number": "2510826",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/06/2025",
+        "Time": "",
+        "Location": "397 UNIVERSITY AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510806",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

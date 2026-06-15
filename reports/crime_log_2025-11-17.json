@@ -1,7 +1,15 @@
 [
     {
         "Date": "11/17/2025",
-        "Time": "11:16",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512412",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/17/2025",
+        "Time": "",
         "Location": "LOT 61",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512433",

@@ -1,26 +1,34 @@
 [
     {
         "Date": "01/30/2026",
-        "Time": "21:39",
+        "Time": "",
         "Location": "292 BROWN ST",
-        "Nature": "Marijuana, Possession",
+        "Nature": "Narcotic Equipment, Possession",
         "Case Number": "2600885",
         "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "01/30/2026",
-        "Time": "22:30",
-        "Location": "538 SAINT GEORGE ST",
-        "Nature": "Marijuana, Possession",
-        "Case Number": "2600889",
-        "Disposition": ""
+        "Time": "",
+        "Location": "LOT 21",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600850",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "01/30/2026",
         "Time": "",
-        "Location": "Lot 21",
+        "Location": "616 COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2600850",
+        "Case Number": "2600851",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/30/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2600889",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

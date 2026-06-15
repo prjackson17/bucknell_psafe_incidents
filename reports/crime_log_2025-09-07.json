@@ -2,17 +2,33 @@
     {
         "Date": "09/07/2025",
         "Time": "",
-        "Location": "Dent Dr",
-        "Nature": "Larceny, from Yard/Land",
-        "Case Number": "2509725",
-        "Disposition": "JUDICIAL REFERRAL"
+        "Location": "380 S 7th St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2509705",
+        "Disposition": ""
     },
     {
         "Date": "09/07/2025",
         "Time": "",
-        "Location": "",
+        "Location": "701 Moore Ave",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2509713",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/07/2025",
+        "Time": "",
+        "Location": "380 S 7TH ST",
         "Nature": "Fondling",
         "Case Number": "2509738",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/07/2025",
+        "Time": "",
+        "Location": "DENT DR",
+        "Nature": "Larceny, from Yard/Land",
+        "Case Number": "2509725",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

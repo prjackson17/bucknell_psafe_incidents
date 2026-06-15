@@ -1,7 +1,7 @@
 [
     {
         "Date": "09/04/2025",
-        "Time": "11:31",
+        "Time": "",
         "Location": "198 BUCKNELL WEST DR",
         "Nature": "Suspicious Person",
         "Case Number": "2509610",
@@ -14,5 +14,21 @@
         "Nature": "Liquor, Possess",
         "Case Number": "2509603",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/04/2025",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Theft Other",
+        "Case Number": "2509604",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/04/2025",
+        "Time": "",
+        "Location": "370 Harris Dr",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2509602",
+        "Disposition": ""
     }
 ]

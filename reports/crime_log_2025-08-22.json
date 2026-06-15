@@ -1,7 +1,7 @@
 [
     {
         "Date": "08/22/2025",
-        "Time": "22:00",
+        "Time": "",
         "Location": "538 SAINT GEORGE ST",
         "Nature": "Suspicious Activity",
         "Case Number": "2509155",
@@ -10,9 +10,9 @@
     {
         "Date": "08/22/2025",
         "Time": "",
-        "Location": "701 Moore Ave",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2509167",
-        "Disposition": ""
+        "Location": "490 S 7TH ST",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2509174",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

@@ -1,10 +1,18 @@
 [
     {
         "Date": "08/13/2025",
-        "Time": "13:03",
+        "Time": "",
+        "Location": "16 Bucknell West Dr",
+        "Nature": "Traffic Offense",
+        "Case Number": "2508890",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/13/2025",
+        "Time": "",
         "Location": "521 SAINT GEORGE ST",
         "Nature": "Traffic, Other",
         "Case Number": "2508924",
-        "Disposition": "08/14/2025 05:43"
+        "Disposition": ""
     }
 ]

@@ -1,6 +1,14 @@
 [
     {
-        "Date": "8/25/2025",
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "370 Harris Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2509247",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/25/2025",
         "Time": "",
         "Location": "380 S 7th St",
         "Nature": "Liquor, Other",
@@ -8,19 +16,43 @@
         "Disposition": "JUDICIAL REFERRAL"
     },
     {
-        "Date": "8/25/2025",
+        "Date": "08/25/2025",
         "Time": "",
         "Location": "380 S 7th St",
         "Nature": "Liquor, Other",
         "Case Number": "2509262",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
-        "Date": "8/25/2025",
+        "Date": "08/25/2025",
         "Time": "",
-        "Location": "380 S 7th St",
-        "Nature": "Fraud Imperson",
-        "Case Number": "2509262",
-        "Disposition": "UNDER INVESTIGATION"
+        "Location": "380 S 7TH ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2509290",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "565 S 7TH ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2509276",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "51 STROHECKER FARM LN",
+        "Nature": "Abandon Vehicle",
+        "Case Number": "2509273",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/25/2025",
+        "Time": "",
+        "Location": "Pascucci Dr.",
+        "Nature": "Traffic, Other",
+        "Case Number": "2509270",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

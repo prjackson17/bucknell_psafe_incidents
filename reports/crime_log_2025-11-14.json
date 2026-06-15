@@ -1,16 +1,8 @@
 [
     {
         "Date": "11/14/2025",
-        "Time": "17:59",
-        "Location": "292 BROWN ST",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2512325",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "11/14/2025",
         "Time": "",
-        "Location": "",
+        "Location": "623 COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512315",
         "Disposition": "CLOSED RPT FILED"
@@ -18,9 +10,25 @@
     {
         "Date": "11/14/2025",
         "Time": "",
-        "Location": "701 Moore Ave",
+        "Location": "701 MOORE AVE",
         "Nature": "Theft Other",
         "Case Number": "2512319",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/14/2025",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2512342",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/14/2025",
+        "Time": "",
+        "Location": "292 BROWN ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512325",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

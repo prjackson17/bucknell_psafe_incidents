@@ -1,10 +1,34 @@
 [
     {
         "Date": "09/27/2025",
-        "Time": "22:00",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Damaged Property, Public",
         "Case Number": "2510465",
         "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/27/2025",
+        "Time": "",
+        "Location": "754 ROTC DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2510484",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/27/2025",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Damaged Property,Public",
+        "Case Number": "2510497",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/27/2025",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2510472",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

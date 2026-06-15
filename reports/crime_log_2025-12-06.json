@@ -1,7 +1,15 @@
 [
     {
         "Date": "12/06/2025",
-        "Time": "01:13",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512999",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/06/2025",
+        "Time": "",
         "Location": "732 MOORE AVE",
         "Nature": "Public Intoxication",
         "Case Number": "2512958",
@@ -9,7 +17,7 @@
     },
     {
         "Date": "12/06/2025",
-        "Time": "09:30",
+        "Time": "",
         "Location": "825 FRATERNITY RD",
         "Nature": "Hit/Run, Vehicle Damg",
         "Case Number": "2512971",
@@ -17,15 +25,7 @@
     },
     {
         "Date": "12/06/2025",
-        "Time": "02:52",
-        "Location": "560 PASCUCCI DR",
-        "Nature": "Liquor, Other",
-        "Case Number": "2512961",
-        "Disposition": ""
-    },
-    {
-        "Date": "12/06/2025",
-        "Time": "19:36",
+        "Time": "",
         "Location": "COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512990",
@@ -34,9 +34,17 @@
     {
         "Date": "12/06/2025",
         "Time": "",
-        "Location": "380 S 7th St",
+        "Location": "380 S 7TH ST",
         "Nature": "Liquor, Manufacture",
         "Case Number": "2512960",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/06/2025",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2512961",
+        "Disposition": ""
     }
 ]
