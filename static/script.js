@@ -68,23 +68,24 @@ function loadMonthlyStats() {
     fetch('/api/stats/monthly')
         .then(response => response.json())
         .then(data => {
-            const currentYear = new Date().getFullYear();
-            const minYear = 2024;
+            const currentMonth = new Date();
+            currentMonth.setDate(1);
+            currentMonth.setHours(0, 0, 0, 0);
 
-            const filteredEntries = Object.entries(data).filter(([key]) => {
-                const year = parseInt(key.split('-')[0]);
-                return year >= minYear && year <= currentYear;
-            });
+            const startMonth = new Date(currentMonth);
+            startMonth.setMonth(startMonth.getMonth() - 12);
 
-            filteredEntries.sort((a, b) => a[0].localeCompare(b[0]));
+            const labels = [];
+            const values = [];
 
-            const labels = filteredEntries.map(([key]) => {
-                const [year, month] = key.split('-');
-                const date = new Date(year, parseInt(month) - 1);
-                return date.toLocaleString('en-US', { month: 'short', year: '2-digit' }).replace(',', '');
-            });
-
-            const values = filteredEntries.map(([_, val]) => val);
+            for (const monthDate = new Date(startMonth); monthDate <= currentMonth; monthDate.setMonth(monthDate.getMonth() + 1)) {
+                const year = monthDate.getFullYear();
+                const month = String(monthDate.getMonth() + 1).padStart(2, '0');
+                const key = `${year}-${month}`;
+                const date = new Date(year, monthDate.getMonth());
+                labels.push(date.toLocaleString('en-US', { month: 'short', year: '2-digit' }).replace(',', ''));
+                values.push(data[key] || 0);
+            }
 
             renderChart(labels, values);
         })
