@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "06/20/2026",
+        "Time": "",
+        "Location": "16 BUCKNELL WEST DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2606089",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "06/20/2026",
+        "Time": "",
+        "Location": "MOORE AVE & S 7TH ST",
+        "Nature": "Assist Public",
+        "Case Number": "2606092",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
