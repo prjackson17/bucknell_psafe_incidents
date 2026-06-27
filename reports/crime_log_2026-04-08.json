@@ -10,17 +10,41 @@
     {
         "Date": "04/08/2026",
         "Time": "",
-        "Location": "605 South 7th St",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "HOUSING SERVICE DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2603521",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603509",
         "Disposition": ""
     },
     {
         "Date": "04/08/2026",
         "Time": "",
-        "Location": "725 Rotc Dr",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "725 ROTC DR",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603513",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "LOT #63",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2603517",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/08/2026",
+        "Time": "",
+        "Location": "810 FRATERNITY RD",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2603519",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

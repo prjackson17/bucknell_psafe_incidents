@@ -2,16 +2,8 @@
     {
         "Date": "04/09/2026",
         "Time": "",
-        "Location": "Housing Service Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603521",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "04/09/2026",
-        "Time": "",
         "Location": "Lot 46",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603518",
         "Disposition": ""
     },
@@ -42,22 +34,6 @@
     {
         "Date": "04/09/2026",
         "Time": "",
-        "Location": "Lot #63",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603517",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "04/09/2026",
-        "Time": "",
-        "Location": "810 Fraternity Rd",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603519",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "04/09/2026",
-        "Time": "",
         "Location": "553 CHRISTY MATHEWSON DR",
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603551",
@@ -67,7 +43,7 @@
         "Date": "04/09/2026",
         "Time": "",
         "Location": "SOUTH CAMPUS DR",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603555",
         "Disposition": "CLOSED RPT FILED"
     }
