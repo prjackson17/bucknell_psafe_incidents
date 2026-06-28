@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "06/25/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Suspicious Person",
+        "Case Number": "2606226",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "06/25/2026",
+        "Time": "",
+        "Location": "135 GATEWAY DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2606227",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
