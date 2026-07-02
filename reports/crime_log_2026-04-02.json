@@ -10,14 +10,6 @@
     {
         "Date": "04/02/2026",
         "Time": "",
-        "Location": "527 Christy Mathewson Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2603278",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "04/02/2026",
-        "Time": "",
         "Location": "580 VAUGHAN LIT DR",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2603329",
@@ -26,8 +18,8 @@
     {
         "Date": "04/02/2026",
         "Time": "",
-        "Location": "521 Saint George St",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603304",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -35,7 +27,7 @@
         "Date": "04/02/2026",
         "Time": "",
         "Location": "Special Interest Houses",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603305",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -50,24 +42,24 @@
     {
         "Date": "04/02/2026",
         "Time": "",
-        "Location": "South Campus Dr",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603309",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/02/2026",
         "Time": "",
-        "Location": "810 Fraternity Rd",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "810 FRATERNITY RD",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603313",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/02/2026",
         "Time": "",
-        "Location": "570 S 7th St",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "570 S 7TH ST",
+        "Nature": "Ambulance Assist",
         "Case Number": "2603314",
         "Disposition": "CLOSED RPT FILED"
     }
