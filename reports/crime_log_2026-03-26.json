@@ -3,7 +3,7 @@
         "Date": "03/26/2026",
         "Time": "",
         "Location": "521 SAINT GEORGE ST",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603024",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -11,7 +11,7 @@
         "Date": "03/26/2026",
         "Time": "",
         "Location": "580 SNAKE ROAD",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Suspicious/Harassing Phone Calls",
         "Case Number": "2603038",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -19,15 +19,15 @@
         "Date": "03/26/2026",
         "Time": "",
         "Location": "FRATERNITY RD",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603025",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/26/2026",
         "Time": "",
-        "Location": "580 Vaughan Lit Dr",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "580 VAUGHAN LIT DR",
+        "Nature": "Ambulance Assist",
         "Case Number": "2603026",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -35,7 +35,7 @@
         "Date": "03/26/2026",
         "Time": "",
         "Location": "565 COLEMAN DR",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Ambulance Assist",
         "Case Number": "2603045",
         "Disposition": "CLOSED RPT FILED"
     }
