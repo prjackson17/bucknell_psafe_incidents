@@ -3,7 +3,7 @@
         "Date": "02/26/2026",
         "Time": "",
         "Location": "397 UNIVERSITY AVE",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2602040",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -11,7 +11,7 @@
         "Date": "02/26/2026",
         "Time": "",
         "Location": "600 WALKER ST",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Found Property",
         "Case Number": "2602045",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -26,8 +26,8 @@
     {
         "Date": "02/26/2026",
         "Time": "",
-        "Location": "West Campus",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "WEST CAMPUS",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2602037",
         "Disposition": "CLOSED RPT FILED"
     }
