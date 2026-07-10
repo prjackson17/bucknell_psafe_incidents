@@ -2,14 +2,6 @@
     {
         "Date": "04/29/2026",
         "Time": "",
-        "Location": "555 Pascucci Dr",
-        "Nature": "Ambulance Assist",
-        "Case Number": "2604260",
-        "Disposition": ""
-    },
-    {
-        "Date": "04/29/2026",
-        "Time": "",
         "Location": "110 UNIVERSITY AVE",
         "Nature": "Invasion of Privacy Other",
         "Case Number": "2604299",
@@ -37,7 +29,7 @@
         "Location": "521 SAINT GEORGE ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2604315",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/29/2026",

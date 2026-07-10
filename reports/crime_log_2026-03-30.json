@@ -2,6 +2,14 @@
     {
         "Date": "03/30/2026",
         "Time": "",
+        "Location": "375 SERVICE DR",
+        "Nature": "Assist Public",
+        "Case Number": "2603222",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/30/2026",
+        "Time": "",
         "Location": "585 COLEMAN HALL DR",
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603196",
@@ -38,6 +46,14 @@
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2603205",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/30/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2603227",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "03/30/2026",

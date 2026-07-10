@@ -2,9 +2,17 @@
     {
         "Date": "05/14/2026",
         "Time": "",
-        "Location": "600 Walker St",
+        "Location": "600 WALKER ST",
         "Nature": "Drunkenness",
         "Case Number": "2605006",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/14/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "RAPE",
+        "Case Number": "2605028",
         "Disposition": "CLOSED RPT FILED"
     }
 ]
