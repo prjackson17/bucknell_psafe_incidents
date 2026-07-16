@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "07/13/2026",
+        "Time": "",
+        "Location": "BUCKNELL UNIVERSITY, DENT DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2606694",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "07/13/2026",
+        "Time": "",
+        "Location": "560 COLEMAN HALL DR",
+        "Nature": "Theft Other",
+        "Case Number": "2606700",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]

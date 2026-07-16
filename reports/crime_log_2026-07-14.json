@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "07/14/2026",
+        "Time": "",
+        "Location": "580 Snake Road",
+        "Nature": "Theft Other",
+        "Case Number": "2606687",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "07/14/2026",
+        "Time": "",
+        "Location": "770 Moore Ave",
+        "Nature": "Criminal Trespass",
+        "Case Number": "2606701",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
