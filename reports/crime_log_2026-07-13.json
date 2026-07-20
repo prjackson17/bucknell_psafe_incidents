@@ -14,5 +14,21 @@
         "Nature": "Theft Other",
         "Case Number": "2606700",
         "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "07/13/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Theft Other",
+        "Case Number": "2606687",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "07/13/2026",
+        "Time": "",
+        "Location": "770 MOORE AVE",
+        "Nature": "Criminal Trespass",
+        "Case Number": "2606701",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
