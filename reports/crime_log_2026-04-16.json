@@ -18,6 +18,14 @@
     {
         "Date": "04/16/2026",
         "Time": "",
+        "Location": "SMITH HALL",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2603778",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/16/2026",
+        "Time": "",
         "Location": "420 S 7TH ST",
         "Nature": "Ambulance Assist",
         "Case Number": "2603801",

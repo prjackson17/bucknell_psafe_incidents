@@ -2,6 +2,14 @@
     {
         "Date": "03/20/2026",
         "Time": "",
+        "Location": "778 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602789",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/20/2026",
+        "Time": "",
         "Location": "185 CLUBHOUSE DR",
         "Nature": "Liquor, Possess",
         "Case Number": "2602824",
@@ -10,17 +18,17 @@
     {
         "Date": "03/20/2026",
         "Time": "",
-        "Location": "565 COLEMAN DR",
-        "Nature": "Ambulance Assist",
-        "Case Number": "2602799",
+        "Location": "370 HARRIS DR",
+        "Nature": "Larceny, Bicycle",
+        "Case Number": "2602791",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/20/2026",
         "Time": "",
-        "Location": "560 PASCUCCI DR",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2602838",
-        "Disposition": "JUDICIAL REFERRAL"
+        "Location": "565 COLEMAN DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2602799",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

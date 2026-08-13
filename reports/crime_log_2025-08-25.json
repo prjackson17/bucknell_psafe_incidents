@@ -2,6 +2,14 @@
     {
         "Date": "08/25/2025",
         "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Other",
+        "Case Number": "2509225",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/25/2025",
+        "Time": "",
         "Location": "370 Harris Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2509247",
@@ -26,14 +34,6 @@
     {
         "Date": "08/25/2025",
         "Time": "",
-        "Location": "380 S 7TH ST",
-        "Nature": "Disorderly Conduct",
-        "Case Number": "2509290",
-        "Disposition": ""
-    },
-    {
-        "Date": "08/25/2025",
-        "Time": "",
         "Location": "565 S 7TH ST",
         "Nature": "Ambulance Assist",
         "Case Number": "2509276",
@@ -46,13 +46,5 @@
         "Nature": "Abandon Vehicle",
         "Case Number": "2509273",
         "Disposition": ""
-    },
-    {
-        "Date": "08/25/2025",
-        "Time": "",
-        "Location": "Pascucci Dr.",
-        "Nature": "Traffic, Other",
-        "Case Number": "2509270",
-        "Disposition": "CLOSED RPT FILED"
     }
 ]

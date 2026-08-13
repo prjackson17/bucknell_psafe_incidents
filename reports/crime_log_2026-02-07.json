@@ -2,6 +2,14 @@
     {
         "Date": "02/07/2026",
         "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2601190",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/07/2026",
+        "Time": "",
         "Location": "570 LOOMIS ST",
         "Nature": "Liquor, Manufacture",
         "Case Number": "2601198",

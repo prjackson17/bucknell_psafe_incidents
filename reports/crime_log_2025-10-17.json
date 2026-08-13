@@ -2,14 +2,6 @@
     {
         "Date": "10/17/2025",
         "Time": "",
-        "Location": "600 WALKER ST",
-        "Nature": "Liquor, Sell",
-        "Case Number": "2511202",
-        "Disposition": "CLEARED ADULT ARREST"
-    },
-    {
-        "Date": "10/17/2025",
-        "Time": "",
         "Location": "528 SAINT GEORGE ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2511164",
@@ -22,13 +14,5 @@
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511179",
         "Disposition": ""
-    },
-    {
-        "Date": "10/17/2025",
-        "Time": "",
-        "Location": "537 VAUGHAN LIT DR",
-        "Nature": "Other Animal Calls",
-        "Case Number": "2511198",
-        "Disposition": "CLOSED RPT FILED"
     }
 ]

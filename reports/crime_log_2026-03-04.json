@@ -2,6 +2,14 @@
     {
         "Date": "03/04/2026",
         "Time": "",
+        "Location": "765 MOORE AVE",
+        "Nature": "Found Property",
+        "Case Number": "2602279",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/04/2026",
+        "Time": "",
         "Location": "BREAKIRON LN",
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2602301",
@@ -14,13 +22,5 @@
         "Nature": "Larceny, from Building",
         "Case Number": "2602315",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "03/04/2026",
-        "Time": "",
-        "Location": "770 MOORE AVE",
-        "Nature": "Harassment, Other",
-        "Case Number": "2602320",
-        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

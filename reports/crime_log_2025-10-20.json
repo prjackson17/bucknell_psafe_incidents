@@ -2,6 +2,14 @@
     {
         "Date": "10/20/2025",
         "Time": "",
+        "Location": "CLOSED RPT FILED",
+        "Nature": "Traffic Offense",
+        "Case Number": "2511239",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/20/2025",
+        "Time": "",
         "Location": "528 Saint George St",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511290",
@@ -18,17 +26,9 @@
     {
         "Date": "10/20/2025",
         "Time": "",
-        "Location": "64 UNIVERSITY AVE",
+        "Location": "565 Coleman Dr",
         "Nature": "POLICE INFORMATION",
-        "Case Number": "2511315",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/20/2025",
-        "Time": "",
-        "Location": "580 SNAKE ROAD",
-        "Nature": "Other Property",
-        "Case Number": "2511316",
+        "Case Number": "2511243",
         "Disposition": "CLOSED RPT FILED"
     },
     {

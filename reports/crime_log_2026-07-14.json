@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "07/14/2026",
+        "Time": "",
+        "Location": "560 COLEMAN HALL DR",
+        "Nature": "Theft Other",
+        "Case Number": "2606700",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "07/14/2026",
+        "Time": "",
+        "Location": "770 MOORE AVE",
+        "Nature": "Criminal Trespass",
+        "Case Number": "2606701",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

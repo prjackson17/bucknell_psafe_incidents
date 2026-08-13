@@ -2,14 +2,6 @@
     {
         "Date": "03/19/2026",
         "Time": "",
-        "Location": "778 MOORE AVE",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602789",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "03/19/2026",
-        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Other",
         "Case Number": "2602744",
@@ -26,17 +18,17 @@
     {
         "Date": "03/19/2026",
         "Time": "",
-        "Location": "370 HARRIS DR",
-        "Nature": "Larceny, Bicycle",
-        "Case Number": "2602791",
+        "Location": "155 Gateway Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2602793",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "03/19/2026",
         "Time": "",
-        "Location": "155 Gateway Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2602793",
+        "Location": "570 S 7TH ST",
+        "Nature": "Fire Alarm",
+        "Case Number": "2602739",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

@@ -2,18 +2,18 @@
     {
         "Date": "10/05/2025",
         "Time": "",
-        "Location": "565 Coleman Dr",
-        "Nature": "Liquor, Manufacture",
-        "Case Number": "2510750",
-        "Disposition": ""
+        "Location": "754 Rotc Dr",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510717",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "10/05/2025",
         "Time": "",
         "Location": "565 Coleman Dr",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2510759",
-        "Disposition": "CLOSED RPT FILED"
+        "Nature": "Liquor, Manufacture",
+        "Case Number": "2510750",
+        "Disposition": ""
     },
     {
         "Date": "10/05/2025",
@@ -30,5 +30,29 @@
         "Nature": "POLICE INFORMATION",
         "Case Number": "2510769",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/05/2025",
+        "Time": "",
+        "Location": "198 BUCKNELL WEST DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510754",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/05/2025",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2510758",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/05/2025",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2510753",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

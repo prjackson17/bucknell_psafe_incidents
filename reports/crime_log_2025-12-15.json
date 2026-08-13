@@ -2,6 +2,22 @@
     {
         "Date": "12/15/2025",
         "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2513255",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/15/2025",
+        "Time": "",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513277",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/15/2025",
+        "Time": "",
         "Location": "560 PASCUCCI DR",
         "Nature": "Ambulance Assist",
         "Case Number": "2513287",

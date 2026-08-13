@@ -10,17 +10,17 @@
     {
         "Date": "04/25/2026",
         "Time": "",
-        "Location": "605 SOUTH 7TH ST",
-        "Nature": "Traffic Accident, Private Prop Damg",
-        "Case Number": "2604159",
+        "Location": "32 BUCKNELL WEST DR",
+        "Nature": "Hospital Transport",
+        "Case Number": "2604117",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "04/25/2026",
         "Time": "",
-        "Location": "570 LOOMIS ST",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2604163",
-        "Disposition": ""
+        "Location": "32 BUCKNELL WEST DR",
+        "Nature": "Search/Rescue, Other",
+        "Case Number": "2604114",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

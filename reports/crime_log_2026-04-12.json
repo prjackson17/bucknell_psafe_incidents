@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "04/12/2026",
+        "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2603642",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/12/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Trespassing, Private Property",
+        "Case Number": "2603643",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]

@@ -10,6 +10,14 @@
     {
         "Date": "02/10/2026",
         "Time": "",
+        "Location": "32 BUCKNELL WEST DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601332",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/10/2026",
+        "Time": "",
         "Location": "SOUTH CAMPUS DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601349",

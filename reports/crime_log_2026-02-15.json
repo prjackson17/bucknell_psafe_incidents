@@ -2,6 +2,14 @@
     {
         "Date": "02/15/2026",
         "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2601580",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "02/15/2026",
+        "Time": "",
         "Location": "DAVIS GYM, MOORE AVE",
         "Nature": "Other Security Check",
         "Case Number": "2601608",
@@ -10,9 +18,17 @@
     {
         "Date": "02/15/2026",
         "Time": "",
-        "Location": "560 PASCUCCI DR",
-        "Nature": "Larceny, from Building",
-        "Case Number": "2601612",
-        "Disposition": "JUDICIAL REFERRAL"
+        "Location": "380 S 7TH ST",
+        "Nature": "Resisting/Interfering w/Police",
+        "Case Number": "2601579",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "02/15/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2601581",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

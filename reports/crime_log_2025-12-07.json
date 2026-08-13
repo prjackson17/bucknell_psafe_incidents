@@ -3,8 +3,16 @@
         "Date": "12/07/2025",
         "Time": "",
         "Location": "380 S 7TH ST",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2513034",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2512999",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/07/2025",
+        "Time": "",
+        "Location": "COLEMAN HALL DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2512990",
+        "Disposition": ""
     }
 ]

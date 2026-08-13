@@ -3,7 +3,7 @@
         "Date": "11/13/2025",
         "Time": "",
         "Location": "565 COLEMAN DR",
-        "Nature": "Drunkenness",
+        "Nature": "Liquor, Possess",
         "Case Number": "2512266",
         "Disposition": "CLEARED ADULT ARREST"
     },
@@ -45,14 +45,6 @@
         "Location": "23 University Ave",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512271",
-        "Disposition": ""
-    },
-    {
-        "Date": "11/13/2025",
-        "Time": "",
-        "Location": "527 Christy Mathewson Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512278",
         "Disposition": ""
     }
 ]

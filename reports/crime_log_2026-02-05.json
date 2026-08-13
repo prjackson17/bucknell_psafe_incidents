@@ -2,6 +2,14 @@
     {
         "Date": "02/05/2026",
         "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2601088",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
         "Location": "165 GATEWAY DR",
         "Nature": "Diabetic Problem",
         "Case Number": "2601109",
@@ -42,17 +50,9 @@
     {
         "Date": "02/05/2026",
         "Time": "",
-        "Location": "537 VAUGHAN LIT DR",
-        "Nature": "Traffic Accident, Vehicle Damage",
-        "Case Number": "2601131",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "02/05/2026",
-        "Time": "",
-        "Location": "S 7TH ST & DENT DR",
-        "Nature": "WELFARE CHECK",
-        "Case Number": "2601134",
+        "Location": "212 S 6TH ST",
+        "Nature": "Suspicious Person",
+        "Case Number": "2601096",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

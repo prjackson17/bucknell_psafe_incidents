@@ -2,9 +2,25 @@
     {
         "Date": "01/22/2026",
         "Time": "",
+        "Location": "537 Vaughan Lit Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600505",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/22/2026",
+        "Time": "",
         "Location": "538 Saint George St",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2600512",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/22/2026",
+        "Time": "",
+        "Location": "770 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600538",
         "Disposition": "CLOSED RPT FILED"
     },
     {
@@ -26,6 +42,14 @@
     {
         "Date": "01/22/2026",
         "Time": "",
+        "Location": "538 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2600506",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/22/2026",
+        "Time": "",
         "Location": "585 COLEMAN HALL DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2600562",
@@ -37,14 +61,6 @@
         "Location": "538 Saint George St",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2600548",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "01/22/2026",
-        "Time": "",
-        "Location": "585 Coleman Hall Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2600552",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

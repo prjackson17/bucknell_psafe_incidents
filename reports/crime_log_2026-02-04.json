@@ -2,9 +2,17 @@
     {
         "Date": "02/04/2026",
         "Time": "",
-        "Location": "701 MOORE AVE",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2601088",
+        "Location": "400 Saint George St",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2601034",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/04/2026",
+        "Time": "",
+        "Location": "525 WEIS DR",
+        "Nature": "Suspicious Person",
+        "Case Number": "2601057",
         "Disposition": "CLOSED RPT FILED"
     },
     {
@@ -45,14 +53,6 @@
         "Location": "165 GATEWAY DR",
         "Nature": "Ambulance Assist",
         "Case Number": "2601082",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "02/04/2026",
-        "Time": "",
-        "Location": "212 S 6TH ST",
-        "Nature": "Suspicious Person",
-        "Case Number": "2601096",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

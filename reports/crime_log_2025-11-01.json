@@ -18,6 +18,14 @@
     {
         "Date": "11/01/2025",
         "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2511785",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/01/2025",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Other",
         "Case Number": "2511790",
@@ -38,13 +46,5 @@
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2511791",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "11/01/2025",
-        "Time": "",
-        "Location": "521 SAINT GEORGE ST",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2511825",
-        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

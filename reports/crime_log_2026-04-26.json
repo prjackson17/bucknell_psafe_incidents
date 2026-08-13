@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "04/26/2026",
+        "Time": "",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2604159",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/26/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2604163",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

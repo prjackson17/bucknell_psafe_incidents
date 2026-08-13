@@ -10,6 +10,14 @@
     {
         "Date": "12/02/2025",
         "Time": "",
+        "Location": "23 University Ave",
+        "Nature": "Traffic Offense",
+        "Case Number": "2512762",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/02/2025",
+        "Time": "",
         "Location": "149 Gateway Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512803",

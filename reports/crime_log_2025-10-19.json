@@ -2,18 +2,34 @@
     {
         "Date": "10/19/2025",
         "Time": "",
-        "Location": "735 Dent Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511237",
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511203",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/19/2025",
+        "Time": "",
+        "Location": "600 Walker St",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2511204",
         "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/19/2025",
         "Time": "",
-        "Location": "CLOSED RPT FILED",
-        "Nature": "Traffic Offense",
-        "Case Number": "2511239",
-        "Disposition": ""
+        "Location": "600 Walker St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2511205",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/19/2025",
+        "Time": "",
+        "Location": "735 Dent Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2511237",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/19/2025",
@@ -29,14 +45,6 @@
         "Location": "370 Harris Dr",
         "Nature": "Criminal Mischief",
         "Case Number": "2511257",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/19/2025",
-        "Time": "",
-        "Location": "565 Coleman Dr",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2511243",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

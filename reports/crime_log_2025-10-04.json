@@ -3,7 +3,7 @@
         "Date": "10/04/2025",
         "Time": "",
         "Location": "ELAINE LANGONE CENTER,",
-        "Nature": "Liquor, Other",
+        "Nature": "Shoplifting",
         "Case Number": "2510724",
         "Disposition": "JUDICIAL REFERRAL"
     },
@@ -14,14 +14,6 @@
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2510702",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/04/2025",
-        "Time": "",
-        "Location": "754 Rotc Dr",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2510717",
-        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "10/04/2025",
@@ -42,25 +34,17 @@
     {
         "Date": "10/04/2025",
         "Time": "",
-        "Location": "198 BUCKNELL WEST DR",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2510754",
-        "Disposition": ""
-    },
-    {
-        "Date": "10/04/2025",
-        "Time": "",
-        "Location": "570 LOOMIS ST",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2510758",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/04/2025",
-        "Time": "",
-        "Location": "380 S 7TH ST",
-        "Nature": "Liquor, Other",
-        "Case Number": "2510753",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2510721",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/04/2025",
+        "Time": "",
+        "Location": "6 SOUTH 6TH STREET",
+        "Nature": "Assist Other Agency",
+        "Case Number": "2510716",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

@@ -2,9 +2,17 @@
     {
         "Date": "10/21/2025",
         "Time": "",
-        "Location": "570 Loomis St",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2511339",
-        "Disposition": ""
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2511315",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/21/2025",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Other Property",
+        "Case Number": "2511316",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

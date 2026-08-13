@@ -2,6 +2,14 @@
     {
         "Date": "01/31/2026",
         "Time": "",
+        "Location": "292 BROWN ST",
+        "Nature": "Narcotic Equipment, Possession",
+        "Case Number": "2600885",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/31/2026",
+        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "Criminal Trespass",
         "Case Number": "2600897",
@@ -14,6 +22,14 @@
         "Nature": "Extortion, Threat Injure Reputation",
         "Case Number": "2600908",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/31/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2600889",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "01/31/2026",
@@ -37,22 +53,6 @@
         "Location": "580 COLEMAN DRIVE",
         "Nature": "Harassing Communication",
         "Case Number": "2600931",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "01/31/2026",
-        "Time": "",
-        "Location": "820 FRATERNITY RD",
-        "Nature": "Narcotic Equipment, Possession",
-        "Case Number": "2600933",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "01/31/2026",
-        "Time": "",
-        "Location": "521 SAINT GEORGE ST",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2600941",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

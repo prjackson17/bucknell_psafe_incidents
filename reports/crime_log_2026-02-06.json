@@ -26,9 +26,17 @@
     {
         "Date": "02/06/2026",
         "Time": "",
-        "Location": "580 SNAKE ROAD",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2601190",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2601131",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/06/2026",
+        "Time": "",
+        "Location": "S 7TH ST & DENT DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2601134",
         "Disposition": "CLOSED RPT FILED"
     },
     {

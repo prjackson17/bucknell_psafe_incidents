@@ -2,6 +2,22 @@
     {
         "Date": "09/01/2025",
         "Time": "",
+        "Location": "Housing Service Dr",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2509457",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/01/2025",
+        "Time": "",
+        "Location": "365 SERVICE DR",
+        "Nature": "Fraud, Illegal Use Credit Cards",
+        "Case Number": "2509493",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/01/2025",
+        "Time": "",
         "Location": "Strohecker Farm Ln",
         "Nature": "Public Impound Request",
         "Case Number": "2509497",
@@ -30,13 +46,5 @@
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2509508",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "09/01/2025",
-        "Time": "",
-        "Location": "701 MOORE AVE",
-        "Nature": "Theft Other",
-        "Case Number": "2509524",
-        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

@@ -2,9 +2,9 @@
     {
         "Date": "02/14/2026",
         "Time": "",
-        "Location": "380 S 7TH ST",
-        "Nature": "Liquor, Other",
-        "Case Number": "2601580",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2601537",
         "Disposition": "JUDICIAL REFERRAL"
     },
     {
@@ -29,22 +29,6 @@
         "Location": "560 PASCUCCI DR",
         "Nature": "WELFARE CHECK",
         "Case Number": "2601555",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "02/14/2026",
-        "Time": "",
-        "Location": "380 S 7TH ST",
-        "Nature": "Liquor, Other",
-        "Case Number": "2601579",
-        "Disposition": "CLEARED ADULT ARREST"
-    },
-    {
-        "Date": "02/14/2026",
-        "Time": "",
-        "Location": "600 WALKER ST",
-        "Nature": "Suspicious Activity",
-        "Case Number": "2601581",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

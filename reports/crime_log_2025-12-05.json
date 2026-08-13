@@ -2,14 +2,6 @@
     {
         "Date": "12/05/2025",
         "Time": "",
-        "Location": "365 SERVICE DR",
-        "Nature": "Ambulance Assist",
-        "Case Number": "2512950",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "12/05/2025",
-        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "Disorderly Conduct",
         "Case Number": "2512908",
@@ -46,6 +38,14 @@
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2512914",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/05/2025",
+        "Time": "",
+        "Location": "S 7th St & Saint George St",
+        "Nature": "Traffic Offense",
+        "Case Number": "2512864",
+        "Disposition": ""
     },
     {
         "Date": "12/05/2025",

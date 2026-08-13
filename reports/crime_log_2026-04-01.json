@@ -10,6 +10,14 @@
     {
         "Date": "04/01/2026",
         "Time": "",
+        "Location": "565 S 7th St",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2603237",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "04/01/2026",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
         "Nature": "Followup Investigation, Other",
         "Case Number": "2603275",

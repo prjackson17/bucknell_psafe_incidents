@@ -6,5 +6,13 @@
         "Nature": "Traffic Accident, Vehicle Damage",
         "Case Number": "2606071",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "06/19/2026",
+        "Time": "",
+        "Location": "145 GATEWAY DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2606056",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

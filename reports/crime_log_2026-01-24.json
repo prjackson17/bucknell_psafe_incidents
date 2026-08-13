@@ -2,6 +2,14 @@
     {
         "Date": "01/24/2026",
         "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2600613",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/24/2026",
+        "Time": "",
         "Location": "570 LOOMIS ST",
         "Nature": "Liquor, Other",
         "Case Number": "2600618",
@@ -13,6 +21,22 @@
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2600619",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "01/24/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Lost Property",
+        "Case Number": "2600608",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/24/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2600617",
         "Disposition": "JUDICIAL REFERRAL"
     },
     {

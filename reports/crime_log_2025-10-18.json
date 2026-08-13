@@ -2,33 +2,17 @@
     {
         "Date": "10/18/2025",
         "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Sell",
+        "Case Number": "2511202",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "10/18/2025",
+        "Time": "",
         "Location": "590 SOUTH 7TH ST",
         "Nature": "Narcotic Equipment, Possession",
         "Case Number": "2511211",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "10/18/2025",
-        "Time": "",
-        "Location": "600 Walker St",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2511203",
-        "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "10/18/2025",
-        "Time": "",
-        "Location": "600 Walker St",
-        "Nature": "Criminal Mischief",
-        "Case Number": "2511204",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/18/2025",
-        "Time": "",
-        "Location": "600 Walker St",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2511205",
         "Disposition": "JUDICIAL REFERRAL"
     },
     {
@@ -46,5 +30,13 @@
         "Nature": "Liquor, Manufacture",
         "Case Number": "2511233",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/18/2025",
+        "Time": "",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "Other Animal Calls",
+        "Case Number": "2511198",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

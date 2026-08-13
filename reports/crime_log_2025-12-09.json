@@ -10,6 +10,22 @@
     {
         "Date": "12/09/2025",
         "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2513065",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "12/09/2025",
+        "Time": "",
+        "Location": "South Campus Dr",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2513052",
+        "Disposition": ""
+    },
+    {
+        "Date": "12/09/2025",
+        "Time": "",
         "Location": "South Campus Dr",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2513057",

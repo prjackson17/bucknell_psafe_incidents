@@ -10,14 +10,6 @@
     {
         "Date": "02/24/2026",
         "Time": "",
-        "Location": "560 PASCUCCI DR",
-        "Nature": "WELFARE CHECK",
-        "Case Number": "2601973",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "02/24/2026",
-        "Time": "",
         "Location": "623 COLEMAN HALL DR",
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2601951",
@@ -29,6 +21,14 @@
         "Location": "SOUTH CAMPUS DR",
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2601955",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/24/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Assist Motorist",
+        "Case Number": "2601925",
         "Disposition": "CLOSED RPT FILED"
     },
     {

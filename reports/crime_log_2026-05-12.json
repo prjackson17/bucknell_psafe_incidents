@@ -2,6 +2,14 @@
     {
         "Date": "05/12/2026",
         "Time": "",
+        "Location": "735 DENT DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2604879",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "05/12/2026",
+        "Time": "",
         "Location": "COLEMAN HALL DRIVE",
         "Nature": "WELFARE CHECK",
         "Case Number": "2604896",
@@ -13,7 +21,7 @@
         "Location": "616 COLEMAN HALL DR",
         "Nature": "Ambulance Assist",
         "Case Number": "2604915",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "05/12/2026",
@@ -21,7 +29,7 @@
         "Location": "580 SNAKE ROAD",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2604916",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "05/12/2026",
@@ -29,14 +37,6 @@
         "Location": "570 VAUGHAN LIT DR",
         "Nature": "Found Property",
         "Case Number": "2604927",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "05/12/2026",
-        "Time": "",
-        "Location": "616 COLEMAN HALL DR",
-        "Nature": "Traffic Accident, Private Prop Damg",
-        "Case Number": "2604936",
         "Disposition": "CLOSED RPT FILED"
     },
     {
