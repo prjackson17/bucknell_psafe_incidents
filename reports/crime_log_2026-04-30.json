@@ -2,6 +2,14 @@
     {
         "Date": "04/30/2026",
         "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2604337",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "04/30/2026",
+        "Time": "",
         "Location": "600 WALKER ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2604327",
@@ -14,14 +22,6 @@
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2604362",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "04/30/2026",
-        "Time": "",
-        "Location": "570 Loomis St",
-        "Nature": "Liquor, Possess",
-        "Case Number": "2604337",
-        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "04/30/2026",

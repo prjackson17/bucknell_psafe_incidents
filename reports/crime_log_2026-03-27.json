@@ -2,6 +2,30 @@
     {
         "Date": "03/27/2026",
         "Time": "",
+        "Location": "590 S 7TH ST",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2603070",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Harassing Communication",
+        "Case Number": "2603073",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Other Controlled Substances",
+        "Case Number": "2603074",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
         "Location": "565 COLEMAN DR",
         "Nature": "Ambulance Assist",
         "Case Number": "2603045",
@@ -26,9 +50,25 @@
     {
         "Date": "03/27/2026",
         "Time": "",
-        "Location": "590 S 7th St",
+        "Location": "590 S 7TH ST",
         "Nature": "Traffic Accident, Private Prop Damg",
         "Case Number": "2603070",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Harassing Communication",
+        "Case Number": "2603073",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "03/27/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Other Controlled Substances",
+        "Case Number": "2603074",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

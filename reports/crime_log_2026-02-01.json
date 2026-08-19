@@ -2,6 +2,14 @@
     {
         "Date": "02/01/2026",
         "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2600941",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/01/2026",
+        "Time": "",
         "Location": "778 MOORE AVE",
         "Nature": "Ambulance Assist",
         "Case Number": "2600955",
@@ -27,7 +35,7 @@
         "Date": "02/01/2026",
         "Time": "",
         "Location": "521 SAINT GEORGE ST",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "WELFARE CHECK",
         "Case Number": "2600941",
         "Disposition": "CLOSED RPT FILED"
     },

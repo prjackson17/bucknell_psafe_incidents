@@ -34,8 +34,8 @@
     {
         "Date": "02/05/2026",
         "Time": "",
-        "Location": "565 Coleman Dr",
-        "Nature": "NON UCR REPORTABLE",
+        "Location": "565 COLEMAN DR",
+        "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2601108",
         "Disposition": "CLOSED RPT FILED"
     },
@@ -45,6 +45,14 @@
         "Location": "585 COLEMAN DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2601110",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "02/05/2026",
+        "Time": "",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2601120",
         "Disposition": "CLOSED RPT FILED"
     },
     {
