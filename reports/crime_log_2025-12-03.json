@@ -3,7 +3,7 @@
         "Date": "12/03/2025",
         "Time": "",
         "Location": "PARKING LOT #17",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Traffic Accident, Private Prop Damg",
         "Case Number": "2512843",
         "Disposition": "UNDER INVESTIGATION"
     },
@@ -11,8 +11,16 @@
         "Date": "12/03/2025",
         "Time": "",
         "Location": "19 STROHECKER FARM LN",
-        "Nature": "NON UCR REPORTABLE",
+        "Nature": "Found Property",
         "Case Number": "2512844",
         "Disposition": ""
+    },
+    {
+        "Date": "12/03/2025",
+        "Time": "",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "Found Property",
+        "Case Number": "2512845",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

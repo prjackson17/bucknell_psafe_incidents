@@ -2,9 +2,25 @@
     {
         "Date": "01/21/2026",
         "Time": "",
-        "Location": "537 Vaughan Lit Dr",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2600479",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2600505",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/21/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2600512",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "01/21/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2600506",
         "Disposition": "CLOSED RPT FILED"
     }
 ]
