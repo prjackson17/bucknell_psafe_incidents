@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "08/22/2026",
+        "Time": "",
+        "Location": "540 LOOMIS ST",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2607833",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/22/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2607835",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/22/2026",
+        "Time": "",
+        "Location": "365 SERVICE DR",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2607860",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/22/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2607865",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
