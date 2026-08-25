@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "08/23/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Larceny, from Building",
+        "Case Number": "2607880",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/23/2026",
+        "Time": "",
+        "Location": "555 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2607890",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/23/2026",
+        "Time": "",
+        "Location": "16 BUCKNELL WEST DR",
+        "Nature": "Breathing Problem",
+        "Case Number": "2607891",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/23/2026",
+        "Time": "",
+        "Location": "754 ROTC DR",
+        "Nature": "Traumatic Injury",
+        "Case Number": "2607933",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/23/2026",
+        "Time": "",
+        "Location": "525 WEIS DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2607936",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
