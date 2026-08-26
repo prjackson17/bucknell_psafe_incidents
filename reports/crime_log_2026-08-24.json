@@ -6,5 +6,45 @@
         "Nature": "Liquor, Possess",
         "Case Number": "2607952",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/24/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2607955",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/24/2026",
+        "Time": "",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2607957",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/24/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Found Property",
+        "Case Number": "2607968",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/24/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2607970",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/24/2026",
+        "Time": "",
+        "Location": "1026 STEIN LN",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2607976",
+        "Disposition": ""
     }
 ]
