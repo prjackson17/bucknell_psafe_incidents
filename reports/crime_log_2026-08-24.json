@@ -10,6 +10,14 @@
     {
         "Date": "08/24/2026",
         "Time": "",
+        "Location": "1026 STEIN LN",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2607976",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/24/2026",
+        "Time": "",
         "Location": "380 S 7TH ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2607955",
@@ -37,14 +45,6 @@
         "Location": "380 S 7TH ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2607970",
-        "Disposition": ""
-    },
-    {
-        "Date": "08/24/2026",
-        "Time": "",
-        "Location": "1026 STEIN LN",
-        "Nature": "Disorderly Conduct",
-        "Case Number": "2607976",
         "Disposition": ""
     }
 ]
