@@ -2,9 +2,25 @@
     {
         "Date": "08/26/2026",
         "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Lost Property",
+        "Case Number": "2608061",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/26/2026",
+        "Time": "",
         "Location": "78 UNIVERSITY AVE",
         "Nature": "Disorderly Conduct",
         "Case Number": "2608027",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/26/2026",
+        "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2608072",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
