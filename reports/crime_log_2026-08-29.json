@@ -3,9 +3,17 @@
         "Date": "08/29/2026",
         "Time": "",
         "Location": "560 PASCUCCI DR",
-        "Nature": "Liquor, Manufacture",
+        "Nature": "Liquor, Other",
         "Case Number": "2608170",
-        "Disposition": ""
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/29/2026",
+        "Time": "",
+        "Location": "97 BREAKIRON LN",
+        "Nature": "Liquor, Other",
+        "Case Number": "2608173",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "08/29/2026",
@@ -14,5 +22,29 @@
         "Nature": "Assist Public",
         "Case Number": "2608140",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/29/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2608177",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/29/2026",
+        "Time": "",
+        "Location": "1225 RIVER RD",
+        "Nature": "Suspicious Person",
+        "Case Number": "2608189",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/29/2026",
+        "Time": "",
+        "Location": "560 COLEMAN HALL DR",
+        "Nature": "Civil Problem",
+        "Case Number": "2608199",
+        "Disposition": "UNDER INVESTIGATION"
     }
 ]
