@@ -10,10 +10,18 @@
     {
         "Date": "11/20/2025",
         "Time": "",
-        "Location": "701 Moore Ave",
-        "Nature": "NON UCR REPORTABLE",
-        "Case Number": "2512526",
-        "Disposition": ""
+        "Location": "600 WALKER ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2512560",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/20/2025",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2512567",
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "11/20/2025",

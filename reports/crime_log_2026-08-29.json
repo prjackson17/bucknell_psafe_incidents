@@ -18,10 +18,10 @@
     {
         "Date": "08/29/2026",
         "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "Assist Public",
-        "Case Number": "2608140",
-        "Disposition": "CLOSED RPT FILED"
+        "Location": "560 COLEMAN HALL DR",
+        "Nature": "Civil Problem",
+        "Case Number": "2608199",
+        "Disposition": "UNDER INVESTIGATION"
     },
     {
         "Date": "08/29/2026",
@@ -38,13 +38,5 @@
         "Nature": "Suspicious Person",
         "Case Number": "2608189",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "08/29/2026",
-        "Time": "",
-        "Location": "560 COLEMAN HALL DR",
-        "Nature": "Civil Problem",
-        "Case Number": "2608199",
-        "Disposition": "UNDER INVESTIGATION"
     }
 ]

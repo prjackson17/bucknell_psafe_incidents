@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "08/30/2026",
+        "Time": "",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2608222",
+        "Disposition": ""
+    },
+    {
+        "Date": "08/30/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Public Intoxication",
+        "Case Number": "2608227",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "08/30/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2608228",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "08/30/2026",
+        "Time": "",
+        "Location": "BROWN ST",
+        "Nature": "Other Animal Calls",
+        "Case Number": "2608250",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
