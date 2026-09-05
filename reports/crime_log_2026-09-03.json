@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "09/03/2026",
+        "Time": "",
+        "Location": "32 BUCKNELL WEST DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2608425",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/03/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Public Intoxication",
+        "Case Number": "2608426",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/03/2026",
+        "Time": "",
+        "Location": "13 BUCKNELL WEST DR",
+        "Nature": "Suspicious Person",
+        "Case Number": "2608428",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/03/2026",
+        "Time": "",
+        "Location": "165 GATEWAY DR",
+        "Nature": "Cruelty Toward Child",
+        "Case Number": "2608450",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/03/2026",
+        "Time": "",
+        "Location": "110 UNIVERSITY AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2608452",
+        "Disposition": ""
+    }
+]
