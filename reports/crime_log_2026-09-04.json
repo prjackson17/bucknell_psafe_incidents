@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "09/04/2026",
+        "Time": "",
+        "Location": "825 FRATERNITY RD",
+        "Nature": "Assist Public",
+        "Case Number": "2608473",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/04/2026",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "Traffic Offense",
+        "Case Number": "2608492",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/04/2026",
+        "Time": "",
+        "Location": "1008 STEIN LN",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2608508",
+        "Disposition": ""
+    }
+]
