@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "09/05/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2608524",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/05/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2608525",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/05/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Liquor, Other",
+        "Case Number": "2608526",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
