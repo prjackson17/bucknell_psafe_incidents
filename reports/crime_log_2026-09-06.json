@@ -2,6 +2,14 @@
     {
         "Date": "09/06/2026",
         "Time": "",
+        "Location": "570 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2608553",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/06/2026",
+        "Time": "",
         "Location": "555 PASCUCCI DR",
         "Nature": "Ambulance Assist",
         "Case Number": "2608555",
@@ -10,9 +18,25 @@
     {
         "Date": "09/06/2026",
         "Time": "",
-        "Location": "570 S 7th St",
-        "Nature": "POLICE INFORMATION",
-        "Case Number": "2608553",
-        "Disposition": ""
+        "Location": "380 S 7TH ST",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2608558",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/06/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2608560",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/06/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2608588",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
