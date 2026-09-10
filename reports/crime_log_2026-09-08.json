@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/08/2026",
+        "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Suspicious Person",
+        "Case Number": "2608639",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/08/2026",
+        "Time": "",
+        "Location": "551 PASCUCCI DR",
+        "Nature": "Traffic, Other",
+        "Case Number": "2608677",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
