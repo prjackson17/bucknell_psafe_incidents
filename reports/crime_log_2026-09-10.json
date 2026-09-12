@@ -2,9 +2,57 @@
     {
         "Date": "09/10/2026",
         "Time": "",
+        "Location": "530 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2608747",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
         "Location": "280 Brown St",
         "Nature": "Lost Property",
         "Case Number": "2608713",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2608748",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
+        "Location": "165 GATEWAY DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2608752",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "Verbal Argument",
+        "Case Number": "2608754",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2608765",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2608769",
         "Disposition": "CLOSED RPT FILED"
     }
 ]
