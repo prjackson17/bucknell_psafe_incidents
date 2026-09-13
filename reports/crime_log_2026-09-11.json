@@ -2,9 +2,25 @@
     {
         "Date": "09/11/2026",
         "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Miscellaneous Incidents",
+        "Case Number": "2608804",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/11/2026",
+        "Time": "",
         "Location": "175 Gateway Dr",
         "Nature": "Criminal Mischief",
         "Case Number": "2608772",
         "Disposition": ""
+    },
+    {
+        "Date": "09/11/2026",
+        "Time": "",
+        "Location": "754 ROTC DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2608814",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
