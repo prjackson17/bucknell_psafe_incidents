@@ -2,6 +2,14 @@
     {
         "Date": "09/12/2026",
         "Time": "",
+        "Location": "135 GATEWAY DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2608833",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/12/2026",
+        "Time": "",
         "Location": "1 DENT DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2608817",
@@ -14,5 +22,45 @@
         "Nature": "Damaged Property, Business",
         "Case Number": "2608823",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/12/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Hospital Transport",
+        "Case Number": "2608836",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/12/2026",
+        "Time": "",
+        "Location": "221 S 6TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2608837",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/12/2026",
+        "Time": "",
+        "Location": "HOUSING SERVICE DR",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2608846",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/12/2026",
+        "Time": "",
+        "Location": "400 SAINT GEORGE ST",
+        "Nature": "Assist Public",
+        "Case Number": "2608847",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/12/2026",
+        "Time": "",
+        "Location": "TRAX",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2608860",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

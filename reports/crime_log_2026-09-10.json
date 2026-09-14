@@ -2,6 +2,14 @@
     {
         "Date": "09/10/2026",
         "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2608748",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/10/2026",
+        "Time": "",
         "Location": "530 S 7TH ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2608747",
@@ -22,14 +30,6 @@
         "Nature": "Liquor, Other",
         "Case Number": "2608752",
         "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "09/10/2026",
-        "Time": "",
-        "Location": "565 COLEMAN DR",
-        "Nature": "Liquor, Other",
-        "Case Number": "2608748",
-        "Disposition": ""
     },
     {
         "Date": "09/10/2026",
