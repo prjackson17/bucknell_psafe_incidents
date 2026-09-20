@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "09/18/2026",
+        "Time": "",
+        "Location": "HOUSING SERVICE DR",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2609091",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/18/2026",
+        "Time": "",
+        "Location": "1 DENT DR",
+        "Nature": "STALKING",
+        "Case Number": "2609096",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/18/2026",
+        "Time": "",
+        "Location": "616 COLEMAN HALL DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609108",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
