@@ -6,5 +6,53 @@
         "Nature": "Ambulance Assist",
         "Case Number": "2609296",
         "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/23/2026",
+        "Time": "",
+        "Location": "580 COLEMAN DRIVE",
+        "Nature": "Found Property",
+        "Case Number": "2609312",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/23/2026",
+        "Time": "",
+        "Location": "525 WEIS DR",
+        "Nature": "Assist Public",
+        "Case Number": "2609319",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/23/2026",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "Theft Other",
+        "Case Number": "2609324",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/23/2026",
+        "Time": "",
+        "Location": "810 FRATERNITY RD",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609334",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/23/2026",
+        "Time": "",
+        "Location": "754 ROTC DR",
+        "Nature": "Hospital Transport",
+        "Case Number": "2609335",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/23/2026",
+        "Time": "",
+        "Location": "565 S 7TH ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2609336",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
