@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/25/2026",
+        "Time": "",
+        "Location": "28 Saint Mary St",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2609371",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/25/2026",
+        "Time": "",
+        "Location": "The Grove",
+        "Nature": "Harassing Communication",
+        "Case Number": "2609379",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

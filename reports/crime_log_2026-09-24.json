@@ -2,9 +2,33 @@
     {
         "Date": "09/24/2026",
         "Time": "",
+        "Location": "365 SERVICE DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609358",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/24/2026",
+        "Time": "",
         "Location": "580 SNAKE ROAD",
         "Nature": "Fraud by Wire",
         "Case Number": "2609346",
         "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/24/2026",
+        "Time": "",
+        "Location": "352 SMOKETOWN RD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2609369",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/24/2026",
+        "Time": "",
+        "Location": "149 GATEWAY DR",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2609374",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
