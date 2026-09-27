@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609437",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609439",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "380 S 7th St",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609428",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2609430",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
