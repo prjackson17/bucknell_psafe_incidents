@@ -18,6 +18,14 @@
     {
         "Date": "09/26/2026",
         "Time": "",
+        "Location": "155 GATEWAY DR",
+        "Nature": "Traffic Accident, Private Prop Damg",
+        "Case Number": "2609459",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
         "Location": "380 S 7th St",
         "Nature": "Liquor, Possess",
         "Case Number": "2609428",
@@ -30,5 +38,21 @@
         "Nature": "POLICE INFORMATION",
         "Case Number": "2609430",
         "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "28 UNIVERSITY AVE",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2609460",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "570 LOOMIS ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609466",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

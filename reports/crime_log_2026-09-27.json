@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "09/27/2026",
+        "Time": "",
+        "Location": "490 S 7TH ST",
+        "Nature": "Hospital Transport",
+        "Case Number": "2609472",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/27/2026",
+        "Time": "",
+        "Location": "198 Bucknell West Dr",
+        "Nature": "Department Activity, Other",
+        "Case Number": "2609458",
+        "Disposition": ""
+    }
+]
