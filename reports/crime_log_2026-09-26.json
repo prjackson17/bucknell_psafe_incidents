@@ -26,7 +26,7 @@
     {
         "Date": "09/26/2026",
         "Time": "",
-        "Location": "380 S 7th St",
+        "Location": "380 S 7TH ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2609428",
         "Disposition": "UNDER INVESTIGATION"
@@ -34,10 +34,10 @@
     {
         "Date": "09/26/2026",
         "Time": "",
-        "Location": "565 Coleman Dr",
+        "Location": "565 COLEMAN DR",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2609430",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "JUDICIAL REFERRAL"
     },
     {
         "Date": "09/26/2026",
@@ -53,6 +53,30 @@
         "Location": "570 LOOMIS ST",
         "Nature": "Liquor, Possess",
         "Case Number": "2609466",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "732 MOORE AVE",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2609438",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Simple Assault",
+        "Case Number": "2609446",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609465",
         "Disposition": "JUDICIAL REFERRAL"
     }
 ]

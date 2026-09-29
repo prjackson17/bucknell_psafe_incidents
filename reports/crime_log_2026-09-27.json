@@ -14,5 +14,29 @@
         "Nature": "Department Activity, Other",
         "Case Number": "2609458",
         "Disposition": ""
+    },
+    {
+        "Date": "09/27/2026",
+        "Time": "",
+        "Location": "10 BUCKNELL WEST DR",
+        "Nature": "Hit/Run, Vehicle Damg",
+        "Case Number": "2609502",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/27/2026",
+        "Time": "",
+        "Location": "28 UNIVERSITY AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2609504",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/27/2026",
+        "Time": "",
+        "Location": "778 MOORE AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2609505",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
