@@ -42,6 +42,14 @@
     {
         "Date": "09/26/2026",
         "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Simple Assault",
+        "Case Number": "2609446",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/26/2026",
+        "Time": "",
         "Location": "28 UNIVERSITY AVE",
         "Nature": "Suspicious Activity",
         "Case Number": "2609460",
@@ -62,14 +70,6 @@
         "Nature": "Disorderly Conduct",
         "Case Number": "2609438",
         "Disposition": "JUDICIAL REFERRAL"
-    },
-    {
-        "Date": "09/26/2026",
-        "Time": "",
-        "Location": "560 PASCUCCI DR",
-        "Nature": "Simple Assault",
-        "Case Number": "2609446",
-        "Disposition": "UNDER INVESTIGATION"
     },
     {
         "Date": "09/26/2026",
