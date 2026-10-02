@@ -2,6 +2,22 @@
     {
         "Date": "09/30/2026",
         "Time": "",
+        "Location": "725 ROTC DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2609603",
+        "Disposition": ""
+    },
+    {
+        "Date": "09/30/2026",
+        "Time": "",
+        "Location": "135 GATEWAY DR",
+        "Nature": "Unintentional, Cooking",
+        "Case Number": "2609612",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/30/2026",
+        "Time": "",
         "Location": "585 Coleman Hall Dr",
         "Nature": "EXCESSIVE TICKETS",
         "Case Number": "2609574",
@@ -13,6 +29,22 @@
         "Location": "623 Coleman Hall Dr",
         "Nature": "Larceny, from Building",
         "Case Number": "2609575",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "09/30/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Lost Property",
+        "Case Number": "2609613",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "09/30/2026",
+        "Time": "",
+        "Location": "565 S 7TH ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609614",
         "Disposition": "CLOSED RPT FILED"
     }
 ]

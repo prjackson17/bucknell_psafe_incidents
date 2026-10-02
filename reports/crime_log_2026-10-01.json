@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/01/2026",
+        "Time": "",
+        "Location": "778 MOORE AV",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609633",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/01/2026",
+        "Time": "",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2609645",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
