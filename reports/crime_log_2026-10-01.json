@@ -2,6 +2,14 @@
     {
         "Date": "10/01/2026",
         "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609643",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/01/2026",
+        "Time": "",
         "Location": "778 MOORE AV",
         "Nature": "Ambulance Assist",
         "Case Number": "2609633",
@@ -14,5 +22,29 @@
         "Nature": "Disorderly Conduct",
         "Case Number": "2609645",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/01/2026",
+        "Time": "",
+        "Location": "79 STROHECKER FARM LN",
+        "Nature": "Liquor, Other",
+        "Case Number": "2609651",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/01/2026",
+        "Time": "",
+        "Location": "165 GATEWAY DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2609652",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/01/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609660",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
