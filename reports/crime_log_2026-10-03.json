@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/03/2026",
+        "Time": "",
+        "Location": "HOUSING SERVICE DR",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2609738",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/03/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2609741",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
