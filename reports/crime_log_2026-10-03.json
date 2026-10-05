@@ -14,5 +14,29 @@
         "Nature": "Liquor, Other",
         "Case Number": "2609741",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/03/2026",
+        "Time": "",
+        "Location": "370 Harris Dr",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609747",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/03/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2609770",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/03/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2609778",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
