@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "10/04/2026",
+        "Time": "",
+        "Location": "BROWN STREET AND MALCOM STREET",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609798",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/04/2026",
+        "Time": "",
+        "Location": "560 PASCUCCI DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2609800",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/04/2026",
+        "Time": "",
+        "Location": "LOT #1",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2609824",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
