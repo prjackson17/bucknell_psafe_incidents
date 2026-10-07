@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "10/05/2026",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2609857",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/05/2026",
+        "Time": "",
+        "Location": "110 UNIVERSITY AVE",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2609861",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/05/2026",
+        "Time": "",
+        "Location": "185 CLUBHOUSE DR",
+        "Nature": "Fraud Imperson",
+        "Case Number": "2609870",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]

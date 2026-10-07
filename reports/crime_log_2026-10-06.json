@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "10/06/2026",
+        "Time": "",
+        "Location": "13 BUCKNELL WEST DR",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2609886",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/06/2026",
+        "Time": "",
+        "Location": "580 S 7th St",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609864",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/06/2026",
+        "Time": "",
+        "Location": "610 Saint George St",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609865",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]

@@ -18,6 +18,14 @@
     {
         "Date": "10/03/2026",
         "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2609778",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/03/2026",
+        "Time": "",
         "Location": "370 HARRIS DR",
         "Nature": "Liquor, Possess",
         "Case Number": "2609747",
@@ -29,14 +37,6 @@
         "Location": "580 SNAKE ROAD",
         "Nature": "Found Property",
         "Case Number": "2609770",
-        "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "10/03/2026",
-        "Time": "",
-        "Location": "600 WALKER ST",
-        "Nature": "Liquor, Other",
-        "Case Number": "2609778",
         "Disposition": "CLOSED RPT FILED"
     }
 ]
