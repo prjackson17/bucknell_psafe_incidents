@@ -5,7 +5,23 @@
         "Location": "13 BUCKNELL WEST DR",
         "Nature": "Marijuana, Possession",
         "Case Number": "2609886",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/06/2026",
+        "Time": "",
+        "Location": "375 SERVICE DR",
+        "Nature": "Hospital Transport",
+        "Case Number": "2609903",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/06/2026",
+        "Time": "",
+        "Location": "SOUTH CAMPUS DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2609924",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/06/2026",
@@ -21,6 +37,14 @@
         "Location": "610 Saint George St",
         "Nature": "Ambulance Assist",
         "Case Number": "2609865",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/06/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2609942",
         "Disposition": "CLOSED RPT FILED"
     }
 ]
