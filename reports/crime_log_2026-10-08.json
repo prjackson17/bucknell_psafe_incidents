@@ -2,6 +2,14 @@
     {
         "Date": "10/08/2026",
         "Time": "",
+        "Location": "725 ROTC DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2610053",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/08/2026",
+        "Time": "",
         "Location": "32 BUCKNELL WEST DR",
         "Nature": "NON UCR REPORTABLE",
         "Case Number": "2610028",
