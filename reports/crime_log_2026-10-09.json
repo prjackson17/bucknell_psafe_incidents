@@ -6,5 +6,37 @@
         "Nature": "Damaged Property, Private",
         "Case Number": "2610076",
         "Disposition": ""
+    },
+    {
+        "Date": "10/09/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2610086",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/09/2026",
+        "Time": "",
+        "Location": "754 ROTC DR",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2610089",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/09/2026",
+        "Time": "",
+        "Location": "585 COLEMAN DR",
+        "Nature": "Traffic Accident, Injury",
+        "Case Number": "2610095",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/09/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2610103",
+        "Disposition": ""
     }
 ]
