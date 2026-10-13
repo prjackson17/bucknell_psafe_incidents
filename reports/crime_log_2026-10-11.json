@@ -3,8 +3,16 @@
         "Date": "10/11/2026",
         "Time": "",
         "Location": "51 STROHECKER FARM LN",
-        "Nature": "Liquor, Possess",
+        "Nature": "Liquor, Other",
         "Case Number": "2610156",
         "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/11/2026",
+        "Time": "",
+        "Location": "560 S 7TH ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2610157",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]
