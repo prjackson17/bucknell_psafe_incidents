@@ -2,6 +2,14 @@
     {
         "Date": "10/15/2026",
         "Time": "",
+        "Location": "LARISON HALL,",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2610344",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/15/2026",
+        "Time": "",
         "Location": "416 Market St",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2610295",
@@ -30,5 +38,21 @@
         "Nature": "Liquor, Other",
         "Case Number": "2610331",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/15/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2610373",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/15/2026",
+        "Time": "",
+        "Location": "530 S 7th St",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2610350",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
