@@ -2,9 +2,25 @@
     {
         "Date": "10/18/2026",
         "Time": "",
-        "Location": "600 Walker St",
+        "Location": "600 WALKER ST",
         "Nature": "Disorderly Conduct",
         "Case Number": "2610507",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/18/2026",
+        "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2610522",
         "Disposition": ""
+    },
+    {
+        "Date": "10/18/2026",
+        "Time": "",
+        "Location": "623 COLEMAN HALL DR",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2610535",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
