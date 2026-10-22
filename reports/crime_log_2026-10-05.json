@@ -22,5 +22,21 @@
         "Nature": "Fraud Imperson",
         "Case Number": "2609870",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/05/2026",
+        "Time": "",
+        "Location": "580 S 7TH ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609864",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/05/2026",
+        "Time": "",
+        "Location": "610 SAINT GEORGE ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2609865",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
