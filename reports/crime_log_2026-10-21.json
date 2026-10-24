@@ -2,6 +2,22 @@
     {
         "Date": "10/21/2026",
         "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2610640",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/21/2026",
+        "Time": "",
+        "Location": "590 SOUTH 7TH ST",
+        "Nature": "RAPE",
+        "Case Number": "2610647",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/21/2026",
+        "Time": "",
         "Location": "419 MARKET ST",
         "Nature": "Found Property",
         "Case Number": "2610624",
@@ -14,5 +30,21 @@
         "Nature": "Liquor, Other",
         "Case Number": "2610638",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/21/2026",
+        "Time": "",
+        "Location": "185 CLUBHOUSE DR",
+        "Nature": "Liquor, Other",
+        "Case Number": "2610680",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "10/21/2026",
+        "Time": "",
+        "Location": "185 CLUBHOUSE DR",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2610681",
+        "Disposition": "CLEARED ADULT EXCEPTION"
     }
 ]
