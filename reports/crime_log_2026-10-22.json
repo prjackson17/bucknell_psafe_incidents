@@ -2,9 +2,25 @@
     {
         "Date": "10/22/2026",
         "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "Theft Other",
-        "Case Number": "2610669",
+        "Location": "370 HARRIS DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2610727",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/22/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2610732",
         "Disposition": ""
+    },
+    {
+        "Date": "10/22/2026",
+        "Time": "",
+        "Location": "23 UNIVERSITY AVE",
+        "Nature": "Suspicious Person",
+        "Case Number": "2610740",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

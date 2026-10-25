@@ -21,7 +21,7 @@
         "Location": "419 MARKET ST",
         "Nature": "Found Property",
         "Case Number": "2610624",
-        "Disposition": "UNDER INVESTIGATION"
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/21/2026",
@@ -30,6 +30,14 @@
         "Nature": "Liquor, Other",
         "Case Number": "2610638",
         "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/21/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Theft Other",
+        "Case Number": "2610669",
+        "Disposition": "CLOSED RPT FILED"
     },
     {
         "Date": "10/21/2026",
