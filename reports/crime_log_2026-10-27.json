@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "10/27/2026",
+        "Time": "",
+        "Location": "754 Rotc Dr",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2610902",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/27/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Lost Property",
+        "Case Number": "2610926",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
