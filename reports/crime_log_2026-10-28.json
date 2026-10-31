@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "10/28/2026",
+        "Time": "",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611002",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/28/2026",
+        "Time": "",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611017",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/28/2026",
+        "Time": "",
+        "Location": "701 Moore Ave",
+        "Nature": "Theft Other",
+        "Case Number": "2611000",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/28/2026",
+        "Time": "",
+        "Location": "32 BUCKNELL WEST DR",
+        "Nature": "Harassing Communication",
+        "Case Number": "2611025",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "10/28/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Theft Other",
+        "Case Number": "2611026",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
