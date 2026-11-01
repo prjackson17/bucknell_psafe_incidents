@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "Date": "10/29/2026",
+        "Time": "",
+        "Location": "521 SAINT GEORGE ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611049",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/29/2026",
+        "Time": "",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "Suspicious Person",
+        "Case Number": "2611050",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/29/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Traffic Accident, Vehicle Damage",
+        "Case Number": "2611060",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/29/2026",
+        "Time": "",
+        "Location": "SAINT GEORGE ST",
+        "Nature": "Reckless Driver",
+        "Case Number": "2611062",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/29/2026",
+        "Time": "",
+        "Location": "490 S 7TH ST",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2611067",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
