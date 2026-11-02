@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "10/30/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Rape, Strongarm",
+        "Case Number": "2611101",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/30/2026",
+        "Time": "",
+        "Location": "125 STROHECKER FARM LN",
+        "Nature": "Suspicious Activity",
+        "Case Number": "2611108",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/30/2026",
+        "Time": "",
+        "Location": "400 Saint George St",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2611093",
+        "Disposition": ""
+    }
+]

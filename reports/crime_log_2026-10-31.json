@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "10/31/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2611127",
+        "Disposition": ""
+    },
+    {
+        "Date": "10/31/2026",
+        "Time": "",
+        "Location": "79 Strohecker Farm Ln",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2611112",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/31/2026",
+        "Time": "",
+        "Location": "23 University Ave",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2611114",
+        "Disposition": ""
+    }
+]
