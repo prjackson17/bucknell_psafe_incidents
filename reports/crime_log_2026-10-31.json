@@ -18,9 +18,25 @@
     {
         "Date": "10/31/2026",
         "Time": "",
-        "Location": "23 University Ave",
-        "Nature": "WELFARE CHECK",
-        "Case Number": "2611114",
-        "Disposition": ""
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2611131",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "10/31/2026",
+        "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2611144",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/31/2026",
+        "Time": "",
+        "Location": "605 SOUTH 7TH ST",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2611150",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]

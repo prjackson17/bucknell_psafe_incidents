@@ -10,6 +10,22 @@
     {
         "Date": "10/30/2026",
         "Time": "",
+        "Location": "23 UNIVERSITY AVE",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2611114",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/30/2026",
+        "Time": "",
+        "Location": "765 MOORE AVE",
+        "Nature": "NON UCR REPORTABLE",
+        "Case Number": "2611115",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "10/30/2026",
+        "Time": "",
         "Location": "125 STROHECKER FARM LN",
         "Nature": "Suspicious Activity",
         "Case Number": "2611108",
