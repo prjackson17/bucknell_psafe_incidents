@@ -2,10 +2,10 @@
     {
         "Date": "10/30/2026",
         "Time": "",
-        "Location": "580 SNAKE ROAD",
+        "Location": "490 S 7TH ST",
         "Nature": "Rape, Strongarm",
         "Case Number": "2611101",
-        "Disposition": ""
+        "Disposition": "UNDER INVESTIGATION"
     },
     {
         "Date": "10/30/2026",
@@ -34,9 +34,9 @@
     {
         "Date": "10/30/2026",
         "Time": "",
-        "Location": "400 Saint George St",
+        "Location": "400 SAINT GEORGE ST",
         "Nature": "POLICE INFORMATION",
         "Case Number": "2611093",
-        "Disposition": ""
+        "Disposition": "CLOSED RPT FILED"
     }
 ]

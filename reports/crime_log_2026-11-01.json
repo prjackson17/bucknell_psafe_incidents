@@ -2,6 +2,22 @@
     {
         "Date": "11/01/2026",
         "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Extortion, Threat Injure Reputation",
+        "Case Number": "2611201",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/01/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "STALKING",
+        "Case Number": "2611203",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/01/2026",
+        "Time": "",
         "Location": "570 LOOMIS ST",
         "Nature": "Ambulance Assist",
         "Case Number": "2611179",
@@ -14,13 +30,5 @@
         "Nature": "POLICE INFORMATION",
         "Case Number": "2611196",
         "Disposition": "CLOSED RPT FILED"
-    },
-    {
-        "Date": "11/01/2026",
-        "Time": "",
-        "Location": "580 SNAKE ROAD",
-        "Nature": "Extortion, Threat Injure Reputation",
-        "Case Number": "2611201",
-        "Disposition": ""
     }
 ]

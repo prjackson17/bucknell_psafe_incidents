@@ -2,9 +2,17 @@
     {
         "Date": "11/02/2026",
         "Time": "",
-        "Location": "580 Snake Road",
-        "Nature": "STALKING",
-        "Case Number": "2611203",
+        "Location": "300 S 7TH ST",
+        "Nature": "RAPE",
+        "Case Number": "2611235",
         "Disposition": ""
+    },
+    {
+        "Date": "11/02/2026",
+        "Time": "",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611238",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
