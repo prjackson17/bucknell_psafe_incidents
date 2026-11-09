@@ -2,9 +2,33 @@
     {
         "Date": "11/06/2026",
         "Time": "",
+        "Location": "370 HARRIS DR",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2611422",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/06/2026",
+        "Time": "",
         "Location": "570 S 7th St",
         "Nature": "Mental Subject",
         "Case Number": "2611398",
         "Disposition": ""
+    },
+    {
+        "Date": "11/06/2026",
+        "Time": "",
+        "Location": "COLEMAN HALL DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611432",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/06/2026",
+        "Time": "",
+        "Location": "580 SNAKE ROAD",
+        "Nature": "Found Property",
+        "Case Number": "2611435",
+        "Disposition": "CLOSED RPT FILED"
     }
 ]
