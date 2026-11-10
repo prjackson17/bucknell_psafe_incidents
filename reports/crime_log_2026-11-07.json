@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "11/07/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Ambulance Assist",
+        "Case Number": "2611461",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/07/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Assist Public",
+        "Case Number": "2611474",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/07/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Theft Other",
+        "Case Number": "2611494",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
