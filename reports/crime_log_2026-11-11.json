@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/11/2026",
+        "Time": "",
+        "Location": "212 S 6TH ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611681",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/11/2026",
+        "Time": "",
+        "Location": "527 CHRISTY MATHEWSON DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611698",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
