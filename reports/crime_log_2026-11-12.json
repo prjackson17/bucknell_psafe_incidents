@@ -10,9 +10,81 @@
     {
         "Date": "11/12/2026",
         "Time": "",
-        "Location": "19 Strohecker Farm Ln",
-        "Nature": "Narcotic Equipment, Possession",
-        "Case Number": "2611692",
+        "Location": "565 COLEMAN DR",
+        "Nature": "Fire Alarm",
+        "Case Number": "2611724",
+        "Disposition": "JUDICIAL REFERRAL"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "600 WALKER ST",
+        "Nature": "Liquor, Other",
+        "Case Number": "2611725",
+        "Disposition": "CLEARED ADULT ARREST"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "149 GATEWAY DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611732",
         "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "149 GATEWAY DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611733",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "64 UNIVERSITY AVE",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2611734",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "212 S 6TH ST",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611735",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "Intimidation (Includes Stalking)",
+        "Case Number": "2611741",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "585 COLEMAN DR",
+        "Nature": "EXCESSIVE TICKETS",
+        "Case Number": "2611743",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "565 COLEMAN DR",
+        "Nature": "WELFARE CHECK",
+        "Case Number": "2611744",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/12/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Marijuana, Possession",
+        "Case Number": "2611751",
+        "Disposition": "JUDICIAL REFERRAL"
     }
 ]
