@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "11/13/2026",
+        "Time": "",
+        "Location": "527 Christy Mathewson Dr",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2611739",
+        "Disposition": ""
+    },
+    {
+        "Date": "11/13/2026",
+        "Time": "",
+        "Location": "537 VAUGHAN LIT DR",
+        "Nature": "Theft Other",
+        "Case Number": "2611762",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/13/2026",
+        "Time": "",
+        "Location": "701 MOORE AVE",
+        "Nature": "Shoplifting",
+        "Case Number": "2611796",
+        "Disposition": "JUDICIAL REFERRAL"
+    }
+]
