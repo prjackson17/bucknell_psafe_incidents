@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/14/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Liquor, Possess",
+        "Case Number": "2611839",
+        "Disposition": "UNDER INVESTIGATION"
+    },
+    {
+        "Date": "11/14/2026",
+        "Time": "",
+        "Location": "380 S 7TH ST",
+        "Nature": "POLICE INFORMATION",
+        "Case Number": "2611851",
+        "Disposition": "CLOSED RPT FILED"
+    }
+]
