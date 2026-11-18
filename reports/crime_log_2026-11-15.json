@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Date": "11/15/2026",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "Criminal Mischief",
+        "Case Number": "2611879",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/15/2026",
+        "Time": "",
+        "Location": "565 Coleman Dr",
+        "Nature": "Burning, Other",
+        "Case Number": "2611882",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/15/2026",
+        "Time": "",
+        "Location": "538 Saint George St",
+        "Nature": "Disorderly Conduct",
+        "Case Number": "2611864",
+        "Disposition": ""
+    }
+]
