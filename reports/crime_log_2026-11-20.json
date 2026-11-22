@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "Date": "11/20/2026",
+        "Time": "",
+        "Location": "525 Weis Dr",
+        "Nature": "Found Property",
+        "Case Number": "2612133",
+        "Disposition": "CLOSED RPT FILED"
+    },
+    {
+        "Date": "11/20/2026",
+        "Time": "",
+        "Location": "538 SAINT GEORGE ST",
+        "Nature": "Damaged Property, Vehicle",
+        "Case Number": "2612143",
+        "Disposition": "UNDER INVESTIGATION"
+    }
+]
